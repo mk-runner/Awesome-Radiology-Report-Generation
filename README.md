@@ -294,10 +294,11 @@ With all the resources available on the Github website, this paper list is compr
 - [**]()
 
 ## Tools
-[CXR-Report-Metric](https://github.com/rajpurkarlab/CXR-Report-Metric)
-[coco-caption](https://github.com/tylin/coco-caption)
-[f1chexbert](https://pypi.org/project/f1chexbert/)
-[radgraph](https://pypi.org/project/radgraph/)
+- [CXR-Report-Metric](https://github.com/rajpurkarlab/CXR-Report-Metric)
+- [coco-caption](https://github.com/tylin/coco-caption)
+- [f1chexbert](https://pypi.org/project/f1chexbert/)
+- [radgraph](https://pypi.org/project/radgraph/)
+
 
 ## Last update: Jun 7, 2024
 
