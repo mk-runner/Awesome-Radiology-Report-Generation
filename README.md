@@ -22,12 +22,14 @@ This paper list will be continuously updated at the end of each month.
 
 ## Survey
 
-- Human Action Recognition from Various Data Modalities: A Review (**TPAMI 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9795869)]
+- A Systematic Review of Deep Learning-based Research on Radiology Report Generation (**arXiv 2311**) [[paper](https://arxiv.org/abs/2311.14199)]
 
 ## Dataset
 - MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs (**MIMIC-CXR**)  [[paper](https://arxiv.org/abs/1901.07042)][[data](https://physionet.org/content/mimic-cxr/2.0.0/)].
 - Preparing a collection of radiology examinations for distribution and retrieval (**IU X-ray**) [[paper](https://academic.oup.com/jamia/article/23/2/304/2572395)][[data](https://openi.nlm.nih.gov/gridquery?q=pneumonia&it=xg&m=1&n=100)].
 - Learning Visual-Semantic Embeddings for Reporting Abnormal Findings on Chest X-rays (**MIMIC-ABN**) [[paper](https://aclanthology.org/2020.findings-emnlp.176/)][[code](https://github.com/nijianmo/chest-xray-cvse)]
+- An efficient but effective writer: Diffusion-based semi-autoregressive transformer for automated radiology report generation (**XRG-COVID-19**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010844)][[data](https://github.com/Report-Generation/XRG-COVID-19)].
+- HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction (**HistGen WSI**) [[paper](https://arxiv.org/abs/2403.05396)][[data](https://github.com/dddavid4real/HistGen)].
 
 ## Papers
 
@@ -74,13 +76,19 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - ** [[paper]()] [[code]()]
 
 **JBHI**
-- ** [[paper]()] [[code]()]
+- CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10400776)] [[code](https://github.com/Markin-Wang/CAMANet)]
+- TSGET: Two-Stage Global Enhanced Transformer for Automatic Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10381879)] [[code](https://github.com/Markin-Wang/CAMANet)]
+- CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10400776)] [[code](https://github.com/Markin-Wang/CAMANet)]
 
 **arXiv papers**
 - FITA: Fine-grained Image-Text Aligner for Radiology Report Generation [[paper](https://arxiv.org/abs/2405.00962)] [[code]]
 - GREEN: Generative Radiology Report Evaluation and Error Notation [[paper](https://arxiv.org/abs/2405.03595)] [[code]]
 - CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients [[paper](https://arxiv.org/abs/2405.19538)] [[code]]
 - Topicwise Separable Sentence Retrieval for Medical Report Generation [[paper](https://arxiv.org/abs/2405.04175)] [[code]]
+- Dia-LLaMA: Towards Large Language Model-driven CT Report Generation [[paper](https://arxiv.org/abs/2403.16386)] [[code]]
+- ICON: Improving Inter-Report Consistency of Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
+- CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging [[paper](https://arxiv.org/abs/2403.06801)] [[code](https://github.com/ibrahimethemhamamci/CT2Rep)]
+- 
 
 ### 2023
 
@@ -104,7 +112,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - ** [[paper]()] [[code]()]
 
 **ICASSP**
-- ** [[paper]()] [[code]()]
+- Improving Radiology Report Generation with D 2-Net: When Diffusion Meets Discriminator [[paper](https://ieeexplore.ieee.org/abstract/document/10448326)] [[code]]
   
 **MedIA**
 - ** [[paper]()] [[code]()]
@@ -125,24 +133,25 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - ** [[paper]()] [[code]()]
 
 **arXiv papers**
-- ** [[paper]()] [[code]()]
+- MAIRA-1: A specialised large multimodal model for radiology report generation [[paper](https://arxiv.org/abs/2311.13668)] [[code]]
 
 ### 2022
 
 **AAAI**
-- ** [[paper]()] [[code]()]
+- Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20204)] [[code]]
 
 **CVPR**
 - ** [[paper]()] [[code]()]
 
 **ACL**
-- ** [[paper]()] [[code]()]
+- Reinforced Cross-modal Alignment for Radiology Report Generation [[paper](https://aclanthology.org/2022.findings-acl.38/)] [[code](https://
+github.com/cuhksz-nlp/R2GenRL)]
 
 **EMNLP**
 - ** [[paper]()] [[code]()]
 
 **MICCAI**
-- ** [[paper]()] [[code]()]
+- A Medical Semantic-Assisted Transformer for Radiographic Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_63)] [[code](https://github.com/wang-zhanyu/MSAT)]
 
 **BIBM**
 - ** [[paper]()] [[code]()]
@@ -154,7 +163,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - ** [[paper]()] [[code]()]
 
 **TMI**
-- ** [[paper]()] [[code]()]
+- Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach [[paper](https://ieeexplore.ieee.org/document/9768661)] [[code]]
 
 **TCSVT**
 - ** [[paper]()] [[code]()]
@@ -220,7 +229,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 ### 2020
 
 **AAAI**
-- ** [[paper]()] [[code]()]
+- When Radiology Report Generation Meets Knowledge Graph [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6989)] [[code]]
 
 **CVPR**
 - ** [[paper]()] [[code]()]
