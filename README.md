@@ -24,6 +24,11 @@ This paper list will be continuously updated at the end of each month.
 
 - Human Action Recognition from Various Data Modalities: A Review (**TPAMI 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9795869)]
 
+## Dataset
+- MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs (**MIMIC-CXR**)  [[paper](https://arxiv.org/abs/1901.07042)][[data](https://physionet.org/content/mimic-cxr/2.0.0/)].
+- Preparing a collection of radiology examinations for distribution and retrieval (**IU X-ray**) [[paper](https://academic.oup.com/jamia/article/23/2/304/2572395)][[data](https://openi.nlm.nih.gov/gridquery?q=pneumonia&it=xg&m=1&n=100)].
+- Learning Visual-Semantic Embeddings for Reporting Abnormal Findings on Chest X-rays (**MIMIC-ABN**) [[paper](https://aclanthology.org/2020.findings-emnlp.176/)][[code](https://github.com/nijianmo/chest-xray-cvse)]
+
 ## Papers
 
 Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
@@ -36,53 +41,51 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Bootstrapping Large Language Models for Radiology Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29826)] [[code](https://github.com/synlp/R2-LLM)]
 
 **CVPR**
-- Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.06330.pdf)] [[code](https://github.com/KPeng9510/OS-SAR)]
+- ** [[paper]()] [[code]()]
 
 **ACL**
-- Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.06330.pdf)] [[code](https://github.com/KPeng9510/OS-SAR)]
+- ** [[paper]()] [[code]()]
 
 **EMNLP**
-- Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.06330.pdf)] [[code](https://github.com/KPeng9510/OS-SAR)]
+- ** [[paper]()] [[code]()]
 
 **MICCAI**
-- Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.06330.pdf)] [[code](https://github.com/KPeng9510/OS-SAR)]
+- ** [[paper]()] [[code]()]
 
 **BIBM**
-- Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.06330.pdf)] [[code](https://github.com/KPeng9510/OS-SAR)]
+- ** [[paper]()] [[code]()]
 
 **ICASSP**
-- Wavelet-Decoupling Contrastive Enhancement Network for Fine-Grained Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2402.02210.pdf)]
+- ** [[paper]()] [[code]()]
 
 **MedIA**
-- View-invariant Skeleton Action Representation Learning via Motion Retargeting [[paper](https://link.springer.com/article/10.1007/s11263-023-01967-8)] [[code](https://github.com/YangDi666/UNIK)]
+- ** [[paper]()] [[code]()]
 
 **TMI**
 - Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]()]
 
 **TCSVT**
-- Glimpse and Zoom: Spatio-Temporal Focused Dynamic Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10415064)]
+- ** [[paper]()] [[code]()]
 
 **TNNLS**
-- GRA: Graph Representation Alignment for Semi-Supervised Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10398229)]
+- ** [[paper]()] [[code]()]
 
 **TMM**
-- Spatiotemporal Progressive Inward-Outward Aggregation Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S003132032400013X)]
+- ** [[paper]()] [[code]()]
 
 **JBHI**
-- Spatiotemporal Progressive Inward-Outward Aggregation Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S003132032400013X)]
-
-**Neurocomputing**
-- Independent Dual Graph Attention Convolutional Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002674)]
+- ** [[paper]()] [[code]()]
 
 **arXiv papers**
 - FITA: Fine-grained Image-Text Aligner for Radiology Report Generation [[paper](https://arxiv.org/abs/2405.00962)] [[code]]
+- GREEN: Generative Radiology Report Evaluation and Error Notation [[paper](https://arxiv.org/abs/2405.03595)] [[code]]
+- CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients [[paper](https://arxiv.org/abs/2405.19538)] [[code]]
+- Topicwise Separable Sentence Retrieval for Medical Report Generation [[paper](https://arxiv.org/abs/2405.04175)] [[code]]
 
 ### 2023
 
 **AAAI**
-- Automatic Radiology Reports Generation via Memory Alignment Network [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28279)] [code]
-- PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28038)][[code]]
-- Bootstrapping Large Language Models for Radiology Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29826)] [[code](https://github.com/synlp/R2-LLM)]
+- ** [[paper]()] [[code]()]
 
 **CVPR**
 - KiUT: Knowledge-injected U-Transformer for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10203622)] [[code]]
@@ -95,45 +98,176 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning [[paper](https://aclanthology.org/2023.findings-emnlp.140/)] [[code](https://github.com/wjhou/Recap)]
 
 **MICCAI**
-- Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.06330.pdf)] [[code](https://github.com/KPeng9510/OS-SAR)]
+- ** [[paper]()] [[code]()]
 
 **BIBM**
-- Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.06330.pdf)] [[code](https://github.com/KPeng9510/OS-SAR)]
+- ** [[paper]()] [[code]()]
 
 **ICASSP**
-- Wavelet-Decoupling Contrastive Enhancement Network for Fine-Grained Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2402.02210.pdf)]
-
+- ** [[paper]()] [[code]()]
+  
 **MedIA**
-- View-invariant Skeleton Action Representation Learning via Motion Retargeting [[paper](https://link.springer.com/article/10.1007/s11263-023-01967-8)] [[code](https://github.com/YangDi666/UNIK)]
+- ** [[paper]()] [[code]()]
 
 **TMI**
 - Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]()]
 
 **TCSVT**
-- Glimpse and Zoom: Spatio-Temporal Focused Dynamic Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10415064)]
+- ** [[paper]()] [[code]()]
 
 **TNNLS**
-- GRA: Graph Representation Alignment for Semi-Supervised Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10398229)]
+- ** [[paper]()] [[code]()]
 
 **TMM**
 - From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10356722)] [[code]]
 
 **JBHI**
-- Spatiotemporal Progressive Inward-Outward Aggregation Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S003132032400013X)]
-
-**Neurocomputing**
-- Independent Dual Graph Attention Convolutional Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002674)]
+- ** [[paper]()] [[code]()]
 
 **arXiv papers**
-- A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/abs/2401.00409)]
-- GREEN: Generative Radiology Report Evaluation and Error Notation [[paper](https://arxiv.org/abs/2405.03595)] [[code]]
-- CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients [[paper](https://arxiv.org/abs/2405.19538)] [[code]]
+- ** [[paper]()] [[code]()]
+
+### 2022
+
+**AAAI**
+- ** [[paper]()] [[code]()]
+
+**CVPR**
+- ** [[paper]()] [[code]()]
+
+**ACL**
+- ** [[paper]()] [[code]()]
+
+**EMNLP**
+- ** [[paper]()] [[code]()]
+
+**MICCAI**
+- ** [[paper]()] [[code]()]
+
+**BIBM**
+- ** [[paper]()] [[code]()]
+
+**ICASSP**
+- ** [[paper]()] [[code]()]
+
+**MedIA**
+- ** [[paper]()] [[code]()]
+
+**TMI**
+- ** [[paper]()] [[code]()]
+
+**TCSVT**
+- ** [[paper]()] [[code]()]
+
+**TNNLS**
+- ** [[paper]()] [[code]()]
+  
+**TMM**
+- ** [[paper]()] [[code]()]
+
+**JBHI**
+- ** [[paper]()] [[code]()]
+
+
+**arXiv papers**
+- ** [[paper]()] [[code]()]
+
+### 2021
+
+**AAAI**
+- ** [[paper]()] [[code]()]
+
+**CVPR**
+- ** [[paper]()] [[code]()]
+
+**ACL**
+- ** [[paper]()] [[code]()]
+
+**EMNLP**
+- ** [[paper]()] [[code]()]
+
+**MICCAI**
+- ** [[paper]()] [[code]()]
+
+**BIBM**
+- ** [[paper]()] [[code]()]
+
+**ICASSP**
+- ** [[paper]()] [[code]()]
+
+**MedIA**
+- ** [[paper]()] [[code]()]
+
+**TMI**
+- ** [[paper]()] [[code]()]
+
+**TCSVT**
+- ** [[paper]()] [[code]()]
+
+**TNNLS**
+- ** [[paper]()] [[code]()]
+
+**TMM**
+- ** [[paper]()] [[code]()]
+
+**JBHI**
+- ** [[paper]()] [[code]()]
+
+
+**arXiv papers**
+- ** [[paper]()] [[code]()]
+
+### 2020
+
+**AAAI**
+- ** [[paper]()] [[code]()]
+
+**CVPR**
+- ** [[paper]()] [[code]()]
+
+**ACL**
+- ** [[paper]()] [[code]()]
+
+**EMNLP**
+- ** [[paper]()] [[code]()]
+
+**MICCAI**
+- ** [[paper]()] [[code]()]
+
+**BIBM**
+- ** [[paper]()] [[code]()]
+
+**ICASSP**
+- ** [[paper]()] [[code]()]
+  
+**MedIA**
+- ** [[paper]()] [[code]()]
+
+**TMI**
+- ** [[paper]()] [[code]()]
+
+**TCSVT**
+- ** [[paper]()] [[code]()]
+
+**TNNLS**
+- ** [[paper]()] [[code]()]
+
+**TMM**
+- ** [[paper]()] [[code]()]
+
+**JBHI**
+- ** [[paper]()] [[code]()]
+
+
+**arXiv papers**
+- ** [[paper]()] [[code]()]
+
 
 
 ## Other Resources
 With all the resources available on the Github website, this paper list is comprehensive and recently updated.
 
-- [niais/Awesome-Skeleton-based-Action-Recognition](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)
+- [**]()
 
 ## Last update: Mar 18, 2024
 
