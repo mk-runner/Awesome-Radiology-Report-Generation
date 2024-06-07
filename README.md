@@ -97,13 +97,17 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **CVPR**
 - KiUT: Knowledge-injected U-Transformer for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10203622)] [[code]]
-- 
+- Metransformer: Radiology report generation by transformer with multiple learnable expert tokens [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html)][[code]]
+- Metransformer: Radiology report generation by transformer with multiple learnable expert tokens [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html)][[code]]
 
 **ACL**
 - ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning [[paper](https://arxiv.org/abs/2306.06466)] [[code](https://github.com/wjhou/ORGan)]
 
 **EMNLP**
 - RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning [[paper](https://aclanthology.org/2023.findings-emnlp.140/)] [[code](https://github.com/wjhou/Recap)]
+- Normal-Abnormal Decoupling Memory for Medical Report Generation [[paper](https://aclanthology.org/2023.findings-emnlp.131/)] [[code](https://github.com/kzzjk/NADM)]
+- Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting [[paper](https://arxiv.org/abs/2310.17811)] [[code]]
+
 
 **MICCAI**
 - ** [[paper]()] [[code]()]
@@ -111,11 +115,15 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **BIBM**
 - ** [[paper]()] [[code]()]
 
+**ML4H**
+- Pragmatic Radiology Report Generation [[paper](https://proceedings.mlr.press/v225/nguyen23a.html)] [[code](https://github.com/ChicagoHAI/llm_radiology)]
+
 **ICASSP**
 - Improving Radiology Report Generation with D 2-Net: When Diffusion Meets Discriminator [[paper](https://ieeexplore.ieee.org/abstract/document/10448326)] [[code]]
   
 **MedIA**
-- ** [[paper]()] [[code]()]
+- Radiology report generation with a learned knowledge base and multi-modal alignment [[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000592)] [[code](https://github.com/LX-doctorAI1/M2KT)]
+
 
 **TMI**
 - Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]()]
@@ -160,7 +168,7 @@ github.com/cuhksz-nlp/R2GenRL)]
 - ** [[paper]()] [[code]()]
 
 **MedIA**
-- ** [[paper]()] [[code]()]
+- Knowledge matters: Chest radiology report generation with general and specific knowledge [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522001578)] [[code](https://github.com/LX-doctorAI1/GSKET)]
 
 **TMI**
 - Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach [[paper](https://ieeexplore.ieee.org/document/9768661)] [[code]]
@@ -190,10 +198,13 @@ github.com/cuhksz-nlp/R2GenRL)]
 - ** [[paper]()] [[code]()]
 
 **ACL**
-- ** [[paper]()] [[code]()]
+- Cross-modal Memory Networks for Radiology Report Generation [[paper](https://aclanthology.org/2021.acl-long.459/)] [[code](https://github.com/zhjohnchan/R2GenCMN)]
 
 **EMNLP**
-- ** [[paper]()] [[code]()]
+- Progressive Transformer-Based Generation of Radiology Reports [[paper](https://arxiv.org/pdf/2102.09777)] [[code](https://github.com/uzh-dqbm-cmi/ARGON)]
+  
+**NAACL**
+- Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation [[paper](https://aclanthology.org/2021.naacl-main.416/)] [[code](https://github.com/ysmiura/ifcc)]
 
 **MICCAI**
 - ** [[paper]()] [[code]()]
@@ -238,7 +249,7 @@ github.com/cuhksz-nlp/R2GenRL)]
 - ** [[paper]()] [[code]()]
 
 **EMNLP**
-- ** [[paper]()] [[code]()]
+- Generating Radiology Reports via Memory-driven Transformer [[paper](https://arxiv.org/abs/2010.16056)] [[code](https://github.com/zhjohnchan/R2Gen)]
 
 **MICCAI**
 - ** [[paper]()] [[code]()]
@@ -278,6 +289,6 @@ With all the resources available on the Github website, this paper list is compr
 
 - [**]()
 
-## Last update: Mar 18, 2024
+## Last update: Jun 7, 2024
 
 ## Feel free to contact me if you find any interesting papers are missing.
