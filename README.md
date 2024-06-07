@@ -50,7 +50,7 @@ This paper list will be continuously updated at the end of each month.
 - ** [[paper]()] [[code]()]
 
 **MICCAI'24**
-- ** [[paper]()] [[code]()]
+- Textual Inversion and Self-supervised Refinement for Radiology Report Generation [[paper](https://arxiv.org/pdf/2405.20607)] [[code]]
 
 **BIBM'24**
 - ** [[paper]()] [[code]()]
