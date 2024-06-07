@@ -35,50 +35,50 @@ This paper list will be continuously updated at the end of each month.
 
 ### 2024
 
-**AAAI**
+**AAAI'24**
 - Automatic Radiology Reports Generation via Memory Alignment Network [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28279)] [code]
 - PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28038)][[code]]
 - Bootstrapping Large Language Models for Radiology Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29826)] [[code](https://github.com/synlp/R2-LLM)]
 
-**CVPR**
+**CVPR'24**
 - ** [[paper]()] [[code]()]
 
-**ACL**
+**ACL'24**
 - ** [[paper]()] [[code]()]
 
-**EMNLP**
+**EMNLP'24**
 - ** [[paper]()] [[code]()]
 
-**MICCAI**
+**MICCAI'24**
 - ** [[paper]()] [[code]()]
 
-**BIBM**
+**BIBM'24**
 - ** [[paper]()] [[code]()]
 
-**ICASSP**
+**ICASSP'24**
 - ** [[paper]()] [[code]()]
 
-**MedIA**
+**MedIA'24**
 - ** [[paper]()] [[code]()]
 
-**TMI**
+**TMI'24**
 - Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]()]
 
-**TCSVT**
+**TCSVT'24**
 - ** [[paper]()] [[code]()]
 
-**TNNLS**
+**TNNLS'24**
 - ** [[paper]()] [[code]()]
 
-**TMM**
+**TMM'24**
 - ** [[paper]()] [[code]()]
 
-**JBHI**
+**JBHI'24**
 - CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10400776)] [[code](https://github.com/Markin-Wang/CAMANet)]
 - TSGET: Two-Stage Global Enhanced Transformer for Automatic Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10381879)] [[code](https://github.com/Markin-Wang/CAMANet)]
 - CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10400776)] [[code](https://github.com/Markin-Wang/CAMANet)]
 
-**arXiv papers**
+**arXiv papers'24**
 - Factual Serialization Enhancement: A Key Innovation for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2405.09586)] [[code](https://github.com/mk-runner/FSE)]
 - FITA: Fine-grained Image-Text Aligner for Radiology Report Generation [[paper](https://arxiv.org/abs/2405.00962)] [[code]]
 - GREEN: Generative Radiology Report Evaluation and Error Notation [[paper](https://arxiv.org/abs/2405.03595)] [[code]]
@@ -92,195 +92,195 @@ This paper list will be continuously updated at the end of each month.
 
 ### 2023
 
-**AAAI**
+**AAAI'23**
 - ** [[paper]()] [[code]()]
 
-**CVPR**
+**CVPR'23**
 - KiUT: Knowledge-injected U-Transformer for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10203622)] [[code]]
 - Metransformer: Radiology report generation by transformer with multiple learnable expert tokens [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html)][[code]]
 - Metransformer: Radiology report generation by transformer with multiple learnable expert tokens [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html)][[code]]
 - Dynamic Graph Enhanced Contrastive Learning for Chest X-Ray Report Generation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.html)] [[code](https://github.com/mlii0117/DCL)]
 
-**ACL**
+**ACL'23**
 - ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning [[paper](https://arxiv.org/abs/2306.06466)] [[code](https://github.com/wjhou/ORGan)]
 
-**EMNLP**
+**EMNLP'23**
 - RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning [[paper](https://aclanthology.org/2023.findings-emnlp.140/)] [[code](https://github.com/wjhou/Recap)]
 - Normal-Abnormal Decoupling Memory for Medical Report Generation [[paper](https://aclanthology.org/2023.findings-emnlp.131/)] [[code](https://github.com/kzzjk/NADM)]
 - Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting [[paper](https://arxiv.org/abs/2310.17811)] [[code]]
 
 
-**MICCAI**
+**MICCAI'23**
 - ** [[paper]()] [[code]()]
 
-**BIBM**
+**BIBM'23**
 - ** [[paper]()] [[code]()]
 
-**ML4H**
+**ML4H'23**
 - Pragmatic Radiology Report Generation [[paper](https://proceedings.mlr.press/v225/nguyen23a.html)] [[code](https://github.com/ChicagoHAI/llm_radiology)]
 
-**ICASSP**
+**ICASSP'23**
 - Improving Radiology Report Generation with D 2-Net: When Diffusion Meets Discriminator [[paper](https://ieeexplore.ieee.org/abstract/document/10448326)] [[code]]
   
-**MedIA**
+**MedIA'23**
 - Radiology report generation with a learned knowledge base and multi-modal alignment [[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000592)] [[code](https://github.com/LX-doctorAI1/M2KT)]
 
 
-**TMI**
+**TMI'23**
 - Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]()]
 
-**TCSVT**
+**TCSVT'23**
 - ** [[paper]()] [[code]()]
 
-**TNNLS**
+**TNNLS'23**
 - ** [[paper]()] [[code]()]
 
-**TMM**
+**TMM'23**
 - From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10356722)] [[code]]
 
-**JBHI**
+**JBHI'23**
 - ** [[paper]()] [[code]()]
 
-**arXiv papers**
+**arXiv papers'23**
 - MAIRA-1: A specialised large multimodal model for radiology report generation [[paper](https://arxiv.org/abs/2311.13668)] [[code]]
 
 ### 2022
 
-**AAAI**
+**AAAI'22**
 - Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20204)] [[code]]
 
-**CVPR**
+**CVPR'22**
 - ** [[paper]()] [[code]()]
 
-**ACL**
+**ACL'22**
 - Reinforced Cross-modal Alignment for Radiology Report Generation [[paper](https://aclanthology.org/2022.findings-acl.38/)] [[code](https://
 github.com/cuhksz-nlp/R2GenRL)]
 
-**EMNLP**
+**EMNLP'22**
 - ** [[paper]()] [[code]()]
 
-**MICCAI**
+**MICCAI'22**
 - A Medical Semantic-Assisted Transformer for Radiographic Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_63)] [[code](https://github.com/wang-zhanyu/MSAT)]
 
-**BIBM**
+**BIBM'22**
 - ** [[paper]()] [[code]()]
 
-**ICASSP**
+**ICASSP'22**
 - ** [[paper]()] [[code]()]
 
-**MedIA**
+**MedIA'22**
 - Knowledge matters: Chest radiology report generation with general and specific knowledge [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522001578)] [[code](https://github.com/LX-doctorAI1/GSKET)]
 
-**TMI**
+**TMI'22**
 - Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach [[paper](https://ieeexplore.ieee.org/document/9768661)] [[code]]
 
-**TCSVT**
+**TCSVT'22**
 - ** [[paper]()] [[code]()]
 
-**TNNLS**
+**TNNLS'22**
 - ** [[paper]()] [[code]()]
   
-**TMM**
+**TMM'22**
 - ** [[paper]()] [[code]()]
 
-**JBHI**
+**JBHI'22**
 - ** [[paper]()] [[code]()]
 
 
-**arXiv papers**
+**arXiv papers'22**
 - ** [[paper]()] [[code]()]
 
 ### 2021
 
-**AAAI**
+**AAAI'21**
 - ** [[paper]()] [[code]()]
 
-**CVPR**
+**CVPR'21**
 - ** [[paper]()] [[code]()]
 
-**ACL**
+**ACL'21**
 - Cross-modal Memory Networks for Radiology Report Generation [[paper](https://aclanthology.org/2021.acl-long.459/)] [[code](https://github.com/zhjohnchan/R2GenCMN)]
 
-**EMNLP**
+**EMNLP'21**
 - Progressive Transformer-Based Generation of Radiology Reports [[paper](https://arxiv.org/pdf/2102.09777)] [[code](https://github.com/uzh-dqbm-cmi/ARGON)]
   
-**NAACL**
+**NAACL'21**
 - Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation [[paper](https://aclanthology.org/2021.naacl-main.416/)] [[code](https://github.com/ysmiura/ifcc)]
 
-**MICCAI**
+**MICCAI'21**
 - ** [[paper]()] [[code]()]
 
-**BIBM**
+**BIBM'21**
 - ** [[paper]()] [[code]()]
 
-**ICASSP**
+**ICASSP'21**
 - ** [[paper]()] [[code]()]
 
-**MedIA**
+**MedIA'21**
 - ** [[paper]()] [[code]()]
 
-**TMI**
+**TMI'21**
 - ** [[paper]()] [[code]()]
 
-**TCSVT**
+**TCSVT'21**
 - ** [[paper]()] [[code]()]
 
-**TNNLS**
+**TNNLS'21**
 - ** [[paper]()] [[code]()]
 
-**TMM**
+**TMM'21**
 - ** [[paper]()] [[code]()]
 
-**JBHI**
+**JBHI'21**
 - ** [[paper]()] [[code]()]
 
 
-**arXiv papers**
+**arXiv papers'21**
 - ** [[paper]()] [[code]()]
 
 ### 2020
 
-**AAAI**
+**AAAI'20**
 - When Radiology Report Generation Meets Knowledge Graph [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6989)] [[code]]
 
-**CVPR**
+**CVPR'20**
 - ** [[paper]()] [[code]()]
 
-**ACL**
+**ACL'20**
 - ** [[paper]()] [[code]()]
 
-**EMNLP**
+**EMNLP'20**
 - Generating Radiology Reports via Memory-driven Transformer [[paper](https://arxiv.org/abs/2010.16056)] [[code](https://github.com/zhjohnchan/R2Gen)]
 
-**MICCAI**
+**MICCAI'20**
 - ** [[paper]()] [[code]()]
 
-**BIBM**
+**BIBM'20**
 - ** [[paper]()] [[code]()]
 
-**ICASSP**
+**ICASSP'20**
 - ** [[paper]()] [[code]()]
   
-**MedIA**
+**MedIA'20**
 - ** [[paper]()] [[code]()]
 
-**TMI**
+**TMI'20**
 - ** [[paper]()] [[code]()]
 
-**TCSVT**
+**TCSVT'20**
 - ** [[paper]()] [[code]()]
 
-**TNNLS**
+**TNNLS'20**
 - ** [[paper]()] [[code]()]
 
-**TMM**
+**TMM'20**
 - ** [[paper]()] [[code]()]
 
-**JBHI**
+**JBHI'20**
 - ** [[paper]()] [[code]()]
 
 
-**arXiv papers**
+**arXiv papers'20**
 - ** [[paper]()] [[code]()]
 
 
@@ -293,3 +293,4 @@ With all the resources available on the Github website, this paper list is compr
 ## Last update: Jun 7, 2024
 
 ## Feel free to contact me if you find any interesting papers are missing.
+email: kangliu422@gmail.com
