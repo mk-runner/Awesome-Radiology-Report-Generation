@@ -132,7 +132,7 @@ This paper list will be continuously updated at the end of each month.
 
 
 **TMI'23**
-- Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]()]
+- ** [[paper]()] [[code]()]
 
 **TCSVT'23**
 - ** [[paper]()] [[code]()]
