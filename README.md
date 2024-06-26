@@ -73,7 +73,11 @@ This paper list will be continuously updated at the end of each month.
 - ** [[paper]()] [[code]()]
 
 **TMI'24**
-- Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]()]
+- Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]]
+- SGT++: Improved Scene Graph-Guided Transformer for Surgical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10330637)][[code]]
+- PhraseAug: An Augmented Medical Report Generation Model with Phrasebook [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10560051)] [[code]]
+- Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10552817)] [[code](https://github.com/yangyan22/Token-Mixer)]
+
 
 **TCSVT'24**
 - ** [[paper]()] [[code]()]
@@ -139,6 +143,7 @@ This paper list will be continuously updated at the end of each month.
 
 **TMI'23**
 - ** [[paper]()] [[code]()]
+- Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/document/10045710)][[code]]
 
 **TCSVT'23**
 - ** [[paper]()] [[code]()]
@@ -164,8 +169,7 @@ This paper list will be continuously updated at the end of each month.
 - ** [[paper]()] [[code]()]
 
 **ACL'22**
-- Reinforced Cross-modal Alignment for Radiology Report Generation [[paper](https://aclanthology.org/2022.findings-acl.38/)] [[code](https://
-github.com/cuhksz-nlp/R2GenRL)]
+- Reinforced Cross-modal Alignment for Radiology Report Generation [[paper](https://aclanthology.org/2022.findings-acl.38/)] [[code](https://github.com/cuhksz-nlp/R2GenRL)]
 
 **EMNLP'22**
 - ** [[paper]()] [[code]()]
@@ -192,7 +196,7 @@ github.com/cuhksz-nlp/R2GenRL)]
 - ** [[paper]()] [[code]()]
   
 **TMM'22**
-- ** [[paper]()] [[code]()]
+- Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach [[paper](https://ieeexplore.ieee.org/document/9768661)] [[code]]
 
 **JBHI'22**
 - ** [[paper]()] [[code]()]
@@ -245,7 +249,6 @@ github.com/cuhksz-nlp/R2GenRL)]
 **JBHI'21**
 - ** [[paper]()] [[code]()]
 
-
 **arXiv papers'21**
 - ** [[paper]()] [[code]()]
 
@@ -297,8 +300,6 @@ github.com/cuhksz-nlp/R2GenRL)]
 
 
 ## Other Resources
-With all the resources available on the Github website, this paper list is comprehensive and recently updated.
-
 - [**]()
 
 ## Tools
@@ -308,7 +309,7 @@ With all the resources available on the Github website, this paper list is compr
 - [radgraph](https://pypi.org/project/radgraph/)
 
 
-## Last update: Jun 7, 2024
+## Last update: Jun 26, 2024
 
-## Feel free to contact me if you find any interesting papers are missing.
+## Feel free to contact me if you find any interesting papers missing.
 email: kangliu422@gmail.com
