@@ -150,7 +150,7 @@ This paper list will be continuously updated at the end of each month.
 
 
 **MICCAI'23**
-- ** [[paper]()] [[code]()]
+- Utilizing Longitudinal Chest X-Rays and Reports to Pre-Fill Radiology Reports [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_19)] [[code](https://github.com/CelestialShine/Longitudinal-Chest-X-Ray)]
 
 **BIBM'23**
 - ** [[paper]()] [[code]()]
