@@ -60,6 +60,10 @@ This paper list will be continuously updated at the end of each month.
 **ACL'24**
 - ** [[paper]()] [[code]()]
 
+**ECCV'24**
+- HERGen: Elevating Radiology Report Generation with Longitudinal Data [[paper](https://arxiv.org/pdf/2407.15158)] [[code](https://github.com/fuying-wang/HERGen)]
+- Contrastive Learning with Counterfactual Explanations for Radiology Report Generation [[paper](https://arxiv.org/abs/2407.14474)]
+
 **EMNLP'24**
 - ** [[paper]()] [[code]()]
 
@@ -118,6 +122,8 @@ This paper list will be continuously updated at the end of each month.
 - Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images [[paper](https://arxiv.org/pdf/2406.07146)]
 - The Impact of Auxiliary Patient Data on Automated Chest X-Ray Report Generation and How to Incorporate It [[paper](https://arxiv.org/pdf/2406.13181)]
 - Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary [[paper](https://arxiv.org/pdf/2406.13181)]
+- Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation [[paper](https://arxiv.org/pdf/2407.15268)]
+- Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary [[paper](https://arxiv.org/abs/2406.14500)]
 
 
 ### 2023
