@@ -93,12 +93,6 @@ This paper list will be continuously updated at the end of each month.
 - An Organ-aware Diagnosis Framework for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10579857)]
 - Attribute Prototype-guided Iterative Scene Graph for Explainable Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10587279)]
 
-**TCSVT'24**
-- ** [[paper]()] [[code]()]
-
-**TNNLS'24**
-- ** [[paper]()] [[code]()]
-
 **TMM'24**
 - Semi-Supervised Medical Report Generation via Graph-Guided Hybrid Feature Consistency [[paper](https://ieeexplore.ieee.org/document/10119200)] [[code]]
 - Multi-Level Objective Alignment Transformer for Fine-Grained Oral Panoramic X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/document/10443573)] [[code]]
@@ -106,7 +100,6 @@ This paper list will be continuously updated at the end of each month.
 **JBHI'24**
 - CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10400776)] [[code](https://github.com/Markin-Wang/CAMANet)]
 - TSGET: Two-Stage Global Enhanced Transformer for Automatic Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10381879)] [[code](https://github.com/Markin-Wang/CAMANet)]
-- 
 
 **Expert Systems with Applications'24**
 - CheXReport: A transformer-based architecture to generate chest X-ray reports suggestions [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424015112)][[code](https://github.com/felipezeiser/CheXReport)]
@@ -170,18 +163,11 @@ This paper list will be continuously updated at the end of each month.
 - ** [[paper]()] [[code]()]
 - Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/document/10045710)][[code]]
 
-**TCSVT'23**
-- ** [[paper]()] [[code]()]
-
-**TNNLS'23**
-- ** [[paper]()] [[code]()]
 
 **TMM'23**
 - From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10356722)] [[code]]
 - Joint Embedding of Deep Visual and Semantic Features for Medical Image Report Generation [[paper](https://ieeexplore.ieee.org/document/9606584)] [[code]]
 
-**JBHI'23**
-- ** [[paper]()] [[code]()]
 
 **arXiv papers'23**
 - MAIRA-1: A specialised large multimodal model for radiology report generation [[paper](https://arxiv.org/abs/2311.13668)] [[code]]
@@ -192,24 +178,15 @@ This paper list will be continuously updated at the end of each month.
 **AAAI'22**
 - Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20204)] [[code]]
 
-**CVPR'22**
-- ** [[paper]()] [[code]()]
 
 **ACL'22**
 - Reinforced Cross-modal Alignment for Radiology Report Generation [[paper](https://aclanthology.org/2022.findings-acl.38/)] [[code](https://github.com/cuhksz-nlp/R2GenRL)]
 
-**EMNLP'22**
-- ** [[paper]()] [[code]()]
 
 **MICCAI'22**
 - A Medical Semantic-Assisted Transformer for Radiographic Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_63)] [[code](https://github.com/wang-zhanyu/MSAT)]
 - CheXRelNet An Anatomy-Aware Model for Tracking Longitudinal Relationships Between Chest X-Rays [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_55)][[code](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_55)]
 
-**BIBM'22**
-- ** [[paper]()] [[code]()]
-
-**ICASSP'22**
-- ** [[paper]()] [[code]()]
 
 **MedIA'22**
 - Knowledge matters: Chest radiology report generation with general and specific knowledge [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522001578)] [[code](https://github.com/LX-doctorAI1/GSKET)]
@@ -217,29 +194,10 @@ This paper list will be continuously updated at the end of each month.
 **TMI'22**
 - Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach [[paper](https://ieeexplore.ieee.org/document/9768661)] [[code]]
 
-**TCSVT'22**
-- ** [[paper]()] [[code]()]
-
-**TNNLS'22**
-- ** [[paper]()] [[code]()]
-  
-**TMM'22**
-- ** [[paper]()] [[code]]
-
-**JBHI'22**
-- ** [[paper]()] [[code]()]
-
-
 **arXiv papers'22**
 - ** [[paper]()] [[code]()]
 
 ### 2021
-
-**AAAI'21**
-- ** [[paper]()] [[code]()]
-
-**CVPR'21**
-- ** [[paper]()] [[code]()]
 
 **ACL'21**
 - Cross-modal Memory Networks for Radiology Report Generation [[paper](https://aclanthology.org/2021.acl-long.459/)] [[code](https://github.com/zhjohnchan/R2GenCMN)]
@@ -250,81 +208,13 @@ This paper list will be continuously updated at the end of each month.
 **NAACL'21**
 - Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation [[paper](https://aclanthology.org/2021.naacl-main.416/)] [[code](https://github.com/ysmiura/ifcc)]
 
-**MICCAI'21**
-- ** [[paper]()] [[code]()]
-
-**BIBM'21**
-- ** [[paper]()] [[code]()]
-
-**ICASSP'21**
-- ** [[paper]()] [[code]()]
-
-**MedIA'21**
-- ** [[paper]()] [[code]()]
-
-**TMI'21**
-- ** [[paper]()] [[code]()]
-
-**TCSVT'21**
-- ** [[paper]()] [[code]()]
-
-**TNNLS'21**
-- ** [[paper]()] [[code]()]
-
-**TMM'21**
-- ** [[paper]()] [[code]()]
-
-**JBHI'21**
-- ** [[paper]()] [[code]()]
-
-**arXiv papers'21**
-- ** [[paper]()] [[code]()]
-
 ### 2020
 
 **AAAI'20**
 - When Radiology Report Generation Meets Knowledge Graph [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6989)] [[code]]
 
-**CVPR'20**
-- ** [[paper]()] [[code]()]
-
-**ACL'20**
-- ** [[paper]()] [[code]()]
-
 **EMNLP'20**
 - Generating Radiology Reports via Memory-driven Transformer [[paper](https://arxiv.org/abs/2010.16056)] [[code](https://github.com/zhjohnchan/R2Gen)]
-
-**MICCAI'20**
-- ** [[paper]()] [[code]()]
-
-**BIBM'20**
-- ** [[paper]()] [[code]()]
-
-**ICASSP'20**
-- ** [[paper]()] [[code]()]
-  
-**MedIA'20**
-- ** [[paper]()] [[code]()]
-
-**TMI'20**
-- ** [[paper]()] [[code]()]
-
-**TCSVT'20**
-- ** [[paper]()] [[code]()]
-
-**TNNLS'20**
-- ** [[paper]()] [[code]()]
-
-**TMM'20**
-- ** [[paper]()] [[code]()]
-
-**JBHI'20**
-- ** [[paper]()] [[code]()]
-
-
-**arXiv papers'20**
-- ** [[paper]()] [[code]()]
-
 
 
 ## Other Resources
