@@ -78,6 +78,7 @@ This paper list will be continuously updated at the end of each month.
 - Textual Inversion and Self-supervised Refinement for Radiology Report Generation [[paper](https://arxiv.org/pdf/2405.20607)] [[code]]
 - Structural Entities Extraction and Patient Indications Incorporation for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2405.14905)] [[code](https://github.com/mk-runner/SEI)]
 - CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging [[paper](https://arxiv.org/abs/2403.06801)] [[code](https://github.com/ibrahimethemhamamci/CT2Rep)]
+- WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole Slide Images [[paper](https://arxiv.org/abs/2311.16480)][[code](https://github.com/cpystan/Wsi-Caption)]
 
 **BIBM'24**
 - ** [[paper]()] [[code]()]
