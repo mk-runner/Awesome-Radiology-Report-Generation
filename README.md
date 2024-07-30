@@ -67,6 +67,12 @@ This paper list will be continuously updated at the end of each month.
 **ACL'24**
 - ** [[paper]()] [[code]()]
 
+**ACM MM'24**
+- Medical Report Generation via Multimodal Spatio-Temporal Fusion [[paper](https://openreview.net/pdf?id=XKs7DR9GAK)]
+- Diffusion Networks with Task-Specific Noise Control for Radiology Report Generation [[paper](https://openreview.net/pdf?id=kbdeQmw2ny)]
+- Divide and Conquer: Isolating Normal-Abnormal Attributes in Knowledge Graph-Enhanced Radiology Report Generation [[paper](https://openreview.net/forum?id=TuU8TQVOoj)]
+
+
 **ECCV'24**
 - HERGen: Elevating Radiology Report Generation with Longitudinal Data [[paper](https://arxiv.org/pdf/2407.15158)] [[code](https://github.com/fuying-wang/HERGen)]
 - Contrastive Learning with Counterfactual Explanations for Radiology Report Generation [[paper](https://arxiv.org/abs/2407.14474)]
