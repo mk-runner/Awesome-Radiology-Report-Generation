@@ -67,7 +67,7 @@ This paper list will be continuously updated at the end of each month.
 - InVERGe: Intelligent Visual Encoder for Bridging Modalities in Report Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Deria_InVERGe_Intelligent_Visual_Encoder_for_Bridging_Modalities_in_Report_Generation_CVPRW_2024_paper.pdf)][[code]( https://github.com/labsroy007/InVERGe)]
 
 **ACL'24**
-- ** [[paper]()] [[code]()]
+- DocLens: Multi-aspect Fine-grained Evaluation for Medical Text Generation [[paper](https://arxiv.org/abs/2311.09581)][[code](https://github.com/yiqingxyq/DocLens)]
 
 **ACM MM'24**
 - Medical Report Generation via Multimodal Spatio-Temporal Fusion [[paper](https://openreview.net/pdf?id=XKs7DR9GAK)]
