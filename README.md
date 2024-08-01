@@ -95,7 +95,7 @@ This paper list will be continuously updated at the end of each month.
 - ** [[paper]()] [[code]()]
 
 **MedIA'24**
-- ** [[paper]()] [[code]()]
+- From Vision to Text: A Comprehensive Review of Natural Image Captioning in Medical Diagnosis and Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001890)]
 
 **TMI'24**
 - Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]]
