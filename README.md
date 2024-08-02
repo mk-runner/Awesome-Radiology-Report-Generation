@@ -132,7 +132,7 @@ This paper list will be continuously updated at the end of each month.
 - The Impact of Auxiliary Patient Data on Automated Chest X-Ray Report Generation and How to Incorporate It [[paper](https://arxiv.org/pdf/2406.13181)][[code](https://anonymous.4open.science/r/anon-D83E/README.md)]
 - Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary [[paper](https://arxiv.org/pdf/2406.13181)]
 - Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation [[paper](https://arxiv.org/pdf/2407.15268)]
-- Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary [[paper](https://arxiv.org/abs/2406.14500)]
+- X-ray Made Simple: Radiology Report Generation and Evaluation with Layman's Terms [[paper](https://arxiv.org/abs/2406.17911)]
 
 
 ### 2023
