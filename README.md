@@ -237,9 +237,8 @@ This paper list will be continuously updated at the end of each month.
 - [coco-caption](https://github.com/tylin/coco-caption)
 - [f1chexbert](https://pypi.org/project/f1chexbert/)
 - [radgraph](https://pypi.org/project/radgraph/)
+- [mimic-cxr](https://github.com/MIT-LCP/mimic-cxr)
 
-
-## Last update: Jul 29, 2024
 
 ## Feel free to contact me if you find any interesting papers missing.
 email: kangliu422@gmail.com
