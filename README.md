@@ -14,6 +14,7 @@ This paper list will be continuously updated at the end of each month.
 - [Survey](#survey)
 - [Dataset](#Dataset)
 - [Metrics](#Metrics)
+- [Foundation Models](#Foundation Models (or Large Language Models) for Medicine)
 - [Papers](#papers)
   - [2024](#2024)
   - [2023](#2023)
@@ -51,6 +52,7 @@ This paper list will be continuously updated at the end of each month.
 - GREEN: Generative Radiology Report Evaluation and Error Notation [[paper](https://arxiv.org/pdf/2405.03595)][[code](https://github.com/Stanford-AIMI/GREEN)]
 - When Radiology Report Generation Meets Knowledge Graph (**MIRQI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6989)][[code](https://github.com/xiaosongwang/MIRQI)]
 - Evaluating progress in automatic chest X-ray radiology report generation (**RadCliQ**)[[paper](https://www.cell.com/patterns/fulltext/S2666-3899(23)00157-5)][[code](https://github.com/rajpurkarlab/CXR-Report-Metric)]
+- Evaluating GPT-4 on Impressions Generation in Radiology Reports (**Radiology**)[[paper](https://pubs.rsna.org/doi/full/10.1148/radiol.231259)]
 
 ## Foundation Models (or Large Language Models) for Medicine
 - CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (**arXiv'2401**) [[paper](https://stanford-aimi.github.io/chexagent.html)][[code](https://github.com/Stanford-AIMI/CheXagent)]
