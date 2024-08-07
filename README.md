@@ -14,7 +14,7 @@ This paper list will be continuously updated at the end of each month.
 - [Survey](#survey)
 - [Dataset](#Dataset)
 - [Metrics](#Metrics)
-- [Foundation Models for Medicine](#Foundation Models for Medicine)
+- [Foundation Models for Medicine](#Foundation-Models-for-Medicine)
 - [Papers](#papers)
   - [2024](#2024)
   - [2023](#2023)
