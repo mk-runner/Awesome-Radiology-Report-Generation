@@ -205,6 +205,8 @@ This paper list will be continuously updated at the end of each month.
 - A Medical Semantic-Assisted Transformer for Radiographic Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_63)] [[code](https://github.com/wang-zhanyu/MSAT)]
 - CheXRelNet An Anatomy-Aware Model for Tracking Longitudinal Relationships Between Chest X-Rays [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_55)][[code](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_55)]
 
+**Nature Machine Intelligence'22**
+- Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports [[paper](https://www.nature.com/articles/s42256-021-00425-9)][[code](https://github.com/funnyzhou/REFERS)]
 
 **MedIA'22**
 - Knowledge matters: Chest radiology report generation with general and specific knowledge [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522001578)] [[code](https://github.com/LX-doctorAI1/GSKET)]
