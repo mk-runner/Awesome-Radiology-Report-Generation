@@ -96,9 +96,6 @@ This paper list will be continuously updated at the end of each month.
 **BIBM'24**
 - ** [[paper]()] [[code]()]
 
-**ICASSP'24**
-- ** [[paper]()] [[code]()]
-
 **MedIA'24**
 - From Vision to Text: A Comprehensive Review of Natural Image Captioning in Medical Diagnosis and Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001890)]
 
