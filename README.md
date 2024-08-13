@@ -57,6 +57,7 @@ This paper list will be continuously updated at the end of each month.
 ## Foundation Models for Medicine
 - CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (**arXiv'2401**) [[paper](https://stanford-aimi.github.io/chexagent.html)][[code](https://github.com/Stanford-AIMI/CheXagent)]
 - XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models (**ACLW'24**)[[paper](https://aclanthology.org/2024.bionlp-1.35.pdf)][[code](https://github.com/mbzuai-oryx/XrayGPT)]
+- A generalist vision--language foundation model for diverse biomedical tasks (**Nature Medicine'24**)[[paper(https://www.nature.com/articles/s41591-024-03185-2)][[code](https://github.com/taokz/BiomedGPT)]
 
 ## Papers
 
