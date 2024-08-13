@@ -5,8 +5,6 @@
 
 We collect existing papers on radiology report generation published in prominent conferences and journals. 
 
-This paper list will be continuously updated at the end of each month. 
-
 
 ## Table of Contents
 
