@@ -77,6 +77,7 @@ We collect existing papers on radiology report generation published in prominent
 - SICAR at RRG2024: GPU Poor’s Guide to Radiology Report Generation [[paper](https://aclanthology.org/2024.bionlp-1.55.pdf)]
 - BiCAL: Bi-directional Contrastive Active Learning for Clinical Report Generation [[paper](https://aclanthology.org/2024.bionlp-1.25.pdf)]
 - CID at RRG24: Attempting in a Conditionally Initiated Decoding of Radiology Report Generation with Clinical Entities [[paper](https://aclanthology.org/2024.bionlp-1.49.pdf)]
+- RadGraph-XL: A Large-Scale Expert-Annotated Dataset for Entity and Relation Extraction from Radiology Reports [[paper](https://aclanthology.org/2024.findings-acl.765.pdf#page=10&zoom=100,401,596)]
 
 **ICLR'24**
 - LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation [[paper](https://arxiv.org/abs/2305.11490)][[code](https://github.com/hyn2028/llm-cxr)]
