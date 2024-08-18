@@ -57,6 +57,7 @@ We collect existing papers on radiology report generation published in prominent
 - CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (**arXiv'2401**) [[paper](https://stanford-aimi.github.io/chexagent.html)][[code](https://github.com/Stanford-AIMI/CheXagent)]
 - XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models (**ACLW'24**)[[paper](https://aclanthology.org/2024.bionlp-1.35.pdf)][[code](https://github.com/mbzuai-oryx/XrayGPT)]
 - A generalist vision--language foundation model for diverse biomedical tasks (**Nature Medicine'24**)[[paper](https://www.nature.com/articles/s41591-024-03185-2)][[code](https://github.com/taokz/BiomedGPT)]
+- GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition (**ICCV'21**)[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.pdf)][[code](https://github.com/marshuang80/gloria)]
 
 ## Papers
 
@@ -80,7 +81,6 @@ We collect existing papers on radiology report generation published in prominent
 - RadGraph-XL: A Large-Scale Expert-Annotated Dataset for Entity and Relation Extraction from Radiology Reports [[paper](https://aclanthology.org/2024.findings-acl.765.pdf#page=10&zoom=100,401,596)]
 - MLeVLM: Improve Multi-level Progressive Capabilities based on Multimodal Large Language Model for Medical Visual Question Answering [[paper](https://aclanthology.org/2024.findings-acl.296.pdf)][[code](https://github.com/RyannChenOO/MLeVLM)]
 - Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation [[paper](https://aclanthology.org/2024.acl-long.514.pdf)]
-- 
 
 **ICLR'24**
 - LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation [[paper](https://arxiv.org/abs/2305.11490)][[code](https://github.com/hyn2028/llm-cxr)]
