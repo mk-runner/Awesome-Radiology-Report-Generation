@@ -59,6 +59,7 @@ We collect existing papers on radiology report generation published in prominent
 - Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training (**ICML'24**) [[paper](https://arxiv.org/pdf/2405.19654)][[code](https://github.com/SVT-Yang/MedST)]
 - A generalist vision--language foundation model for diverse biomedical tasks (**Nature Medicine'24**)[[paper](https://www.nature.com/articles/s41591-024-03185-2)][[code](https://github.com/taokz/BiomedGPT)]
 - ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training (**arXiv'2311**)[[paper](https://arxiv.org/pdf/2312.13316)][[code](https://github.com/ToniChopp/ECAMP)]
+- CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training (**MICCAI'23**)[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_10)][[code](https://github.com/kakaobrain/cxr-clip)]
 - GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition (**ICCV'21**)[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.pdf)][[code](https://github.com/marshuang80/gloria)]
 
 ## Papers
