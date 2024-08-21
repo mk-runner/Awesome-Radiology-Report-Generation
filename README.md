@@ -42,6 +42,8 @@ We collect existing papers on radiology report generation published in prominent
 - MIMIC-Ext-MIMIC-CXR-VQA: A Complex, Diverse, And Large-Scale Visual Question Answering Dataset for Chest X-ray Images (**MIMIC-Ext-MIMIC-CXR-VQA**)[[code](https://github.com/baeseongsu/mimic-cxr-vqa)][[data](https://physionet.org/content/mimic-ext-mimic-cxr-vqa/1.0.0/MIMIC-Ext-MIMIC-CXR-VQA/)]
 - MS-CXR-T: Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing (**MS-CXR-T**)[[data](https://physionet.org/content/ms-cxr-t/1.0.0/)]
 - CAD-Chest: Comprehensive Annotation of Diseases based on MIMIC-CXR Radiology Report (**CAD-Chest**)[[data](https://physionet.org/content/cad-chest/1.0/)][[paper](https://ieeexplore.ieee.org/abstract/document/10632161)]
+- VinDr-CXR: An open dataset of chest X-rays with radiologist annotations (**VinDr-CXR**)[[data](https://physionet.org/content/vindr-cxr/1.0.0/)]
+- Chest ImaGenome Dataset (**ImaGenome**) [[data](https://physionet.org/content/chest-imagenome/1.0.0/)]
 
 ## Metrics
 - FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores (**arXiv'2405**) [[paper](https://arxiv.org/pdf/2405.20613)][[code](https://github.com/rajpurkarlab/FineRadScore)]
