@@ -158,6 +158,8 @@ We collect existing papers on radiology report generation published in prominent
 - X-ray Made Simple: Radiology Report Generation and Evaluation with Layman's Terms [[paper](https://arxiv.org/abs/2406.17911)]
 - Multi-modal vision-language model for generalizable annotation-free pathology localization and clinical diagnosis [[paper](https://arxiv.org/pdf/2401.02044)][[code](https://github.com/YH0517/AFLoc)]
 - Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation [[paper]](https://arxiv.org/pdf/2406.06496)]
+- R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation [[paper](https://arxiv.org/pdf/2408.09743)][[code](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/R2GenCSR)]
+
 
 
 ### 2023
@@ -208,6 +210,8 @@ We collect existing papers on radiology report generation published in prominent
 - From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10356722)] [[code]]
 - Joint Embedding of Deep Visual and Semantic Features for Medical Image Report Generation [[paper](https://ieeexplore.ieee.org/document/9606584)] [[code]]
 
+**Meta-Radiology'23**
+- R2gengpt: Radiology report generation with frozen llms [[paper](https://www.sciencedirect.com/science/article/pii/S2950162823000334#bib4)][[code](https://github.com/wang-zhanyu/R2GenGPT)]
 
 **arXiv papers'23**
 - MAIRA-1: A specialised large multimodal model for radiology report generation [[paper](https://arxiv.org/abs/2311.13668)] [[code]]
