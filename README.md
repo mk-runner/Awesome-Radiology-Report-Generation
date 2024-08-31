@@ -28,6 +28,7 @@ We collect existing papers on radiology report generation published in prominent
 - A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data (**arXiv 2405**) [[paper](https://arxiv.org/abs/2405.12833)]
 - Automated Radiology Report Generation: A Review of Recent Advances (**IEEE Reviews in Biomedical Engineering'24**) [[paper](https://ieeexplore.ieee.org/abstract/document/10545538)]
 - From Vision to Text: A Comprehensive Review of Natural Image Captioning in Medical Diagnosis and Radiology Report Generation (**Medical Image Analysis**)[[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001890)]
+- Automatic Medical Report Generation: Methods and Applications [[paper](https://arxiv.org/pdf/2408.13988)]
 
 ## Dataset
 - MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs (**MIMIC-CXR**)  [[paper](https://arxiv.org/abs/1901.07042)][[data](https://physionet.org/content/mimic-cxr/2.0.0/)].
@@ -160,6 +161,7 @@ We collect existing papers on radiology report generation published in prominent
 - Multi-modal vision-language model for generalizable annotation-free pathology localization and clinical diagnosis [[paper](https://arxiv.org/pdf/2401.02044)][[code](https://github.com/YH0517/AFLoc)]
 - Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation [[paper]](https://arxiv.org/pdf/2406.06496)]
 - R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation [[paper](https://arxiv.org/pdf/2408.09743)][[code](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/R2GenCSR)]
+- Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation [[paper](https://arxiv.org/pdf/2406.06496)]
 
 
 
