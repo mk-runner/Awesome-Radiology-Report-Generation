@@ -58,6 +58,7 @@ We collect existing papers on radiology report generation published in prominent
 - When Radiology Report Generation Meets Knowledge Graph (**MIRQI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6989)][[code](https://github.com/xiaosongwang/MIRQI)]
 - Evaluating progress in automatic chest X-ray radiology report generation (**RadCliQ**)[[paper](https://www.cell.com/patterns/fulltext/S2666-3899(23)00157-5)][[code](https://github.com/rajpurkarlab/CXR-Report-Metric)]
 - Evaluating GPT-4 on Impressions Generation in Radiology Reports (**Radiology**)[[paper](https://pubs.rsna.org/doi/full/10.1148/radiol.231259)]
+- ReXamine-Global: A Framework for Uncovering Inconsistencies in Radiology Report Generation Metrics (**arXiv'2408**)[[paper](https://arxiv.org/pdf/2408.16208)]
 
 ## Foundation Models for Medicine
 - CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (**arXiv'2401**) [[paper](https://stanford-aimi.github.io/chexagent.html)][[code](https://github.com/Stanford-AIMI/CheXagent)]
