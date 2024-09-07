@@ -166,6 +166,7 @@ We collect existing papers on radiology report generation published in prominent
 - R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation [[paper](https://arxiv.org/pdf/2408.09743)][[code](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/R2GenCSR)]
 - Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation [[paper](https://arxiv.org/pdf/2406.06496)]
 - M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation [[paper](https://arxiv.org/pdf/2408.16213)]
+- Medical Report Generation Is A Multi-label Classification Problem [[paper](https://arxiv.org/pdf/2409.00250)]
 
 
 
