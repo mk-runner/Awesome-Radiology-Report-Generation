@@ -173,6 +173,7 @@ We collect existing papers on radiology report generation published in prominent
 - KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models [[paper](https://arxiv.org/pdf/2409.05370)]
 - Democratizing MLLMs in Healthcare: TinyLLaVA-Med for Efficient Healthcare Diagnostics in Resource-Constrained Settings [[paper](https://arxiv.org/pdf/2409.12184)]
 - SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation [[paper](https://arxiv.org/pdf/2409.13321)]
+- Expert-level vision-language foundation model for real-world radiology and comprehensive evaluation [[paper](https://arxiv.org/pdf/2409.16183)]
 
 
 
