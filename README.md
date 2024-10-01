@@ -150,6 +150,9 @@ We collect existing papers on radiology report generation published in prominent
 **Academic Radiology'24**
 - Practical Evaluation of ChatGPT Performance for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1076633224004549)]
 
+**IEEE Transactions on Emerging Topics in Computational Intelligence'24**
+- End-to-End Clustering Enhanced Contrastive Learning for Radiology Reports Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10663478)]
+
 **arXiv papers'24**
 - Factual Serialization Enhancement: A Key Innovation for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2405.09586)] [[code](https://github.com/mk-runner/FSE)]
 - FITA: Fine-grained Image-Text Aligner for Radiology Report Generation [[paper](https://arxiv.org/abs/2405.00962)] [[code]]
