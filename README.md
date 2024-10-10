@@ -46,7 +46,7 @@ We collect existing papers on radiology report generation published in prominent
 - Chest ImaGenome Dataset (**ImaGenome**) [[data](https://physionet.org/content/chest-imagenome/1.0.0/)]
 - Interpretable medical image Visual Question Answering via multi-modal relationship graph learning (**Medical-CXR-VQA**) [[**MedIA'24**](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002044)][[code](https://github.com/Holipori/Medical-CXR-VQA)]
 - ReXPref-Prior: A MIMIC-CXR Preference Dataset for Reducing Hallucinated Prior Exams in Radiology Report Generation (**ReXPref-Prior**)[[data](https://www.physionet.org/content/rexpref-prior/1.0.0/)]
-- An open chest X-ray dataset with benchmarks for automatic radiology report generation in French (**CASIA-CXR**) [**NeuroComputing'24**] [[data](https://www.casia-cxr.net/)][[paper](https://www.sciencedirect.com/science/article/pii/S0925231224012499#aep-article-footnote-id1)]
+- An open chest X-ray dataset with benchmarks for automatic radiology report generation in French (**CASIA-CXR**) [**Neurocomputing'24**] [[data](https://www.casia-cxr.net/)][[paper](https://www.sciencedirect.com/science/article/pii/S0925231224012499#aep-article-footnote-id1)]
 - PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology (**WSI-VQA**)[**arXiv'2401**][[paper](https://pathmmu-benchmark.github.io/#/)][[data](https://huggingface.co/datasets/jamessyx/PathMMU)]
 
 ## Metrics
@@ -152,6 +152,7 @@ We collect existing papers on radiology report generation published in prominent
 - Improving radiology report generation with multi-grained abnormality prediction [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224008932)]
 - An open chest X-ray dataset with benchmarks for automatic radiology report generation in French [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224012499)][[data](https://www.casia-cxr.net/)]
 - Trust it or not: Confidence-guided automatic radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001450)]
+
 
 **Academic Radiology'24**
 - Practical Evaluation of ChatGPT Performance for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1076633224004549)]
