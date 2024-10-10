@@ -120,6 +120,9 @@ We collect existing papers on radiology report generation published in prominent
 **BIBM'24**
 - ** [[paper]()] [[code]()]
 
+**WACV'24**
+- Complex Organ Mask Guided Radiology Report Generation [[paper](https://arxiv.org/pdf/2311.02329)][[code](https://github.com/GaryGuTC/COMG_model)]
+
 **MedIA'24**
 - From Vision to Text: A Comprehensive Review of Natural Image Captioning in Medical Diagnosis and Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001890)]
 - Enhancing the vision–language foundation model with key semantic knowledge-emphasized report refinement [[paper](https://www.sciencedirect.com/science/article/pii/S136184152400224X)]
@@ -148,6 +151,7 @@ We collect existing papers on radiology report generation published in prominent
 **Neurocomputing'24**
 - Improving radiology report generation with multi-grained abnormality prediction [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224008932)]
 - An open chest X-ray dataset with benchmarks for automatic radiology report generation in French [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224012499)][[data](https://www.casia-cxr.net/)]
+- Trust it or not: Confidence-guided automatic radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001450)]
 
 **Academic Radiology'24**
 - Practical Evaluation of ChatGPT Performance for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1076633224004549)]
