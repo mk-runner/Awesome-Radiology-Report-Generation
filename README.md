@@ -189,6 +189,7 @@ We collect existing papers on radiology report generation published in prominent
 - SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation [[paper](https://arxiv.org/pdf/2409.13321)]
 - Expert-level vision-language foundation model for real-world radiology and comprehensive evaluation [[paper](https://arxiv.org/pdf/2409.16183)]
 - CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset [[paper](https://arxiv.org/pdf/2410.00448)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
+- 3D-CT-GPT: Generating 3D Radiology Reports through Integration of Large Vision-Language Models [[paper](https://arxiv.org/pdf/2409.19330)]
 
 
 
