@@ -120,6 +120,7 @@ We collect existing papers on radiology report generation published in prominent
 - HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction [[paper](https://arxiv.org/abs/2403.05396)][[data](https://github.com/dddavid4real/HistGen)].
 - Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_29)]
 - MRScore: Evaluating Medical Report with LLM-Based Reward System [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_27)]
+- Energy-Based Controllable Radiology Report Generation with Medical Knowledge [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_23)]
 
 **BIBM'24**
 - ** [[paper]()] [[code]()]
