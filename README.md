@@ -72,6 +72,7 @@ We collect existing papers on radiology report generation published in prominent
 - CXR-LLAVA: a multimodal large language model for interpreting chest X-ray images (**arXiv'2310**)[[paper](https://arxiv.org/pdf/2310.18341)][[code](https://github.com/ECOFRI/CXR_LLAVA)]
 - LLaVA-OneVision: Easy Visual Task Transfer (**arXiv'2408**)[[paper](https://arxiv.org/pdf/2408.03326)][[code](https://llava-vl.github.io/blog/2024-08-05-llava-onevision/)]
 - Advancing Medical Radiograph Representation Learning: A Hybrid Pre-training Paradigm with Multilevel Semantic Granularity (**arXiv'2410**) [[paper](https://arxiv.org/pdf/2410.00448)]
+- MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging (**arXiv'2410**)[[paper](https://arxiv.org/abs/2410.06542)]
 
 ## Papers
 
