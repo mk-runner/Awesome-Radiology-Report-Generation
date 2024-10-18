@@ -166,6 +166,7 @@ We collect existing papers on radiology report generation published in prominent
 **Academic Radiology'24**
 - Practical Evaluation of ChatGPT Performance for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1076633224004549)]
 
+
 **IEEE Transactions on Emerging Topics in Computational Intelligence'24**
 - End-to-End Clustering Enhanced Contrastive Learning for Radiology Reports Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10663478)]
 
@@ -247,6 +248,9 @@ We collect existing papers on radiology report generation published in prominent
 **TMM'23**
 - From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10356722)] [[code]]
 - Joint Embedding of Deep Visual and Semantic Features for Medical Image Report Generation [[paper](https://ieeexplore.ieee.org/document/9606584)] [[code]]
+
+**Radiology'23**
+- Leveraging GPT-4 for Post Hoc Transformation of Free-text Radiology Reports into Structured Reporting: A Multilingual Feasibility Study [[paper](https://pubs.rsna.org/doi/epdf/10.1148/radiol.230725)]
 
 **Meta-Radiology'23**
 - R2gengpt: Radiology report generation with frozen llms [[paper](https://www.sciencedirect.com/science/article/pii/S2950162823000334#bib4)][[code](https://github.com/wang-zhanyu/R2GenGPT)]
