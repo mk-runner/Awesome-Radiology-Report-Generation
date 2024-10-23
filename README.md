@@ -74,6 +74,7 @@ We collect existing papers on radiology report generation published in prominent
 - LLaVA-OneVision: Easy Visual Task Transfer (**arXiv'2408**)[[paper](https://arxiv.org/pdf/2408.03326)][[code](https://llava-vl.github.io/blog/2024-08-05-llava-onevision/)]
 - Advancing Medical Radiograph Representation Learning: A Hybrid Pre-training Paradigm with Multilevel Semantic Granularity (**arXiv'2410**) [[paper](https://arxiv.org/pdf/2410.00448)]
 - MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging (**arXiv'2410**)[[paper](https://arxiv.org/abs/2410.06542)]
+-  BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs (**ICLR'24**)[[paper](https://arxiv.org/pdf/2310.03320)][[code](https://github.com/RyanWangZf/BioBridge)]
 
 ## Papers
 
