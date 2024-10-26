@@ -131,6 +131,9 @@ We collect existing papers on radiology report generation published in prominent
 **BIBM'24**
 - ** [[paper]()] [[code]()]
 
+**CIKM'24**
+- CLR2G: Cross-modal Contrastive Learning on Radiology Report [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679668)]
+
 **WACV'24**
 - Complex Organ Mask Guided Radiology Report Generation [[paper](https://arxiv.org/pdf/2311.02329)][[code](https://github.com/GaryGuTC/COMG_model)]
 
@@ -140,7 +143,6 @@ We collect existing papers on radiology report generation published in prominent
 **MedIA'24**
 - From Vision to Text: A Comprehensive Review of Natural Image Captioning in Medical Diagnosis and Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001890)]
 - Enhancing the vision–language foundation model with key semantic knowledge-emphasized report refinement [[paper](https://www.sciencedirect.com/science/article/pii/S136184152400224X)]
-
 
 **TMI'24**
 - Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]]
@@ -161,6 +163,9 @@ We collect existing papers on radiology report generation published in prominent
 
 **Expert Systems with Applications'24**
 - CheXReport: A transformer-based architecture to generate chest X-ray reports suggestions [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424015112)][[code](https://github.com/felipezeiser/CheXReport)]
+
+**Knowledge-Based Systems'24**
+- Automatic medical report generation combining contrastive learning and feature difference [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124012644)]
 
 **Neurocomputing'24**
 - Improving radiology report generation with multi-grained abnormality prediction [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224008932)]
