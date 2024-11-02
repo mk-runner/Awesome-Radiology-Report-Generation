@@ -76,6 +76,7 @@ We collect existing papers on radiology report generation published in prominent
 - MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging (**arXiv'2410**)[[paper](https://arxiv.org/abs/2410.06542)]
 - BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs (**ICLR'24**)[[paper](https://arxiv.org/pdf/2310.03320)][[code](https://github.com/RyanWangZf/BioBridge)]
 
+
 ## Papers
 
 ### 2024
@@ -102,6 +103,9 @@ We collect existing papers on radiology report generation published in prominent
 **ICLR'24**
 - LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation [[paper](https://arxiv.org/abs/2305.11490)][[code](https://github.com/hyn2028/llm-cxr)]
 
+**NIPS'24**
+- BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays [[paper](https://arxiv.org/pdf/2410.21969)][[code](https://github.com/yangzhou12/BenchX)]
+
 **ACM MM'24**
 - Medical Report Generation via Multimodal Spatio-Temporal Fusion [[paper](https://openreview.net/pdf?id=XKs7DR9GAK)]
 - Diffusion Networks with Task-Specific Noise Control for Radiology Report Generation [[paper](https://openreview.net/pdf?id=kbdeQmw2ny)]
@@ -114,7 +118,6 @@ We collect existing papers on radiology report generation published in prominent
 
 **EMNLP'24**
 - ICON: Improving Inter-Report Consistency of Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
-- Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models [[paper](https://arxiv.org/pdf/2410.03176)][[code](https://github.com/Yufang-Liu/clip_hallucination)]
 
 **MICCAI'24**
 - Textual Inversion and Self-supervised Refinement for Radiology Report Generation [[paper](https://arxiv.org/pdf/2405.20607)] [[code]]
@@ -322,8 +325,9 @@ We collect existing papers on radiology report generation published in prominent
 
 
 ## Other Resources
-- Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing (**CVPR'23**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.pdf)
-[[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
+- Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing (**CVPR'23**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.pdf)[[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
+- Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models [[paper](https://arxiv.org/pdf/2410.03176)][[code](https://github.com/Yufang-Liu/clip_hallucination)]
+
 
 ## Tools
 - [CXR-Report-Metric](https://github.com/rajpurkarlab/CXR-Report-Metric)
