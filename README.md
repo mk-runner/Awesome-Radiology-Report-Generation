@@ -114,6 +114,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **EMNLP'24**
 - ICON: Improving Inter-Report Consistency of Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
+- Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models [[paper](https://arxiv.org/pdf/2410.03176)][[code](https://github.com/Yufang-Liu/clip_hallucination)]
 
 **MICCAI'24**
 - Textual Inversion and Self-supervised Refinement for Radiology Report Generation [[paper](https://arxiv.org/pdf/2405.20607)] [[code]]
