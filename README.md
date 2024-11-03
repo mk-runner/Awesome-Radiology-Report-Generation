@@ -221,6 +221,7 @@ We collect existing papers on radiology report generation published in prominent
 - Text-Enhanced Medical Visual Question Answering [[paper](https://cs231n.stanford.edu/2024/papers/text-enhanced-medical-visual-question-answering.pdf)]
 - MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models [[paper](arxiv.org/abs/2410.13085)][[code](https://github.com/richard-peng-xia/MMed-RAG)]
 - R2GEN-MAMBA:ASELECTIVESTATESPACEMODELFORRADIOLOGYREPORT GENERATION [[paper](https://arxiv.org/pdf/2410.18135)][[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
+- Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs[[paper](https://arxiv.org/abs/2408.14397)][[code](https://github.com/rajpurkarlab/ReXKG)]
 
 
 ### 2023
