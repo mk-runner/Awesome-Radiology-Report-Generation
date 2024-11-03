@@ -113,8 +113,10 @@ We collect existing papers on radiology report generation published in prominent
 - In-context Learning for Zero-shot Medical Report Generation [[paper](https://openreview.net/pdf?id=8zyG2eUgVE)]
 
 **ECCV'24**
-- HERGen: Elevating Radiology Report Generation with Longitudinal Data [[paper](https://arxiv.org/pdf/2407.15158)] [[code](https://github.com/fuying-wang/HERGen)]
+- HERGen: Elevating Radiology Report Generation with Longitudinal Data [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07209.pdf)] [[code](https://github.com/fuying-wang/HERGen)]
 - Contrastive Learning with Counterfactual Explanations for Radiology Report Generation [[paper](https://arxiv.org/abs/2407.14474)]
+- ChEX: Interactive Localization and Region Description in Chest X-rays[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03114.pdf)][[code](https://github.com/philip-mueller/chex)]
+- MedRAT: Unpaired Medical Report Generation via Auxiliary Tasks[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08947.pdf)][[code](https://github.com/eladhi/MedRAT)]
 
 **EMNLP'24**
 - ICON: Improving Inter-Report Consistency of Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
@@ -131,6 +133,7 @@ We collect existing papers on radiology report generation published in prominent
 - GMoD: Graph-driven Momentum Distillation Framework with Active Perception of Disease Severity for Radiology Report Generation [[paper](https://papers.miccai.org/miccai-2024/paper/1733_paper.pdf)][[code](https://github.com/xzp9999/GMoD-mian)]
 - TiBiX: Leveraging Temporal Information for Bidirectional X-ray and Report Generation (**MICCAI Workshop**)[[paper](https://arxiv.org/pdf/2403.13343)][[code](https://github.com/BioMedIA-MBZUAI/TiBiX)]
 - Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation [[paper](https://papers.miccai.org/miccai-2024/paper/1475_paper.pdf)]
+- KARGEN: Knowledge-Enhanced Automated Radiology Report Generation Using Large Language Models [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_36)][[code]()]
 
 **BIBM'24**
 - ** [[paper]()] [[code]()]
