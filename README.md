@@ -80,6 +80,8 @@ We collect existing papers on radiology report generation published in prominent
 ## Papers
 
 ### 2024
+**Nature Medicine**
+- Collaboration between clinicians and vision–language models in radiology report generation [[paper](Collaboration between clinicians and vision–language models in radiology report generation)]
 
 **AAAI'24**
 - Automatic Radiology Reports Generation via Memory Alignment Network [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28279)] [code]
