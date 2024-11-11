@@ -49,6 +49,7 @@ We collect existing papers on radiology report generation published in prominent
 - An open chest X-ray dataset with benchmarks for automatic radiology report generation in French (**CASIA-CXR**) [**Neurocomputing'24**] [[data](https://www.casia-cxr.net/)][[paper](https://www.sciencedirect.com/science/article/pii/S0925231224012499#aep-article-footnote-id1)]
 - PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology (**WSI-VQA**)[**arXiv'2401**][[paper](https://pathmmu-benchmark.github.io/#/)][[data](https://huggingface.co/datasets/jamessyx/PathMMU)]
 - MIMIC-Eye: Integrating MIMIC Datasets with REFLACX and Eye Gaze for Multimodal Deep Learning Applications (**MIMIC-Eye**)[[data](https://physionet.org/content/mimic-eye-multimodal-datasets/1.0.0/#files-panel)][[code](https://github.com/ChihchengHsieh/MIMIC-Eye)]
+- PadChest-GR: A Bilingual Chest X-ray Dataset for Grounded Radiology Report Generation (**PadChest-GR**)[[data](https://bimcv.cipf.es/bimcv-projects/padchest-gr/)][[paper](https://arxiv.org/pdf/2411.05085v1)]
 
 ## Metrics
 - FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores (**arXiv'2405**) [[paper](https://arxiv.org/pdf/2405.20613)][[code](https://github.com/rajpurkarlab/FineRadScore)]
