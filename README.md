@@ -123,6 +123,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **EMNLP'24**
 - ICON: Improving Inter-Report Consistency of Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
+- Divide and Conquer Radiology Report Generation via Observation Level Fine-grained Pretraining and Prompt Tuning [[paper](https://aclanthology.org/2024.emnlp-main.433.pdf)]
 
 **MICCAI'24**
 - Textual Inversion and Self-supervised Refinement for Radiology Report Generation [[paper](https://arxiv.org/pdf/2405.20607)] [[code]]
