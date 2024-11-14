@@ -191,6 +191,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **Radiology'24**
 - Constructing a Large Language Model to Generate Impressions from Findings in Radiology Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240885)]
+- Comparing Commercial and Open-Source Large Language Models for Labeling Chest Radiograph Reports [[paper](https://pubs.rsna.org/doi/epdf/10.1148/radiol.241139)]
 
 
 **IEEE Transactions on Emerging Topics in Computational Intelligence'24**
@@ -226,6 +227,8 @@ We collect existing papers on radiology report generation published in prominent
 - MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models [[paper](arxiv.org/abs/2410.13085)][[code](https://github.com/richard-peng-xia/MMed-RAG)]
 - R2GEN-MAMBA:ASELECTIVESTATESPACEMODELFORRADIOLOGYREPORT GENERATION [[paper](https://arxiv.org/pdf/2410.18135)][[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
 - Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs[[paper](https://arxiv.org/abs/2408.14397)][[code](https://github.com/rajpurkarlab/ReXKG)]
+- Diff-CXR: Report-to-CXR generation through a disease-knowledge enhanced diffusion model [[paper](https://arxiv.org/pdf/2410.20165)]
+- FINE-GRAINED VERIFIERS: PREFERENCE MODELING AS NEXT-TOKEN PREDICTION IN VISION-LANGUAGE ALIGNMENT [[paper](https://arxiv.org/pdf/2410.14148)]
 
 
 ### 2023
