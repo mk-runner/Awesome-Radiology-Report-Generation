@@ -230,6 +230,7 @@ We collect existing papers on radiology report generation published in prominent
 - Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs[[paper](https://arxiv.org/abs/2408.14397)][[code](https://github.com/rajpurkarlab/ReXKG)]
 - Diff-CXR: Report-to-CXR generation through a disease-knowledge enhanced diffusion model [[paper](https://arxiv.org/pdf/2410.20165)]
 - FINE-GRAINED VERIFIERS: PREFERENCE MODELING AS NEXT-TOKEN PREDICTION IN VISION-LANGUAGE ALIGNMENT [[paper](https://arxiv.org/pdf/2410.14148)]
+- Decoding Report Generators: A Cyclic Vision-Language Adapter for Counterfactual Explanations [[paper](https://arxiv.org/pdf/2411.05261)]
 
 
 ### 2023
