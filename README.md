@@ -109,6 +109,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **NIPS'24**
 - BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays [[paper](https://arxiv.org/pdf/2410.21969)][[code](https://github.com/yangzhou12/BenchX)]
+- JRadiEvo: A Japanese Radiology Report Generation Model Enhanced by Evolutionary Optimization of Model Merging (**NIPS Workshop**)[[paper](https://arxiv.org/pdf/2411.09933)]
 
 **ACM MM'24**
 - Medical Report Generation via Multimodal Spatio-Temporal Fusion [[paper](https://openreview.net/pdf?id=XKs7DR9GAK)]
@@ -148,6 +149,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **WACV'24**
 - Complex Organ Mask Guided Radiology Report Generation [[paper](https://arxiv.org/pdf/2311.02329)][[code](https://github.com/GaryGuTC/COMG_model)]
+- CXR-IRGen: An Integrated Vision and Language Model for the Generation of Clinically Accurate Chest X-Ray Image-Report Pairs [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Shentu_CXR-IRGen_An_Integrated_Vision_and_Language_Model_for_the_Generation_WACV_2024_paper.html)][[code](https://github.com/junjie-shentu/CXR-IRGen)]
 
 **ACCV'24**
 - FG-CXR: A Radiologist-Aligned Gaze Dataset for Enhancing Interpretability in Chest X-Ray Report Generation [[paper](https://vision.csee.wvu.edu/publications/phamHBPPADNWNL24accv.pdf)]
