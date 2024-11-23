@@ -234,6 +234,7 @@ We collect existing papers on radiology report generation published in prominent
 - FINE-GRAINED VERIFIERS: PREFERENCE MODELING AS NEXT-TOKEN PREDICTION IN VISION-LANGUAGE ALIGNMENT [[paper](https://arxiv.org/pdf/2410.14148)]
 - Decoding Report Generators: A Cyclic Vision-Language Adapter for Counterfactual Explanations [[paper](https://arxiv.org/pdf/2411.05261)]
 - MCL: Multi-view Enhanced Contrastive Learning for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2411.10224)][[code](https://github.com/mk-runner/MCL)]
+- Anatomy-Guided Radiology Report Generation with Pathology-Aware Regional Prompts [[paper](https://arxiv.org/pdf/2411.10789)]
 
 
 ### 2023
