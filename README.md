@@ -237,6 +237,8 @@ We collect existing papers on radiology report generation published in prominent
 - Anatomy-Guided Radiology Report Generation with Pathology-Aware Regional Prompts [[paper](https://arxiv.org/pdf/2411.10789)]
 - MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models [[paper](https://arxiv.org/pdf/2411.11362)]
 - TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Model [[paper](https://arxiv.org/abs/2408.12141)]
+- VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge [[paper](https://arxiv.org/pdf/2411.12915)]
+- ORID: Organ-Regional Information Driven Framework for Radiology Report Generation [[paper](https://arxiv.org/pdf/2411.13025)]
 
 
 
