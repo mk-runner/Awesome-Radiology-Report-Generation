@@ -110,6 +110,7 @@ We collect existing papers on radiology report generation published in prominent
 **NIPS'24**
 - BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays [[paper](https://arxiv.org/pdf/2410.21969)][[code](https://github.com/yangzhou12/BenchX)]
 - JRadiEvo: A Japanese Radiology Report Generation Model Enhanced by Evolutionary Optimization of Model Merging (**NIPS Workshop**)[[paper](https://arxiv.org/pdf/2411.09933)]
+- Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling (**NIPS Workshop**)[[paper](https://openreview.net/forum?id=1oDKH0lox4)]
 
 **ACM MM'24**
 - Medical Report Generation via Multimodal Spatio-Temporal Fusion [[paper](https://openreview.net/pdf?id=XKs7DR9GAK)]
