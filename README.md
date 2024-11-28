@@ -241,6 +241,8 @@ We collect existing papers on radiology report generation published in prominent
 - VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge [[paper](https://arxiv.org/pdf/2411.12915)]
 - ORID: Organ-Regional Information Driven Framework for Radiology Report Generation [[paper](https://arxiv.org/pdf/2411.13025)]
 - ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation [[paper](https://arxiv.org/pdf/2411.15122)][[code](https://arxiv.org/pdf/2411.15122)]
+- Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs [[paper](https://arxiv.org/pdf/2408.14397)][[code](https://github.com/rajpurkarlab/ReXKG)]
+
 
 
 ### 2023
