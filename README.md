@@ -115,7 +115,7 @@ We collect existing papers on radiology report generation published in prominent
 **ACM MM'24**
 - Medical Report Generation via Multimodal Spatio-Temporal Fusion [[paper](https://openreview.net/pdf?id=XKs7DR9GAK)]
 - Diffusion Networks with Task-Specific Noise Control for Radiology Report Generation [[paper](https://openreview.net/pdf?id=kbdeQmw2ny)]
-- Divide and Conquer: Isolating Normal-Abnormal Attributes in Knowledge Graph-Enhanced Radiology Report Generation [[paper](https://openreview.net/forum?id=TuU8TQVOoj)]
+- Divide and Conquer: Isolating Normal-Abnormal Attributes in Knowledge Graph-Enhanced Radiology Report Generation [[paper](https://openreview.net/forum?id=TuU8TQVOoj)][[code](https://github.com/ecoxial2007/DCG_Enhanced_distilGPT2)]
 - In-context Learning for Zero-shot Medical Report Generation [[paper](https://openreview.net/pdf?id=8zyG2eUgVE)]
 
 **ECCV'24**
