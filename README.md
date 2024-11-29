@@ -243,6 +243,9 @@ We collect existing papers on radiology report generation published in prominent
 - ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation [[paper](https://arxiv.org/pdf/2411.15122)][[code](https://arxiv.org/pdf/2411.15122)]
 - Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs [[paper](https://arxiv.org/pdf/2408.14397)][[code](https://github.com/rajpurkarlab/ReXKG)]
 - LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation [[paper](https://arxiv.org/pdf/2411.16523)]
+- Large Language Model with Region-guided Referring and Grounding for CT Report Generation [[[paper](https://arxiv.org/pdf/2411.15539)]
+- Improving Factuality of 3D Brain MRI Report Generation with Paired Image-domain Retrieval and Text-domain Augmentation [[paper](https://arxiv.org/pdf/2411.15490)]
+
 
 
 
