@@ -170,6 +170,7 @@ We collect existing papers on radiology report generation published in prominent
 - An Organ-aware Diagnosis Framework for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10579857)]
 - Attribute Prototype-guided Iterative Scene Graph for Explainable Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10587279)]
 - A New Benchmark: Clinical Uncertainty and Severity Aware Labeled Chest X-Ray Images with Multi-Relationship Graph Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10632161)]
+- LHR-RFL: Linear Hybrid-Reward based Reinforced Focal Learning for Automatic Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10769570)]
 
 **TMM'24**
 - Semi-Supervised Medical Report Generation via Graph-Guided Hybrid Feature Consistency [[paper](https://ieeexplore.ieee.org/document/10119200)] [[code]]
@@ -247,6 +248,7 @@ We collect existing papers on radiology report generation published in prominent
 - LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation [[paper](https://arxiv.org/pdf/2411.16523)]
 - Large Language Model with Region-guided Referring and Grounding for CT Report Generation [[[paper](https://arxiv.org/pdf/2411.15539)]
 - Improving Factuality of 3D Brain MRI Report Generation with Paired Image-domain Retrieval and Text-domain Augmentation [[paper](https://arxiv.org/pdf/2411.15490)]
+- MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement [[paper](https://arxiv.org/pdf/2411.18309)]
 
 
 
