@@ -45,6 +45,7 @@ We collect existing papers on radiology report generation published in prominent
 - VinDr-CXR: An open dataset of chest X-rays with radiologist annotations (**VinDr-CXR**)[[data](https://physionet.org/content/vindr-cxr/1.0.0/)]
 - Chest ImaGenome Dataset (**ImaGenome**) [[data](https://physionet.org/content/chest-imagenome/1.0.0/)]
 - Interpretable medical image Visual Question Answering via multi-modal relationship graph learning (**Medical-CXR-VQA**) [[**MedIA'24**](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002044)][[code](https://github.com/Holipori/Medical-CXR-VQA)]
+- Medical-Diff-VQA: A Large-Scale Medical Dataset for Difference Visual Question Answering on Chest X-Ray Images (**Medical-Diff-VQA**) [[data](https://physionet.org/content/medical-diff-vqa/1.0.0/)][[code](https://github.com/Holipori/MIMIC-Diff-VQA)]
 - ReXPref-Prior: A MIMIC-CXR Preference Dataset for Reducing Hallucinated Prior Exams in Radiology Report Generation (**ReXPref-Prior**)[[data](https://www.physionet.org/content/rexpref-prior/1.0.0/)]
 - An open chest X-ray dataset with benchmarks for automatic radiology report generation in French (**CASIA-CXR**) [**Neurocomputing'24**] [[data](https://www.casia-cxr.net/)][[paper](https://www.sciencedirect.com/science/article/pii/S0925231224012499#aep-article-footnote-id1)]
 - PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology (**WSI-VQA**)[**arXiv'2401**][[paper](https://pathmmu-benchmark.github.io/#/)][[data](https://huggingface.co/datasets/jamessyx/PathMMU)]
