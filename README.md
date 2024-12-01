@@ -51,6 +51,7 @@ We collect existing papers on radiology report generation published in prominent
 - MIMIC-Eye: Integrating MIMIC Datasets with REFLACX and Eye Gaze for Multimodal Deep Learning Applications (**MIMIC-Eye**)[[data](https://physionet.org/content/mimic-eye-multimodal-datasets/1.0.0/#files-panel)][[code](https://github.com/ChihchengHsieh/MIMIC-Eye)]
 - PadChest-GR: A Bilingual Chest X-ray Dataset for Grounded Radiology Report Generation (**PadChest-GR**)[[data](https://bimcv.cipf.es/bimcv-projects/padchest-gr/)][[paper](https://arxiv.org/pdf/2411.05085v1)]
 - GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis (**GEMeX**)[[paper](https://arxiv.org/pdf/2411.16778)][[project](https://huggingface.co/datasets/BoKelvin/GEMeX)]
+- Computed-Tomography-Report-Generation-Datasets (CTRG), including CTRG-Brain-263K and CTRG-Chest-548K [[data](https://github.com/tangyuhao2016/CTRG)]
 
 ## Metrics
 - FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores (**arXiv'2405**) [[paper](https://arxiv.org/pdf/2405.20613)][[code](https://github.com/rajpurkarlab/FineRadScore)]
