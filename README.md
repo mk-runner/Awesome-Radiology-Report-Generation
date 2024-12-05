@@ -166,6 +166,7 @@ We collect existing papers on radiology report generation published in prominent
 - From Vision to Text: A Comprehensive Review of Natural Image Captioning in Medical Diagnosis and Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001890)]
 - Enhancing the vision–language foundation model with key semantic knowledge-emphasized report refinement [[paper](https://www.sciencedirect.com/science/article/pii/S136184152400224X)]
 - DACG: Dual Attention and Context Guidance Model for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524003025)][[code](https://github.com/LangWY/DACG)]
+- Dual-Modality Visual Feature Flow for Medical Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524003384)]
 
 **TMI'24**
 - Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10458706)] [[code]]
