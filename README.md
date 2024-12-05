@@ -68,6 +68,7 @@ We collect existing papers on radiology report generation published in prominent
 - ReXamine-Global: A Framework for Uncovering Inconsistencies in Radiology Report Generation Metrics (**arXiv'2408**)[[paper](https://arxiv.org/pdf/2408.16208)]
 - MRScore: Evaluating Medical Report with LLM-Based Reward System (**MICAAI'24**) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_27)]
 - ER2Score: LLM-based Explainable and Customizable Metric for Assessing Radiology Reports with Reward-Control Loss (**arXiv'2411**)[[paper](https://arxiv.org/pdf/2411.17301)]
+- FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models (**arXiv'2411**)[[paper](https://arxiv.org/pdf/2411.18672)]
 
 ## Foundation Models for Medicine
 - CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (**arXiv'2401**) [[paper](https://stanford-aimi.github.io/chexagent.html)][[code](https://github.com/Stanford-AIMI/CheXagent)]
@@ -253,6 +254,7 @@ We collect existing papers on radiology report generation published in prominent
 - Large Language Model with Region-guided Referring and Grounding for CT Report Generation [[[paper](https://arxiv.org/pdf/2411.15539)]
 - Improving Factuality of 3D Brain MRI Report Generation with Paired Image-domain Retrieval and Text-domain Augmentation [[paper](https://arxiv.org/pdf/2411.15490)]
 - MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement [[paper](https://arxiv.org/pdf/2411.18309)]
+- Libra: Leveraging Temporal Images for Biomedical Radiology Analysis [[paper](https://arxiv.org/pdf/2411.19378)]
 
 
 
