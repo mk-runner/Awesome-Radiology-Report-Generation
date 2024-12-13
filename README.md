@@ -259,6 +259,9 @@ We collect existing papers on radiology report generation published in prominent
 - Improving Factuality of 3D Brain MRI Report Generation with Paired Image-domain Retrieval and Text-domain Augmentation [[paper](https://arxiv.org/pdf/2411.15490)]
 - MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement [[paper](https://arxiv.org/pdf/2411.18309)]
 - Libra: Leveraging Temporal Images for Biomedical Radiology Analysis [[paper](https://arxiv.org/pdf/2411.19378)]
+- MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware  Multimodal Preference Optimization [[paper](https://arxiv.org/pdf/2412.06141)][[code](https://github.com/aiming-lab/MMedPO)]
+- Semantic Consistency-Based Uncertainty Quantification for Factuality in Radiology Report Generation [[paper](https://arxiv.org/pdf/2412.04606)]
+- Foundation Models in Radiology: What, How, When, Why and Why Not [[paper](https://arxiv.org/pdf/2411.18730)]
 
 
 
