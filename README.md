@@ -162,6 +162,9 @@ We collect existing papers on radiology report generation published in prominent
 **ACCV'24**
 - FG-CXR: A Radiologist-Aligned Gaze Dataset for Enhancing Interpretability in Chest X-Ray Report Generation [[paper](https://vision.csee.wvu.edu/publications/phamHBPPADNWNL24accv.pdf)][[code](https://github.com/UARK-AICV/FG-CXR)]
 
+**ML4H'24**
+- MedAutoCorrect: Image-Conditioned Autocorrection in Medical Reporting [[paper](https://arxiv.org/abs/2412.02971)]
+
 **MedIA'24**
 - From Vision to Text: A Comprehensive Review of Natural Image Captioning in Medical Diagnosis and Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001890)]
 - Enhancing the vision–language foundation model with key semantic knowledge-emphasized report refinement [[paper](https://www.sciencedirect.com/science/article/pii/S136184152400224X)]
