@@ -89,6 +89,7 @@ We collect existing papers on radiology report generation published in prominent
 ## Papers
 ### 2025
 **AAAI'25**
+- Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
 
 ### 2024
 **Nature Medicine**
