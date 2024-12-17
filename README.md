@@ -183,6 +183,7 @@ We collect existing papers on radiology report generation published in prominent
 - Attribute Prototype-guided Iterative Scene Graph for Explainable Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10587279)]
 - A New Benchmark: Clinical Uncertainty and Severity Aware Labeled Chest X-Ray Images with Multi-Relationship Graph Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10632161)]
 - LHR-RFL: Linear Hybrid-Reward based Reinforced Focal Learning for Automatic Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10769570)]
+- Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10798513)][[code](https://github.com/jinghanSunn/CoE-DG)]
 
 **TMM'24**
 - Semi-Supervised Medical Report Generation via Graph-Guided Hybrid Feature Consistency [[paper](https://ieeexplore.ieee.org/document/10119200)] [[code]]
