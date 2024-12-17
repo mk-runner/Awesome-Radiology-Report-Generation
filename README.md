@@ -60,7 +60,7 @@ We collect existing papers on radiology report generation published in prominent
 - FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores (**arXiv'2405**) [[paper](https://arxiv.org/pdf/2405.20613)][[code](https://github.com/rajpurkarlab/FineRadScore)]
 - FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation (**EMNLP'23**) [[paper](https://arxiv.org/abs/2305.14251)][[code](https://github.com/shmsw25/FActScore?tab=readme-ov-file)]
 - DocLens: Multi-aspect Fine-grained Evaluation for Medical Text Generation (**ACL'24**) [[paper](https://arxiv.org/abs/2311.09581)][[code](https://github.com/yiqingxyq/DocLens)]
-- RaTEScore: A Metric for Radiology Report Generation (**EMNLP'24**) [[paper](https://www.medrxiv.org/content/10.1101/2024.06.24.24309405v1)][[code](https://github.com/MAGIC-AI4Med/RaTEScore)]
+- RaTEScore: A Metric for Radiology Report Generation (**EMNLP'24**) [[paper](https://www.medrxiv.org/content/10.1101/2024.06.24.24309405v1)][[code](https://github.com/MAGIC-AI4Med/RaTEScore)][[PyPI](https://pypi.org/project/RaTEScore/)]
 - GREEN: Generative Radiology Report Evaluation and Error Notation [[paper](https://arxiv.org/pdf/2405.03595)][[code](https://github.com/Stanford-AIMI/GREEN)]
 - When Radiology Report Generation Meets Knowledge Graph (**MIRQI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6989)][[code](https://github.com/xiaosongwang/MIRQI)]
 - Evaluating progress in automatic chest X-ray radiology report generation (**RadCliQ**)[[paper](https://www.cell.com/patterns/fulltext/S2666-3899(23)00157-5)][[code](https://github.com/rajpurkarlab/CXR-Report-Metric)]
@@ -386,7 +386,9 @@ We collect existing papers on radiology report generation published in prominent
 - [f1chexbert](https://pypi.org/project/f1chexbert/)
 - [radgraph](https://pypi.org/project/radgraph/)
 - [mimic-cxr](https://github.com/MIT-LCP/mimic-cxr)
+- [RaTEScore](https://pypi.org/project/RaTEScore/)
 
 
 ## Feel free to contact me if you find any interesting papers missing.
 email: kangliu422@gmail.com
+wechat: kangliu422
