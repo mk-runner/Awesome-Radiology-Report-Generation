@@ -266,6 +266,8 @@ We collect existing papers on radiology report generation published in prominent
 - MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware  Multimodal Preference Optimization [[paper](https://arxiv.org/pdf/2412.06141)][[code](https://github.com/aiming-lab/MMedPO)]
 - Semantic Consistency-Based Uncertainty Quantification for Factuality in Radiology Report Generation [[paper](https://arxiv.org/pdf/2412.04606)]
 - Foundation Models in Radiology: What, How, When, Why and Why Not [[paper](https://arxiv.org/pdf/2411.18730)]
+- A Generalist Learner for Multifaceted Medical Image Interpretation [[paper](https://arxiv.org/abs/2405.07988)]
+- M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation [[paper](https://arxiv.org/abs/2408.16213)]
 
 
 
