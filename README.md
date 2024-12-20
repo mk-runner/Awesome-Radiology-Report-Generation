@@ -90,6 +90,7 @@ We collect existing papers on radiology report generation published in prominent
 ### 2025
 **AAAI'25**
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
+- HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation [[paper](https://www.arxiv.org/pdf/2412.11070)][[code](https://github.com/TengfeiLiu966/HC-LLM)]
 
 ### 2024
 **Nature Medicine**
