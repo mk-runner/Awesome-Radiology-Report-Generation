@@ -198,6 +198,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **Expert Systems with Applications'24**
 - CheXReport: A transformer-based architecture to generate chest X-ray reports suggestions [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424015112)][[code](https://github.com/felipezeiser/CheXReport)]
+- ChatGPT based contrastive learning for radiology report summarization [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424026940#fn2)][[code](https://github.com/jzw1234/Chataug-CCL)]
 
 **Knowledge-Based Systems'24**
 - Automatic medical report generation combining contrastive learning and feature difference [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124012644)]
@@ -271,6 +272,7 @@ We collect existing papers on radiology report generation published in prominent
 - Foundation Models in Radiology: What, How, When, Why and Why Not [[paper](https://arxiv.org/pdf/2411.18730)]
 - A Generalist Learner for Multifaceted Medical Image Interpretation [[paper](https://arxiv.org/abs/2405.07988)]
 - M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation [[paper](https://arxiv.org/abs/2408.16213)]
+- The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports [[paper](https://arxiv.org/pdf/2412.12042)]
 
 
 
