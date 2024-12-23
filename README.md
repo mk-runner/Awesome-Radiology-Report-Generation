@@ -13,6 +13,7 @@ We collect existing papers on radiology report generation published in prominent
 - [Metrics](#Metrics)
 - [Foundation Models for Medicine](#Foundation-Models-for-Medicine)
 - [Papers](#papers)
+  - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
@@ -92,6 +93,7 @@ We collect existing papers on radiology report generation published in prominent
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
 - HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation [[paper](https://www.arxiv.org/pdf/2412.11070)][[code](https://github.com/TengfeiLiu966/HC-LLM)]
 - LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts [[paper](https://arxiv.org/pdf/2412.12001)][[code](https://github.com/zh-Wang-Med/LLM-RG4)]
+- 
 
 ### 2024
 **Nature Medicine**
@@ -273,6 +275,7 @@ We collect existing papers on radiology report generation published in prominent
 - A Generalist Learner for Multifaceted Medical Image Interpretation [[paper](https://arxiv.org/abs/2405.07988)]
 - M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation [[paper](https://arxiv.org/abs/2408.16213)]
 - The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports [[paper](https://arxiv.org/pdf/2412.12042)]
+- DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching [[paper](https://arxiv.org/pdf/2412.14535)]
 
 
 
