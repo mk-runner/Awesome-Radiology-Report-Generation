@@ -205,6 +205,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **Knowledge-Based Systems'24**
 - Automatic medical report generation combining contrastive learning and feature difference [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124012644)]
+- Context-enhanced framework for medical image report generation using multimodal contexts [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124015478?__cf_chl_tk=XNRc.olaVDjnhJnTWepTvkDVdFSF.zB1psud1BE1.fA-1735525303-1.0.1.1-UA6DRcLBfYu72UCvVi5Z4irCy6hDimukzeMEmmNruVI)][[[code](https://github.com/lz19991122/Context-Enhanced-Framework/tree/main)]
 
 **Neurocomputing'24**
 - Improving radiology report generation with multi-grained abnormality prediction [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224008932)]
