@@ -94,7 +94,9 @@ We collect existing papers on radiology report generation published in prominent
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
 - HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation [[paper](https://www.arxiv.org/pdf/2412.11070)][[code](https://github.com/TengfeiLiu966/HC-LLM)]
 - LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts [[paper](https://arxiv.org/pdf/2412.12001)][[code](https://github.com/zh-Wang-Med/LLM-RG4)]
-- 
+
+**arXiv'25**
+- GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation [[paper](https://arxiv.org/pdf/2501.02598)]
 
 ### 2024
 **Nature Medicine**
