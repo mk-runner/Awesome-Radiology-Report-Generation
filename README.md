@@ -95,8 +95,12 @@ We collect existing papers on radiology report generation published in prominent
 - HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation [[paper](https://www.arxiv.org/pdf/2412.11070)][[code](https://github.com/TengfeiLiu966/HC-LLM)]
 - LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts [[paper](https://arxiv.org/pdf/2412.12001)][[code](https://github.com/zh-Wang-Med/LLM-RG4)]
 
+**ESWA'25**
+- Recalibrated cross-modal alignment network for radiology report generation with weakly supervised contrastive learning [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425000168)]
+
 **arXiv'25**
 - GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation [[paper](https://arxiv.org/pdf/2501.02598)]
+- Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation [[paper](https://arxiv.org/pdf/2501.03458)][[code](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main)]
 
 ### 2024
 **Nature Medicine**
