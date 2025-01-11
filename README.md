@@ -290,8 +290,7 @@ We collect existing papers on radiology report generation published in prominent
 - DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching [[paper](https://arxiv.org/pdf/2412.14535)]
 
 
-
-
+---
 
 ### 2023
 **ICLR'23**
@@ -351,15 +350,15 @@ We collect existing papers on radiology report generation published in prominent
 - MAIRA-1: A specialised large multimodal model for radiology report generation [[paper](https://arxiv.org/abs/2311.13668)] [[code]]
 - Longitudinal Data and a Semantic Similarity Reward for Chest X-Ray Report Generation [[paper](https://arxiv.org/abs/2307.09758)][[code](https://github.com/aehrc/cxrmate)]
 
+---
+
 ### 2022
 
 **AAAI'22**
 - Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20204)] [[code]]
 
-
 **ACL'22**
 - Reinforced Cross-modal Alignment for Radiology Report Generation [[paper](https://aclanthology.org/2022.findings-acl.38/)] [[code](https://github.com/cuhksz-nlp/R2GenRL)]
-
 
 **MICCAI'22**
 - A Medical Semantic-Assisted Transformer for Radiographic Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_63)] [[code](https://github.com/wang-zhanyu/MSAT)]
@@ -374,8 +373,7 @@ We collect existing papers on radiology report generation published in prominent
 **TMI'22**
 - Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach [[paper](https://ieeexplore.ieee.org/document/9768661)] [[code]]
 
-**arXiv papers'22**
-- ** [[paper]()] [[code]()]
+---
 
 ### 2021
 
@@ -396,7 +394,6 @@ We collect existing papers on radiology report generation published in prominent
 **EMNLP'20**
 - Generating Radiology Reports via Memory-driven Transformer [[paper](https://arxiv.org/abs/2010.16056)] [[code](https://github.com/zhjohnchan/R2Gen)]
 
-
 ## Other Resources
 - Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing (**CVPR'23**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.pdf)[[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
 - Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models [[paper](https://arxiv.org/pdf/2410.03176)][[code](https://github.com/Yufang-Liu/clip_hallucination)]
@@ -413,4 +410,4 @@ We collect existing papers on radiology report generation published in prominent
 
 ## Feel free to contact me if you find any interesting papers missing.
 email: kangliu422@gmail.com
-wechat: kangliu422
+WeChat: kangliu422
