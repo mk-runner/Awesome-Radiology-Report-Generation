@@ -95,6 +95,10 @@ We collect existing papers on radiology report generation published in prominent
 - HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation [[paper](https://www.arxiv.org/pdf/2412.11070)][[code](https://github.com/TengfeiLiu966/HC-LLM)]
 - LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts [[paper](https://arxiv.org/pdf/2412.12001)][[code](https://github.com/zh-Wang-Med/LLM-RG4)]
 
+**Radiology'25**
+- Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
+
+
 **ESWA'25**
 - Recalibrated cross-modal alignment network for radiology report generation with weakly supervised contrastive learning [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425000168)]
 
