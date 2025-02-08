@@ -58,7 +58,7 @@ We collect existing papers on radiology report generation published in prominent
 - Multi-view CXR: A large-scale multi-view benchmark for chest X-ray report generation (**Multi-view CXR**) [[data](https://huggingface.co/datasets/MK-runner/Multi-view-CXR)][[paper](https://arxiv.org/abs/2411.10224)]
 - CheXmask Database: a large-scale dataset of anatomical segmentation masks for chest x-ray images (**CheXmask**)[[data](https://physionet.org/content/chexmask-cxr-segmentation-data/0.4/)]
 - **LLaVA-Rad MIMIC-CXR** [[data](https://physionet.org/content/llava-rad-mimic-cxr-annotation/1.0.0/)]
-- RaDialog Instruct Dataset [[data](https://physionet.org/content/radialog-instruct-dataset/1.1.0/)]
+- RaDialog Instruct Dataset [[data](https://physionet.org/content/radialog-instruct-dataset/1.1.0/)][[paper](https://arxiv.org/pdf/2311.18681)]
 
 ## Metrics
 - FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores (**arXiv'2405**) [[paper](https://arxiv.org/pdf/2405.20613)][[code](https://github.com/rajpurkarlab/FineRadScore)]
