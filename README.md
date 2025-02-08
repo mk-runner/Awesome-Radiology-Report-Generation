@@ -113,6 +113,8 @@ We collect existing papers on radiology report generation published in prominent
 - GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation [[paper](https://arxiv.org/pdf/2501.02598)]
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation [[paper](https://arxiv.org/pdf/2501.03458)][[code](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main)]
 - RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment [[paper](https://arxiv.org/abs/2501.07525)]
+- MedRAX: Medical Reasoning Agent for Chest X-ray [[paper](https://arxiv.org/pdf/2502.02673)][[code](https://github.com/bowang-lab/MedRAX)]
+- Libra: Leveraging Temporal Images for Biomedical Radiology Analysis [[paper](https://arxiv.org/abs/2411.19378)][[code](https://github.com/X-iZhang/Libra)]
 
 ---
 
