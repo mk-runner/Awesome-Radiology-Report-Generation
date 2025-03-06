@@ -123,6 +123,7 @@ We collect existing papers on radiology report generation published in prominent
 - RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment [[paper](https://arxiv.org/abs/2501.07525)]
 - MedRAX: Medical Reasoning Agent for Chest X-ray [[paper](https://arxiv.org/pdf/2502.02673)][[code](https://github.com/bowang-lab/MedRAX)]
 - Libra: Leveraging Temporal Images for Biomedical Radiology Analysis [[paper](https://arxiv.org/abs/2411.19378)][[code](https://github.com/X-iZhang/Libra)]
+- On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation [[paper](https://arxiv.org/abs/2502.19285)]
 
 ---
 
