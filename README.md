@@ -125,6 +125,7 @@ We collect existing papers on radiology report generation published in prominent
 - Libra: Leveraging Temporal Images for Biomedical Radiology Analysis [[paper](https://arxiv.org/abs/2411.19378)][[code](https://github.com/X-iZhang/Libra)]
 - On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation [[paper](https://arxiv.org/abs/2502.19285)]
 - CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding [[paper](https://arxiv.org/pdf/2502.20509)]
+- CheXalign: Preference fine-tuning in chest X-ray interpretation models without human feedback [[paper](https://arxiv.org/pdf/2410.07025)]
 
 ---
 
