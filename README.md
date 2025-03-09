@@ -92,6 +92,9 @@ We collect existing papers on radiology report generation published in prominent
 
 ## Papers
 ### 2025
+**Nature Medicine'25**
+- A generalist medical language model for disease diagnosis assistance [[paper](https://www.nature.com/articles/s41591-024-03416-6)][[code](https://github.com/medfound/medfound)]
+
 **CVPR'25**
 - Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2502.20056)] [[code](https://github.com/mk-runner/MLRG)]
 
