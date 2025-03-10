@@ -95,7 +95,7 @@ We collect existing papers on radiology report generation published in prominent
 **Nature Medicine'25**
 - A generalist medical language model for disease diagnosis assistance [[paper](https://www.nature.com/articles/s41591-024-03416-6)][[code](https://github.com/medfound/medfound)]
 
-**Nature Communication'25**
+**Nature Communications'25**
 - Towards a holistic framework for multimodal LLM in 3D brain CT radiology report generation [[paper](https://www.nature.com/articles/s41467-025-57426-0)]
 
 **CVPR'25**
