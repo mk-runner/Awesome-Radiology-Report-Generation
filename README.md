@@ -114,6 +114,9 @@ We collect existing papers on radiology report generation published in prominent
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
 - CmEAA: Cross-modal Enhancement and Alignment Adapter for Radiology Report Generation [[paper](https://aclanthology.org/2025.coling-main.571/)]
 
+**ICASSP'25**
+- A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888634)]
+
 **Radiology'25**
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
 
@@ -139,7 +142,7 @@ We collect existing papers on radiology report generation published in prominent
 - On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation [[paper](https://arxiv.org/abs/2502.19285)]
 - CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding [[paper](https://arxiv.org/pdf/2502.20509)]
 - CheXalign: Preference fine-tuning in chest X-ray interpretation models without human feedback [[paper](https://arxiv.org/pdf/2410.07025)]
-
+- GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2503.05347)]
 ---
 
 ### 2024
