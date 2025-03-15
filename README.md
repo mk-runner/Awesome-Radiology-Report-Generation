@@ -214,6 +214,9 @@ We collect existing papers on radiology report generation published in prominent
 **CIKM'24**
 - CLR2G: Cross-modal Contrastive Learning on Radiology Report [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679668)]
 
+**ICASSP'24**
+- Improving Radiology Report Generation with D2-Net: When Diffusion Meets Discriminator [[paper](https://ieeexplore.ieee.org/document/10448326)]
+
 **WACV'24**
 - Complex Organ Mask Guided Radiology Report Generation [[paper](https://arxiv.org/pdf/2311.02329)][[code](https://github.com/GaryGuTC/COMG_model)]
 - CXR-IRGen: An Integrated Vision and Language Model for the Generation of Clinically Accurate Chest X-Ray Image-Report Pairs [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Shentu_CXR-IRGen_An_Integrated_Vision_and_Language_Model_for_the_Generation_WACV_2024_paper.html)][[code](https://github.com/junjie-shentu/CXR-IRGen)]
