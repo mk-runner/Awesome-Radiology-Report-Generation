@@ -126,6 +126,9 @@ We collect existing papers on radiology report generation published in prominent
 **TMM'25**
 - Adaptive Medical Topic Learning for Enhanced Fine-grained Cross-modal Alignment in Medical Report Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10891465)]
 
+**TMI'25**
+- STREAM: Spatio-Temporal and Retrieval-Augmented Modeling for Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10938723)][[code](https://github.com/yangyan22/STREAM)]
+
 **ESWA'25**
 - Recalibrated cross-modal alignment network for radiology report generation with weakly supervised contrastive learning [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425000168)]
 - HKRG: Hierarchical knowledge integration for radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425002441)][[code](https://github.com/LuckyAI-wb/HKRG)]
