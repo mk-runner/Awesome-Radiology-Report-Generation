@@ -157,8 +157,8 @@ We collect existing papers on radiology report generation published in prominent
 - Collaboration between clinicians and vision–language models in radiology report generation [[paper](https://www.nature.com/articles/s41591-024-03302-1)]
 
 **AAAI'24**
-- Automatic Radiology Reports Generation via Memory Alignment Network [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28279)] [code]
-- PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28038)][[code](https://github.com/synlp/R2-LLM)]
+- Automatic Radiology Reports Generation via Memory Alignment Network [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28279)]
+- PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28038)][[code](https://github.com/jhb86253817/PromptMRG)]
 - Bootstrapping Large Language Models for Radiology Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29826)] [[code](https://github.com/synlp/R2-LLM)]
 
 **CVPR'24**
