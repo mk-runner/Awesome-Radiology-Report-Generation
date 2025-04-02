@@ -75,6 +75,7 @@ We collect existing papers on radiology report generation published in prominent
 - MRScore: Evaluating Medical Report with LLM-Based Reward System (**MICAAI'24**) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_27)]
 - ER2Score: LLM-based Explainable and Customizable Metric for Assessing Radiology Reports with Reward-Control Loss (**arXiv'2411**)[[paper](https://arxiv.org/pdf/2411.17301)]
 - FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models (**arXiv'2411**)[[paper](https://arxiv.org/pdf/2411.18672)]
+- A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings (**CheXprompt**)[[paper](https://www.nature.com/articles/s41467-025-58344-x)][[code](https://github.com/microsoft/chexprompt)]
 
 ## Foundation Models for Medicine
 - CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (**arXiv'2401**) [[paper](https://stanford-aimi.github.io/chexagent.html)][[code](https://github.com/Stanford-AIMI/CheXagent)]
@@ -99,6 +100,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **Nature Communications'25**
 - Towards a holistic framework for multimodal LLM in 3D brain CT radiology report generation [[paper](https://www.nature.com/articles/s41467-025-57426-0)]
+- A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings [[paper](https://www.nature.com/articles/s41467-025-58344-x)][[code](https://github.com/microsoft/chexprompt)]
 
 **CVPR'25**
 - Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2502.20056)] [[code](https://github.com/mk-runner/MLRG)]
