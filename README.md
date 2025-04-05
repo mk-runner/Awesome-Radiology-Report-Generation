@@ -134,6 +134,7 @@ We collect existing papers on radiology report generation published in prominent
 **ESWA'25**
 - Recalibrated cross-modal alignment network for radiology report generation with weakly supervised contrastive learning [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425000168)]
 - HKRG: Hierarchical knowledge integration for radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425002441)][[code](https://github.com/LuckyAI-wb/HKRG)]
+- RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425010413#sec4)][[code](https://github.com/lihongzhao99/RRGMambaFormer)]
 
 **KBS'25**
 - Context-enhanced framework for medical image report generation using multimodal contexts [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124015478)][[code](https://github.com/lihongzhao99/Context-Enhanced-Framework)]
