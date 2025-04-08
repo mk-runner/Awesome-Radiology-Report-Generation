@@ -107,6 +107,7 @@ We collect existing papers on radiology report generation published in prominent
 - FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models [[paper](https://arxiv.org/pdf/2411.18672)]
 - DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32986)]
 - CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset [[paper](https://arxiv.org/pdf/2410.00379)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
+- VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge [[paper](https://arxiv.org/pdf/2411.12915)][[code](https://github.com/Project-MONAI/VLM-Radiology-Agent-Framework)]
 
 **AAAI'25**
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
@@ -326,7 +327,6 @@ We collect existing papers on radiology report generation published in prominent
 - Anatomy-Guided Radiology Report Generation with Pathology-Aware Regional Prompts [[paper](https://arxiv.org/pdf/2411.10789)]
 - MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models [[paper](https://arxiv.org/pdf/2411.11362)]
 - TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Model [[paper](https://arxiv.org/abs/2408.12141)]
-- VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge [[paper](https://arxiv.org/pdf/2411.12915)]
 - ORID: Organ-Regional Information Driven Framework for Radiology Report Generation [[paper](https://arxiv.org/pdf/2411.13025)]
 - ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation [[paper](https://arxiv.org/pdf/2411.15122)][[code](https://rexrank.ai/)]
 - Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs [[paper](https://arxiv.org/pdf/2408.14397)][[code](https://github.com/rajpurkarlab/ReXKG)]
@@ -334,7 +334,6 @@ We collect existing papers on radiology report generation published in prominent
 - Large Language Model with Region-guided Referring and Grounding for CT Report Generation [[[paper](https://arxiv.org/pdf/2411.15539)]
 - Improving Factuality of 3D Brain MRI Report Generation with Paired Image-domain Retrieval and Text-domain Augmentation [[paper](https://arxiv.org/pdf/2411.15490)]
 - MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement [[paper](https://arxiv.org/pdf/2411.18309)]
-- Libra: Leveraging Temporal Images for Biomedical Radiology Analysis [[paper](https://arxiv.org/pdf/2411.19378)]
 - MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware  Multimodal Preference Optimization [[paper](https://arxiv.org/pdf/2412.06141)][[code](https://github.com/aiming-lab/MMedPO)]
 - Semantic Consistency-Based Uncertainty Quantification for Factuality in Radiology Report Generation [[paper](https://arxiv.org/pdf/2412.04606)]
 - Foundation Models in Radiology: What, How, When, Why and Why Not [[paper](https://arxiv.org/pdf/2411.18730)]
