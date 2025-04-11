@@ -154,6 +154,8 @@ We collect existing papers on radiology report generation published in prominent
 - CheXalign: Preference fine-tuning in chest X-ray interpretation models without human feedback [[paper](https://arxiv.org/pdf/2410.07025)]
 - GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2503.05347)]
 - DAgent: A Relational Database-Driven Data Analysis Report Generation Agent [[paper](https://arxiv.org/pdf/2503.13269)]
+- LVMedR2: Perception and Reflection-driven Complex Reasoning for Medical Report Generation [[paper](https://arxiv.org/pdf/2504.02885)]
+- MedM-VL: What Makes a Good Medical LVLM?[[paper](https://arxiv.org/pdf/2504.04323)][[code](https://github.com/MSIIP/MedM-VL)]
 ---
 
 ### 2024
