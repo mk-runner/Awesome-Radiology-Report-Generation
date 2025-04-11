@@ -131,6 +131,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **TMI'25**
 - Spatio-Temporal and Retrieval-Augmented Modeling for Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10938723)][[code](https://github.com/yangyan22/STREAM)]
+- Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10798513)][[code](https://github.com/jinghanSunn/CoE-DG)]
 
 **ESWA'25**
 - Recalibrated cross-modal alignment network for radiology report generation with weakly supervised contrastive learning [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425000168)]
