@@ -115,6 +115,7 @@ We collect existing papers on radiology report generation published in prominent
 - LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts [[paper](https://arxiv.org/pdf/2412.12001)][[code](https://github.com/zh-Wang-Med/LLM-RG4)]
 - MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation [[paper](https://arxiv.org/pdf/2503.17784)][[code](https://github.com/YanzhaoShi/MEPNet)]
 - Overcoming Heterogeneous Data in Federated Medical Vision-Language Pre-training: A Triple-Embedding Model Selector Approach [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32807)][[code](https://github.com/NBT-AILAB/PMS-FM)]
+- DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32393)]
 
 **COLING'25**
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
