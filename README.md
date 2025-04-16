@@ -349,6 +349,7 @@ We collect existing papers on radiology report generation published in prominent
 - M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation [[paper](https://arxiv.org/abs/2408.16213)]
 - The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports [[paper](https://arxiv.org/pdf/2412.12042)]
 - DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching [[paper](https://arxiv.org/pdf/2412.14535)]
+- X-ray Made Simple: Radiology Report Generation and Evaluation with Layman’s Terms [[paper](https://arxiv.org/pdf/2406.17911v3)][[code](https://github.com/hegehongcha/LaymanRRG)]
 
 
 ---
