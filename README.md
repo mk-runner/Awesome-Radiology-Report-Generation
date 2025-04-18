@@ -128,6 +128,7 @@ We collect existing papers on radiology report generation published in prominent
 **Radiology'25**
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
 - Diagnostic accuracy and clinical value of a domain-specific multimodal generative AI model for chest radiograph report generation [[paper](https://pubs.rsna.org/doi/full/10.1148/radiol.241476)]
+- RadSearch, a Semantic Search Model for Accurate RadiologyReport Retrieval with Large Language Model Integration [[paper](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240686)]
 
 **TMM'25**
 - Adaptive Medical Topic Learning for Enhanced Fine-grained Cross-modal Alignment in Medical Report Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10891465)]
