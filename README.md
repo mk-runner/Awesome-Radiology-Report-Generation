@@ -123,6 +123,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **ICASSP'25**
 - A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888634)]
+- CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation [[paper](https://arxiv.org/pdf/2406.11451)][[code](https://github.com/FRENKIE-CHIANG/CoMT)]
 
 **Radiology'25**
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
