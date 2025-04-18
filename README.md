@@ -161,6 +161,8 @@ We collect existing papers on radiology report generation published in prominent
 - LVMedR2: Perception and Reflection-driven Complex Reasoning for Medical Report Generation [[paper](https://arxiv.org/pdf/2504.02885)]
 - MedM-VL: What Makes a Good Medical LVLM?[[paper](https://arxiv.org/pdf/2504.04323)][[code](https://github.com/MSIIP/MedM-VL)]
 - Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction [[paper](https://arxiv.org/pdf/2504.07415)]
+- DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning [[paper](https://arxiv.org/pdf/2504.09598)]
+
 
 ---
 
