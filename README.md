@@ -144,9 +144,11 @@ We collect existing papers on radiology report generation published in prominent
 
 **KBS'25**
 - Context-enhanced framework for medical image report generation using multimodal contexts [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124015478)][[code](https://github.com/lihongzhao99/Context-Enhanced-Framework)]
+- Abnormal-region-aware Multi-modal Feature Fusion for medical report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125005842#sec4)]
 
 **JBHI'25**
 - Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856362)][[code](https://github.com/OpenMICG/AHP)]
+
 
 **arXiv'25**
 - GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation [[paper](https://arxiv.org/pdf/2501.02598)]
@@ -164,6 +166,7 @@ We collect existing papers on radiology report generation published in prominent
 - Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction [[paper](https://arxiv.org/pdf/2504.07415)]
 - DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning [[paper](https://arxiv.org/pdf/2504.09598)]
 - DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[paper](https://arxiv.org/pdf/2504.11786)]
+- CRG Score: A Distribution-Aware Clinical Metric for Radiology Report Generation [[paper](https://openreview.net/forum?id=18nhqwH1Yq)]
 
 
 
