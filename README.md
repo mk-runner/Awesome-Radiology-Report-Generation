@@ -239,9 +239,6 @@ We collect existing papers on radiology report generation published in prominent
 - KARGEN: Knowledge-Enhanced Automated Radiology Report Generation Using Large Language Models [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_36)]
 - Continually Tuning a Large Language Model for Multi-domain Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_17)]
 
-**BIBM'24**
-- ** [[paper]()] [[code]()]
-
 **CIKM'24**
 - CLR2G: Cross-modal Contrastive Learning on Radiology Report [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679668)]
 
@@ -283,6 +280,7 @@ We collect existing papers on radiology report generation published in prominent
 **JBHI'24**
 - CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10400776)] [[code](https://github.com/Markin-Wang/CAMANet)]
 - TSGET: Two-Stage Global Enhanced Transformer for Automatic Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10381879)] [[code](https://github.com/Markin-Wang/CAMANet)]
+- Eye Gaze Guided Cross-Modal Alignment Network for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/10596697)]
 
 **Expert Systems with Applications'24**
 - CheXReport: A transformer-based architecture to generate chest X-ray reports suggestions [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424015112)][[code](https://github.com/felipezeiser/CheXReport)]
