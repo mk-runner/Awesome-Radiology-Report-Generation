@@ -170,7 +170,7 @@ We collect existing papers on radiology report generation published in prominent
 - DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning [[paper](https://arxiv.org/pdf/2504.09598)]
 - DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[paper](https://arxiv.org/pdf/2504.11786)]
 - CRG Score: A Distribution-Aware Clinical Metric for Radiology Report Generation [[paper](https://openreview.net/forum?id=18nhqwH1Yq)]
-
+- Evaluating and Mitigating Bias in AI-Based Medical Text Generation [[paper](https://arxiv.org/pdf/2504.17279v1)] [[code](https://github.com/iriscxy/GenFair)]
 
 
 ---
