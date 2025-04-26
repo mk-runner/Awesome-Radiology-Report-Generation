@@ -102,6 +102,9 @@ We collect existing papers on radiology report generation published in prominent
 - Towards a holistic framework for multimodal LLM in 3D brain CT radiology report generation [[paper](https://www.nature.com/articles/s41467-025-57426-0)]
 - A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings [[paper](https://www.nature.com/articles/s41467-025-58344-x)][[code](https://github.com/microsoft/chexprompt)]
 
+**Nature Computational Science'25**
+- Evaluating and Mitigating Bias in AI-Based Medical Text Generation [[paper](https://arxiv.org/pdf/2504.17279v1)] [[code](https://github.com/iriscxy/GenFair)]
+
 **CVPR'25**
 - Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2502.20056)] [[code](https://github.com/mk-runner/MLRG)]
 - FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models [[paper](https://arxiv.org/pdf/2411.18672)]
@@ -170,7 +173,7 @@ We collect existing papers on radiology report generation published in prominent
 - DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning [[paper](https://arxiv.org/pdf/2504.09598)]
 - DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[paper](https://arxiv.org/pdf/2504.11786)]
 - CRG Score: A Distribution-Aware Clinical Metric for Radiology Report Generation [[paper](https://openreview.net/forum?id=18nhqwH1Yq)]
-- Evaluating and Mitigating Bias in AI-Based Medical Text Generation [[paper](https://arxiv.org/pdf/2504.17279v1)] [[code](https://github.com/iriscxy/GenFair)]
+
 
 
 ---
