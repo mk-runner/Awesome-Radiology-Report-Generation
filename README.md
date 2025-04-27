@@ -102,6 +102,9 @@ We collect existing papers on radiology report generation published in prominent
 - Towards a holistic framework for multimodal LLM in 3D brain CT radiology report generation [[paper](https://www.nature.com/articles/s41467-025-57426-0)]
 - A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings [[paper](https://www.nature.com/articles/s41467-025-58344-x)][[code](https://github.com/microsoft/chexprompt)]
 
+TPAMI'25
+- Diagnostic Captioning by Cooperative Task Interactions and Sample-graph Consistency [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974505)]
+
 **Nature Computational Science'25**
 - Evaluating and Mitigating Bias in AI-Based Medical Text Generation [[paper](https://arxiv.org/pdf/2504.17279v1)] [[code](https://github.com/iriscxy/GenFair)]
 
