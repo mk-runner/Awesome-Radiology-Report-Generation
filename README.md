@@ -102,7 +102,7 @@ We collect existing papers on radiology report generation published in prominent
 - Towards a holistic framework for multimodal LLM in 3D brain CT radiology report generation [[paper](https://www.nature.com/articles/s41467-025-57426-0)]
 - A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings [[paper](https://www.nature.com/articles/s41467-025-58344-x)][[code](https://github.com/microsoft/chexprompt)]
 
-TPAMI'25
+**TPAMI'25**
 - Diagnostic Captioning by Cooperative Task Interactions and Sample-graph Consistency [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974505)]
 
 **Nature Computational Science'25**
@@ -158,7 +158,7 @@ TPAMI'25
 **JBHI'25**
 - Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856362)][[code](https://github.com/OpenMICG/AHP)]
 
-ISBI'25
+**ISBI'25**
 - R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[paper](https://arxiv.org/abs/2410.18135)][[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
 
 **arXiv'25**
