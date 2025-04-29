@@ -176,7 +176,7 @@ TPAMI'25
 - DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning [[paper](https://arxiv.org/pdf/2504.09598)]
 - DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[paper](https://arxiv.org/pdf/2504.11786)]
 - CRG Score: A Distribution-Aware Clinical Metric for Radiology Report Generation [[paper](https://openreview.net/forum?id=18nhqwH1Yq)]
-
+- Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[paper](https://arxiv.org/pdf/2504.18453v1)]
 
 
 ---
