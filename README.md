@@ -128,7 +128,7 @@ We collect existing papers on radiology report generation published in prominent
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
 - CmEAA: Cross-modal Enhancement and Alignment Adapter for Radiology Report Generation [[paper](https://aclanthology.org/2025.coling-main.571/)]
 
-NAACL'25
+**NAACL'25**
 - DDGIP: Radiology Report Generation Through Disease Description Graph and Informed Prompting [[paper](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-naacl.215.pdf)]
 
 **ICASSP'25**
