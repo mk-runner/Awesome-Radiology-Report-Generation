@@ -128,6 +128,9 @@ We collect existing papers on radiology report generation published in prominent
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
 - CmEAA: Cross-modal Enhancement and Alignment Adapter for Radiology Report Generation [[paper](https://aclanthology.org/2025.coling-main.571/)]
 
+NAACL'25
+- DDGIP: Radiology Report Generation Through Disease Description Graph and Informed Prompting [[paper](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-naacl.215.pdf)]
+
 **ICASSP'25**
 - A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888634)]
 - CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation [[paper](https://arxiv.org/pdf/2406.11451)][[code](https://github.com/FRENKIE-CHIANG/CoMT)]
@@ -135,7 +138,7 @@ We collect existing papers on radiology report generation published in prominent
 **Radiology'25**
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
 - Diagnostic accuracy and clinical value of a domain-specific multimodal generative AI model for chest radiograph report generation [[paper](https://pubs.rsna.org/doi/full/10.1148/radiol.241476)]
-- RadSearch, a Semantic Search Model for Accurate RadiologyReport Retrieval with Large Language Model Integration [[paper](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240686)]
+- RadSearch, a Semantic Search Model for Accurate Radiology Report Retrieval with Large Language Model Integration [[paper](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240686)]
 
 **TMM'25**
 - Adaptive Medical Topic Learning for Enhanced Fine-grained Cross-modal Alignment in Medical Report Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10891465)]
@@ -174,7 +177,7 @@ We collect existing papers on radiology report generation published in prominent
 - GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2503.05347)]
 - DAgent: A Relational Database-Driven Data Analysis Report Generation Agent [[paper](https://arxiv.org/pdf/2503.13269)]
 - LVMedR2: Perception and Reflection-driven Complex Reasoning for Medical Report Generation [[paper](https://arxiv.org/pdf/2504.02885)]
-- MedM-VL: What Makes a Good Medical LVLM?[[paper](https://arxiv.org/pdf/2504.04323)][[code](https://github.com/MSIIP/MedM-VL)]
+- MedM-VL: What Makes a Good Medical LVLM? [[paper](https://arxiv.org/pdf/2504.04323)][[code](https://github.com/MSIIP/MedM-VL)]
 - Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction [[paper](https://arxiv.org/pdf/2504.07415)]
 - DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning [[paper](https://arxiv.org/pdf/2504.09598)]
 - DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[paper](https://arxiv.org/pdf/2504.11786)]
