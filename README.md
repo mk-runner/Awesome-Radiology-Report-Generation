@@ -179,6 +179,7 @@ We collect existing papers on radiology report generation published in prominent
 - DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[paper](https://arxiv.org/pdf/2504.11786)]
 - CRG Score: A Distribution-Aware Clinical Metric for Radiology Report Generation [[paper](https://openreview.net/forum?id=18nhqwH1Yq)]
 - Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[paper](https://arxiv.org/pdf/2504.18453v1)]
+- MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation [[paper](https://arxiv.org/pdf/2503.17900)]
 
 
 ---
