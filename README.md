@@ -114,6 +114,7 @@ We collect existing papers on radiology report generation published in prominent
 - DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32986)]
 - CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset [[paper](https://arxiv.org/pdf/2410.00379)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge [[paper](https://arxiv.org/pdf/2411.12915)][[code](https://github.com/Project-MONAI/VLM-Radiology-Agent-Framework)]
+- Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation [[paper](https://arxiv.org/pdf/2504.18856v1)][[code](https://github.com/BasitAlawode/MR-PLIP)]
 
 **AAAI'25**
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
