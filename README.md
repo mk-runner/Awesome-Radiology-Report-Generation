@@ -124,6 +124,8 @@ We collect existing papers on radiology report generation published in prominent
 - Overcoming Heterogeneous Data in Federated Medical Vision-Language Pre-training: A Triple-Embedding Model Selector Approach [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32807)][[code](https://github.com/NBT-AILAB/PMS-FM)]
 - DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32393)]
 
+
+
 **COLING'25**
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
 - CmEAA: Cross-modal Enhancement and Alignment Adapter for Radiology Report Generation [[paper](https://aclanthology.org/2025.coling-main.571/)]
@@ -223,6 +225,7 @@ We collect existing papers on radiology report generation published in prominent
 - JRadiEvo: A Japanese Radiology Report Generation Model Enhanced by Evolutionary Optimization of Model Merging (**NIPS Workshop**)[[paper](https://arxiv.org/pdf/2411.09933)]
 - Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling (**NIPS Workshop**)[[paper](https://openreview.net/forum?id=1oDKH0lox4)]
 - Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE [[paper](https://arxiv.org/pdf/2409.17508)][[code](https://github.com/MSIIP/Uni-Med)]
+- MediQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning [[paper](https://arxiv.org/pdf/2406.00922)][[code](https://github.com/stellalisy/mediQ/tree/main)]
 
 **ACM MM'24**
 - Medical Report Generation via Multimodal Spatio-Temporal Fusion [[paper](https://openreview.net/pdf?id=XKs7DR9GAK)]
