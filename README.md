@@ -189,6 +189,7 @@ We collect existing papers on radiology report generation published in prominent
 - CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models [[paper](https://arxiv.org/pdf/2504.20898v1)]
 - ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification [[paper](https://arxiv.org/pdf/2504.20930v1)]
 - MicarVLMoE: A Modern Gated Cross-Aligned Vision-Language Mixture of Experts Model for Medical Image Captioning and Report Generation [[paper](https://arxiv.org/pdf/2504.20343v1)]
+- Large-scale Chest Disease Diagnosis Enabled by Multimodal LargeLanguage Models with Self-Supervised Fine-Tuning [[paper](https://www.researchsquare.com/article/rs-6455853/v1)]
 
 
 ---
