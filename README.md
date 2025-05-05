@@ -126,7 +126,8 @@ We collect existing papers on radiology report generation published in prominent
 - Overcoming Heterogeneous Data in Federated Medical Vision-Language Pre-training: A Triple-Embedding Model Selector Approach [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32807)][[code](https://github.com/NBT-AILAB/PMS-FM)]
 - DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32393)]
 
-
+**ICML'25**
+- MedRAX: Medical Reasoning Agent for Chest X-ray [[paper](https://arxiv.org/pdf/2502.02673)][[code](https://github.com/bowang-lab/MedRAX)]
 
 **COLING'25**
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
