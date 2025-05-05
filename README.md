@@ -61,6 +61,8 @@ We collect existing papers on radiology report generation published in prominent
 - RaDialog Instruct Dataset [[data](https://physionet.org/content/radialog-instruct-dataset/1.1.0/)][[paper](https://arxiv.org/pdf/2311.18681)]
 - **M3D-Cap** [[data](https://huggingface.co/datasets/GoodBaiBai88/M3D-Cap)]
 - **ReXErr-v1**: Clinically Meaningful Chest X-Ray Report Errors Derived from MIMIC-CXR [[data](https://physionet.org/content/rexerr-v1/1.0.0/)]
+- **ReXGradient-160K**: A Large-Scale Publicly Available Dataset of Chest Radiographs with Free-text Reports [[paper](https://arxiv.org/pdf/2505.00228)][[data](https://huggingface.co/datasets/rajpurkarlab/ReXGradient-160K/tree/main)]
+
 
 ## Metrics
 - FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores (**arXiv'2405**) [[paper](https://arxiv.org/pdf/2405.20613)][[code](https://github.com/rajpurkarlab/FineRadScore)]
