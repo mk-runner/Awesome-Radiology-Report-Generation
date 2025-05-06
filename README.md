@@ -194,6 +194,7 @@ We collect existing papers on radiology report generation published in prominent
 - MicarVLMoE: A Modern Gated Cross-Aligned Vision-Language Mixture of Experts Model for Medical Image Captioning and Report Generation [[paper](https://arxiv.org/pdf/2504.20343v1)]
 - Large-scale Chest Disease Diagnosis Enabled by Multimodal Large Language Models with Self-Supervised Fine-Tuning [[paper](https://www.researchsquare.com/article/rs-6455853/v1)]
 - RadRevise: A Benchmark Dataset for Instruction-Based Radiology Report Editing [[paper](https://proceedings.mlr.press/v281/huang25a.html)]
+- Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages [[paper](https://arxiv.org/pdf/2505.01096v1)]
 
 ---
 
