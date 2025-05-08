@@ -156,6 +156,9 @@ We collect existing papers on radiology report generation published in prominent
 **MedIA'25**
 - Report is a mixture of topics: Topic-guided radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001331#d1e2923)][[code](https://github.com/chentaohuang/Topic-Guided-Radiology-Report-Generation)]
 
+Information Fusion'25
+- Enhancing discriminative ability in multimodal LLMs: A contrastive learning approach for CT report generation [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525003136)]
+
 **ESWA'25**
 - Recalibrated cross-modal alignment network for radiology report generation with weakly supervised contrastive learning [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425000168)]
 - HKRG: Hierarchical knowledge integration for radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425002441)][[code](https://github.com/LuckyAI-wb/HKRG)]
@@ -197,6 +200,7 @@ We collect existing papers on radiology report generation published in prominent
 - RadRevise: A Benchmark Dataset for Instruction-Based Radiology Report Editing [[paper](https://proceedings.mlr.press/v281/huang25a.html)]
 - Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages [[paper](https://arxiv.org/pdf/2505.01096v1)]
 - AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation [[paper](https://arxiv.org/abs/2505.02830)][[code](https://github.com/Liqq1/AOR)]
+- DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.03401v1)][[code](https://github.com/xmed-lab/DDaTR)]
 
 ---
 
