@@ -170,6 +170,7 @@ Information Fusion'25
 
 **JBHI'25**
 - Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856362)][[code](https://github.com/OpenMICG/AHP)]
+- Benchmarking Radiology Report Generation from Noisy Free-Texts [[paper](https://ieeexplore.ieee.org/document/11002452)]
 
 **ISBI'25**
 - R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[paper](https://arxiv.org/abs/2410.18135)][[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
