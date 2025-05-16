@@ -53,6 +53,7 @@ We collect existing papers on radiology report generation published in prominent
 
 **Nature Computational Science'25**
 - Evaluating and Mitigating Bias in AI-Based Medical Text Generation [[paper](https://arxiv.org/pdf/2504.17279v1)] [[code](https://github.com/iriscxy/GenFair)]
+- Toward fair AI-driven medical text generation [[paper](https://www.nature.com/articles/s43588-025-00807-8)]
 
 **CVPR'25**
 - Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2502.20056)] [[code](https://github.com/mk-runner/MLRG)]
@@ -81,10 +82,14 @@ We collect existing papers on radiology report generation published in prominent
 - DDGIP: Radiology Report Generation Through Disease Description Graph and Informed Prompting [[paper](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-naacl.215.pdf)]
 - VividMed: Vision Language Model with Versatile Visual Grounding for Medicine [[paper](https://arxiv.org/pdf/2410.12694)][[code](https://github.com/function2-llx/MMMM)]
 
-
 **ICASSP'25**
 - A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888634)]
 - CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation [[paper](https://arxiv.org/pdf/2406.11451)][[code](https://github.com/FRENKIE-CHIANG/CoMT)]
+
+**ISBI'25**
+- R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[paper](https://arxiv.org/abs/2410.18135)][[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
+- Prompt-Guided Radiology Report Generation Utilizing SAM [[paper](https://ieeexplore.ieee.org/abstract/document/10980655)]
+
 
 **Radiology'25**
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
@@ -117,9 +122,6 @@ Information Fusion'25
 **JBHI'25**
 - Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856362)][[code](https://github.com/OpenMICG/AHP)]
 - Benchmarking Radiology Report Generation from Noisy Free-Texts [[paper](https://ieeexplore.ieee.org/document/11002452)]
-
-**ISBI'25**
-- R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[paper](https://arxiv.org/abs/2410.18135)][[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
 
 **arXiv'25**
 - GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation [[paper](https://arxiv.org/pdf/2501.02598)]
