@@ -202,6 +202,7 @@ Information Fusion'25
 - Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages [[paper](https://arxiv.org/pdf/2505.01096v1)]
 - AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation [[paper](https://arxiv.org/abs/2505.02830)][[code](https://github.com/Liqq1/AOR)]
 - DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.03401v1)][[code](https://github.com/xmed-lab/DDaTR)]
+- CheXLearner: Text-Guided Fine-Grained Representation Learning for Progression Detection [[paper](https://arxiv.org/pdf/2505.06903)]
 
 ---
 
