@@ -135,6 +135,8 @@ We collect existing papers on radiology report generation published in prominent
 
 **NAACL'25**
 - DDGIP: Radiology Report Generation Through Disease Description Graph and Informed Prompting [[paper](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-naacl.215.pdf)]
+- VividMed: Vision Language Model with Versatile Visual Grounding for Medicine [[paper](https://arxiv.org/pdf/2410.12694)][[code](https://github.com/function2-llx/MMMM)]
+
 
 **ICASSP'25**
 - A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888634)]
@@ -203,6 +205,7 @@ Information Fusion'25
 - AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation [[paper](https://arxiv.org/abs/2505.02830)][[code](https://github.com/Liqq1/AOR)]
 - DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.03401v1)][[code](https://github.com/xmed-lab/DDaTR)]
 - CheXLearner: Text-Guided Fine-Grained Representation Learning for Progression Detection [[paper](https://arxiv.org/pdf/2505.06903)]
+- Describe Anything in Medical Images [[paper](https://arxiv.org/pdf/2505.05804)]
 
 ---
 
