@@ -152,6 +152,7 @@ Information Fusion'25
 - DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.03401v1)][[code](https://github.com/xmed-lab/DDaTR)]
 - CheXLearner: Text-Guided Fine-Grained Representation Learning for Progression Detection [[paper](https://arxiv.org/pdf/2505.06903)]
 - Describe Anything in Medical Images [[paper](https://arxiv.org/pdf/2505.05804)]
+- A Multimodal Multi-Agent Framework for Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.09787v1)]
 
 ---
 
