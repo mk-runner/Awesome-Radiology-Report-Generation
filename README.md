@@ -107,7 +107,7 @@ We collect existing papers on radiology report generation published in prominent
 **MedIA'25**
 - Report is a mixture of topics: Topic-guided radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001331#d1e2923)][[code](https://github.com/chentaohuang/Topic-Guided-Radiology-Report-Generation)]
 
-Information Fusion'25
+**Information Fusion'25**
 - Enhancing discriminative ability in multimodal LLMs: A contrastive learning approach for CT report generation [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525003136)]
 
 **ESWA'25**
@@ -153,6 +153,8 @@ Information Fusion'25
 - CheXLearner: Text-Guided Fine-Grained Representation Learning for Progression Detection [[paper](https://arxiv.org/pdf/2505.06903)]
 - Describe Anything in Medical Images [[paper](https://arxiv.org/pdf/2505.05804)]
 - A Multimodal Multi-Agent Framework for Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.09787v1)]
+- Ultrasound Report Generation with Multimodal Large Language Models for Standardized Texts [[paper](https://arxiv.org/pdf/2505.08838)]
+
 
 ---
 
