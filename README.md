@@ -3,8 +3,18 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-We collect existing papers on radiology report generation published in prominent conferences and journals. 
-
+We collect existing papers on radiology report generation published in prominent conferences and journals. If you find this helpful, we kindly ask that you consider citing the following reference.
+```
+@misc{cvpr-2025-mlrg,
+      title={Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation}, 
+      author={Kang Liu and Zhuoqi Ma and Xiaolu Kang and Yunan Li and Kun Xie and Zhicheng Jiao and Qiguang Miao},
+      year={2025},
+      eprint={2502.20056},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.20056}, 
+}
+```
 
 ## Table of Contents
 
