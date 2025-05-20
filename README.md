@@ -133,6 +133,9 @@ We collect existing papers on radiology report generation published in prominent
 - Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856362)][[code](https://github.com/OpenMICG/AHP)]
 - Benchmarking Radiology Report Generation from Noisy Free-Texts [[paper](https://ieeexplore.ieee.org/document/11002452)]
 
+**Pattern Recognition Letters'25**
+- Integrating clinical knowledge and imaging for medical report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0167865525001783#sec4)]
+
 **arXiv'25**
 - GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation [[paper](https://arxiv.org/pdf/2501.02598)]
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation [[paper](https://arxiv.org/pdf/2501.03458)][[code](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main)]
