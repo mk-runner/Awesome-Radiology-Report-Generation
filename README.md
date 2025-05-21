@@ -109,6 +109,9 @@ We collect existing papers on radiology report generation published in prominent
 **TMM'25**
 - Adaptive Medical Topic Learning for Enhanced Fine-grained Cross-modal Alignment in Medical Report Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10891465)]
 
+**TIP'25**
+- Cross-Modal Causal Representation Learning for Radiology Report Generation [[paper](https://pubmed.ncbi.nlm.nih.gov/40378020/)][[code](https://github.com/WissingChen/CMCRL)]
+
 **TMI'25**
 - Spatio-Temporal and Retrieval-Augmented Modeling for Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10938723)][[code](https://github.com/yangyan22/STREAM)]
 - Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10798513)][[code](https://github.com/jinghanSunn/CoE-DG)]
@@ -167,6 +170,8 @@ We collect existing papers on radiology report generation published in prominent
 - Describe Anything in Medical Images [[paper](https://arxiv.org/pdf/2505.05804)]
 - A Multimodal Multi-Agent Framework for Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.09787v1)]
 - Ultrasound Report Generation with Multimodal Large Language Models for Standardized Texts [[paper](https://arxiv.org/pdf/2505.08838)]
+- CorBenchX: Large-Scale Chest X-Ray Error Dataset and Vision–Language Model Benchmark for Report Error Correction [[paper](https://arxiv.org/pdf/2505.12057v1)][[code](https://github.com/Liqq1/CorBenchX)]
+- Online Iterative Self-Alignment for Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.11983v1)]
 
 
 ---
