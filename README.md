@@ -84,6 +84,10 @@ We collect existing papers on radiology report generation published in prominent
 **ICML'25**
 - MedRAX: Medical Reasoning Agent for Chest X-ray [[paper](https://arxiv.org/pdf/2502.02673)][[code](https://github.com/bowang-lab/MedRAX)]
 
+**ACL'25**
+- RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection [[paper](https://arxiv.org/pdf/2505.14318v1)][[code](https://github.com/wjhou/Radar)]
+- Libra: Leveraging Temporal Images for Biomedical Radiology Analysis [[paper](https://arxiv.org/abs/2411.19378)][[code](https://github.com/X-iZhang/Libra)]
+
 **COLING'25**
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
 - CmEAA: Cross-modal Enhancement and Alignment Adapter for Radiology Report Generation [[paper](https://aclanthology.org/2025.coling-main.571/)]
