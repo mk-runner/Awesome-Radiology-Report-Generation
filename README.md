@@ -177,6 +177,8 @@ We collect existing papers on radiology report generation published in prominent
 - Ultrasound Report Generation with Multimodal Large Language Models for Standardized Texts [[paper](https://arxiv.org/pdf/2505.08838)]
 - CorBenchX: Large-Scale Chest X-Ray Error Dataset and Vision–Language Model Benchmark for Report Error Correction [[paper](https://arxiv.org/pdf/2505.12057v1)][[code](https://github.com/Liqq1/CorBenchX)]
 - Online Iterative Self-Alignment for Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.11983v1)]
+- CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays [[paper](https://arxiv.org/pdf/2505.18087)][[code](https://github.com/ttumyche/CXReasonBench)]
+- CLEAR: A Clinically-Grounded Tabular Framework for Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2505.16325)]
 
 
 ---
