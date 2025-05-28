@@ -555,9 +555,10 @@ ICCV'23
 - [radgraph](https://pypi.org/project/radgraph/)
 - [mimic-cxr](https://github.com/MIT-LCP/mimic-cxr)
 - [RaTEScore](https://pypi.org/project/RaTEScore/)
+- [torchxrayvision](https://github.com/mlmed/torchxrayvision)
   
 
 
-## Feel free to contact me if you find any interesting papers missing.
+## Feel free to reach out to me if you find any interesting papers missing.
 email: kangliu422@gmail.com
 WeChat: kangliu422
