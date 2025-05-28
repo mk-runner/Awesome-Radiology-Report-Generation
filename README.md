@@ -144,6 +144,9 @@ We collect existing papers on radiology report generation published in prominent
 **Pattern Recognition Letters'25**
 - Integrating clinical knowledge and imaging for medical report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0167865525001783#sec4)]
 
+**WWW Companion'25**
+- Diversity-Augmented Diffusion Network With LLM Assistance For Radiology Report Generation [[paper](https://dl.acm.org/doi/10.1145/3701716.3717555)]
+
 **arXiv'25**
 - GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation [[paper](https://arxiv.org/pdf/2501.02598)]
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation [[paper](https://arxiv.org/pdf/2501.03458)][[code](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main)]
@@ -179,6 +182,7 @@ We collect existing papers on radiology report generation published in prominent
 - Online Iterative Self-Alignment for Radiology Report Generation [[paper](https://arxiv.org/pdf/2505.11983v1)]
 - CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays [[paper](https://arxiv.org/pdf/2505.18087)][[code](https://github.com/ttumyche/CXReasonBench)]
 - CLEAR: A Clinically-Grounded Tabular Framework for Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2505.16325)]
+- Grounding Chest X-Ray Visual Question Answering with Generated Radiology Reports [[paper](https://arxiv.org/pdf/2505.16624)]
 
 
 ---
