@@ -57,6 +57,7 @@ We collect existing papers on radiology report generation published in prominent
 **Nature Communications'25**
 - Towards a holistic framework for multimodal LLM in 3D brain CT radiology report generation [[paper](https://www.nature.com/articles/s41467-025-57426-0)]
 - A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings [[paper](https://www.nature.com/articles/s41467-025-58344-x)][[code](https://github.com/microsoft/chexprompt)]
+- Generating dermatopathology reports from gigapixel whole slide images with HistoGPT [[paper](https://www.nature.com/articles/s41467-025-60014-x)]
 
 **TPAMI'25**
 - Diagnostic Captioning by Cooperative Task Interactions and Sample-graph Consistency [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974505)]
@@ -183,7 +184,9 @@ We collect existing papers on radiology report generation published in prominent
 - CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays [[paper](https://arxiv.org/pdf/2505.18087)][[code](https://github.com/ttumyche/CXReasonBench)]
 - CLEAR: A Clinically-Grounded Tabular Framework for Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2505.16325)]
 - Grounding Chest X-Ray Visual Question Answering with Generated Radiology Reports [[paper](https://arxiv.org/pdf/2505.16624)]
-
+- MRGAgents: A Multi-Agent Framework for Improved Medical Report Generation with Med-LVLMs [[paper](https://arxiv.org/pdf/2505.18530)]
+- LUNGUAGE: A Benchmark for Structured and Sequential Chest X-ray Interpretation [[paper](https://arxiv.org/pdf/2505.21190)][[code](https://github.com/SuperSupermoon/Lunguage)]
+- Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2505.22222v1)]
 
 ---
 
