@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-We collect existing papers on radiology report generation published in prominent conferences and journals. If you find this helpful, we kindly ask that you consider citing the following reference.
+We collect existing papers on radiology report generation published in prominent conferences and journals. If you find this helpful, please consider citing the following reference.
 ```
 @misc{cvpr-2025-mlrg,
       title={Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation}, 
@@ -187,6 +187,7 @@ We collect existing papers on radiology report generation published in prominent
 - MRGAgents: A Multi-Agent Framework for Improved Medical Report Generation with Med-LVLMs [[paper](https://arxiv.org/pdf/2505.18530)]
 - LUNGUAGE: A Benchmark for Structured and Sequential Chest X-ray Interpretation [[paper](https://arxiv.org/pdf/2505.21190)][[code](https://github.com/SuperSupermoon/Lunguage)]
 - Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2505.22222v1)]
+- Interpreting Chest X-rays Like a Radiologist: A Benchmark with Clinical Reasoning [[paper](https://arxiv.org/pdf/2505.23143v1)][[code](https://github.com/guanjinquan/CXRTrek)]
 
 ---
 
