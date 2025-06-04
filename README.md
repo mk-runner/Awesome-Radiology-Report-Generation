@@ -190,6 +190,7 @@ We collect existing papers on radiology report generation published in prominent
 - Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2505.22222v1)]
 - Interpreting Chest X-rays Like a Radiologist: A Benchmark with Clinical Reasoning [[paper](https://arxiv.org/pdf/2505.23143v1)][[code](https://github.com/guanjinquan/CXRTrek)]
 - Automated Structured Report Generation [[paper](https://arxiv.org/pdf/2505.24223v1)][[project](https://stanford-aimi.github.io/srrg.html)]
+- Structuring Radiology Reports: Challenging LLMs with Lightweight Models [[paper](https://arxiv.org/pdf/2506.00200v1)][[project](https://stanford-aimi.github.io/structuring.html)]
 
 ---
 
