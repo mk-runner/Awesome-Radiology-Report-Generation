@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-We collect existing papers on radiology report generation published in prominent conferences and journals. If you find this helpful, please consider citing the following reference.
+We collect existing papers on radiology report generation that have been published in prominent conferences and journals. If you find this helpful, please consider citing the following reference.
 ```
 @misc{cvpr-2025-mlrg,
       title={Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation}, 
@@ -65,6 +65,9 @@ We collect existing papers on radiology report generation published in prominent
 **Nature Computational Science'25**
 - Evaluating and Mitigating Bias in AI-Based Medical Text Generation [[paper](https://arxiv.org/pdf/2504.17279v1)] [[code](https://github.com/iriscxy/GenFair)]
 - Toward fair AI-driven medical text generation [[paper](https://www.nature.com/articles/s43588-025-00807-8)]
+
+**Radiology: Artificial Intelligence'25**
+- Retrieval-Augmented Generation with Large Language Models in Radiology: From Theory to Practice [[paper](https://pubs.rsna.org/doi/abs/10.1148/ryai.240790)]
 
 **CVPR'25**
 - Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2502.20056)] [[code](https://github.com/mk-runner/MLRG)]
