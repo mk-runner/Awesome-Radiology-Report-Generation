@@ -68,6 +68,9 @@ We collect existing papers on radiology report generation that have been publish
 **Radiology: Artificial Intelligence'25**
 - Retrieval-Augmented Generation with Large Language Models in Radiology: From Theory to Practice [[paper](https://pubs.rsna.org/doi/abs/10.1148/ryai.240790)]
 
+**JAMA Network Open'25**
+- Efficiency and Quality of Generative AI–Assisted Radiograph Reporting [[paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834943)]
+
 **CVPR'25**
 - Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2502.20056)] [[code](https://github.com/mk-runner/MLRG)]
 - FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models [[paper](https://arxiv.org/pdf/2411.18672)]
@@ -194,6 +197,8 @@ We collect existing papers on radiology report generation that have been publish
 - Automated Structured Report Generation [[paper](https://arxiv.org/pdf/2505.24223v1)][[project](https://stanford-aimi.github.io/srrg.html)]
 - Structuring Radiology Reports: Challenging LLMs with Lightweight Models [[paper](https://arxiv.org/pdf/2506.00200v1)][[project](https://stanford-aimi.github.io/structuring.html)]
 - Evaluating Large Language Models for Zero-Shot Disease Labeling in CT Radiology Reports Across Organ Systems [[paper](https://arxiv.org/pdf/2506.03259v1)]
+- ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding [[paper](https://arxiv.org/pdf/2506.04353)]
+
 
 ---
 
