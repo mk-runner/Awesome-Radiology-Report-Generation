@@ -50,6 +50,10 @@ We collect existing papers on radiology report generation that have been publish
 
 ## Papers
 ### 2025
+
+**Nature'25**
+- A fully open AI foundation model applied to chest radiography [[paper](https://www.nature.com/articles/s41586-025-09079-8)]
+
 **Nature Medicine'25**
 - A generalist medical language model for disease diagnosis assistance [[paper](https://www.nature.com/articles/s41591-024-03416-6)][[code](https://github.com/medfound/medfound)]
 
@@ -200,7 +204,7 @@ We collect existing papers on radiology report generation that have been publish
 - Structuring Radiology Reports: Challenging LLMs with Lightweight Models [[paper](https://arxiv.org/pdf/2506.00200v1)][[project](https://stanford-aimi.github.io/structuring.html)]
 - Evaluating Large Language Models for Zero-Shot Disease Labeling in CT Radiology Reports Across Organ Systems [[paper](https://arxiv.org/pdf/2506.03259v1)]
 - ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding [[paper](https://arxiv.org/pdf/2506.04353)]
-
+- Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning [[paper](https://arxiv.org/pdf/2506.07044)][[project](https://alibaba-damo-academy.github.io/lingshu/)]
 
 ---
 
