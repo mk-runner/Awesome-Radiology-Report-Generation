@@ -206,6 +206,7 @@ We collect existing papers on radiology report generation that have been publish
 - Evaluating Large Language Models for Zero-Shot Disease Labeling in CT Radiology Reports Across Organ Systems [[paper](https://arxiv.org/pdf/2506.03259v1)]
 - ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding [[paper](https://arxiv.org/pdf/2506.04353)]
 - Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning [[paper](https://arxiv.org/pdf/2506.07044)][[project](https://alibaba-damo-academy.github.io/lingshu/)]
+- Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning [[paper](https://arxiv.org/pdf/2506.15477v1)]
 
 ---
 
