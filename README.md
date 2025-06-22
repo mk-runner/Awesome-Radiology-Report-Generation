@@ -154,6 +154,7 @@ We collect existing papers on radiology report generation that have been publish
 **JBHI'25**
 - Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856362)][[code](https://github.com/OpenMICG/AHP)]
 - Benchmarking Radiology Report Generation from Noisy Free-Texts [[paper](https://ieeexplore.ieee.org/document/11002452)]
+- Automatic Radiology Report Generation Based on State-Space Model [[paper](https://ieeexplore.ieee.org/abstract/document/11037239)]
 
 **Pattern Recognition Letters'25**
 - Integrating clinical knowledge and imaging for medical report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0167865525001783#sec4)]
