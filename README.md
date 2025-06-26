@@ -88,6 +88,9 @@ We collect existing papers on radiology report generation that have been publish
 **ICLR'25**
 - MedRegA: Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks [[paper](https://arxiv.org/abs/2410.18387)][[code](https://github.com/xmed-lab/MedRegA)]
 
+**ICCV'25**
+- GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis (**GEMeX**)[[paper](https://arxiv.org/pdf/2411.16778)][[project](https://huggingface.co/datasets/BoKelvin/GEMeX)]
+
 **AAAI'25**
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
 - HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation [[paper](https://www.arxiv.org/pdf/2412.11070)][[code](https://github.com/TengfeiLiu966/HC-LLM)]
