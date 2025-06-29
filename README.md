@@ -131,6 +131,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **TMM'25**
 - Adaptive Medical Topic Learning for Enhanced Fine-grained Cross-modal Alignment in Medical Report Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10891465)]
+- Enhancing Radiology Report Generation via Multi-Phased Supervision [[paper](https://ieeexplore.ieee.org/document/11050440)][[code](https://github.com/zailongchen/MultiP-R2Gen)]
 
 **TIP'25**
 - Cross-Modal Causal Representation Learning for Radiology Report Generation [[paper](https://pubmed.ncbi.nlm.nih.gov/40378020/)][[code](https://github.com/WissingChen/CMCRL)]
@@ -215,6 +216,7 @@ We collect existing papers on radiology report generation that have been publish
 - Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning [[paper](https://arxiv.org/pdf/2506.07044)][[project](https://alibaba-damo-academy.github.io/lingshu/)]
 - Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning [[paper](https://arxiv.org/pdf/2506.15477v1)].
 - Grounding Chest X-Ray Visual Question Answering with Generated Radiology Reports [[paper](https://arxiv.org/pdf/2505.16624)]
+- Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation [[paper](https://arxiv.org/pdf/2506.19665)]
 
 ---
 
