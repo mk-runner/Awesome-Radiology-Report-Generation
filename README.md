@@ -123,6 +123,8 @@ We collect existing papers on radiology report generation that have been publish
 - R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[paper](https://arxiv.org/abs/2410.18135)][[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
 - Prompt-Guided Radiology Report Generation Utilizing SAM [[paper](https://ieeexplore.ieee.org/abstract/document/10980655)]
 
+ICMR'25
+- ClearView: A Quality-aware Cross-modal Alignment Framework for CT Report Generation [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733287)]
 
 **Radiology'25**
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
