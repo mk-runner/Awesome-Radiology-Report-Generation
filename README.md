@@ -114,6 +114,7 @@ We collect existing papers on radiology report generation that have been publish
 - DDGIP: Radiology Report Generation Through Disease Description Graph and Informed Prompting [[paper](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-naacl.215.pdf)]
 - VividMed: Vision Language Model with Versatile Visual Grounding for Medicine [[paper](https://arxiv.org/pdf/2410.12694)][[code](https://github.com/function2-llx/MMMM)]
 - Fact-aware multimodal retrieval augmentation for accurate medical radiology report generation [[paper](https://arxiv.org/abs/2407.15268)][[code](https://github.com/cxcscmu/FactMM-RAG?tab=readme-ov-file)]
+- GPT-4V Cannot Generate Radiology Reports Yet [paper](https://aclanthology.org/2025.findings-naacl.113/)]
 
 **ICASSP'25**
 - A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888634)]
