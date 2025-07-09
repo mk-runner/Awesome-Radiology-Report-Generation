@@ -124,7 +124,7 @@ We collect existing papers on radiology report generation that have been publish
 - R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[paper](https://arxiv.org/abs/2410.18135)][[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
 - Prompt-Guided Radiology Report Generation Utilizing SAM [[paper](https://ieeexplore.ieee.org/abstract/document/10980655)]
 
-ICMR'25
+**ICMR'25**
 - ClearView: A Quality-aware Cross-modal Alignment Framework for CT Report Generation [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733287)]
 
 **Radiology'25**
@@ -221,6 +221,8 @@ ICMR'25
 - Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning [[paper](https://arxiv.org/pdf/2506.15477v1)].
 - Grounding Chest X-Ray Visual Question Answering with Generated Radiology Reports [[paper](https://arxiv.org/pdf/2505.16624)]
 - Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation [[paper](https://arxiv.org/pdf/2506.19665)]
+- Bridging Vision and Language: Optimal Transport-Driven Radiology Report Generation via LLMs [[paper](https://arxiv.org/abs/2507.03908v1)]
+- MedGemma Technical Report [[paper](http://arxiv.org/pdf/2507.05201v1)]
 
 ---
 
