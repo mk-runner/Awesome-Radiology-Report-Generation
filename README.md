@@ -223,6 +223,7 @@ We collect existing papers on radiology report generation that have been publish
 - Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation [[paper](https://arxiv.org/pdf/2506.19665)]
 - Bridging Vision and Language: Optimal Transport-Driven Radiology Report Generation via LLMs [[paper](https://arxiv.org/abs/2507.03908v1)]
 - MedGemma Technical Report [[paper](http://arxiv.org/pdf/2507.05201v1)]
+- MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation [[paper](https://arxiv.org/pdf/2507.06992v1)]
 
 ---
 
