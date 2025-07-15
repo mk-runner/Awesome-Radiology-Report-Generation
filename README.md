@@ -227,7 +227,8 @@ We collect existing papers on radiology report generation that have been publish
 - Bridging Vision and Language: Optimal Transport-Driven Radiology Report Generation via LLMs [[paper](https://arxiv.org/abs/2507.03908v1)]
 - MedGemma Technical Report [[paper](http://arxiv.org/pdf/2507.05201v1)]
 - MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation [[paper](https://arxiv.org/pdf/2507.06992v1)]
-- MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation [[paper](https://arxiv.org/pdf/2507.07568)]
+- Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation [[paper](https://arxiv.org/pdf/2507.07568)]
+- A Unified Platform for Radiology Report Generation and Clinician-Centered AI Evaluation [[paper](https://www.medrxiv.org/content/10.1101/2025.07.07.25331018v1#:~:text=In%20this%20study%2C%20we%20conducted%20a%20radiology-focused%20Turing,two%20core%20modules%3A%20Report%20Generation%20and%20Report%20Evaluation.)]
   
 ---
 
