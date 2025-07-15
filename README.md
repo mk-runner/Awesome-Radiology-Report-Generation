@@ -106,6 +106,9 @@ We collect existing papers on radiology report generation that have been publish
 - RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection [[paper](https://arxiv.org/pdf/2505.14318v1)][[code](https://github.com/wjhou/Radar)]
 - Libra: Leveraging Temporal Images for Biomedical Radiology Analysis [[paper](https://arxiv.org/abs/2411.19378)][[code](https://github.com/X-iZhang/Libra)]
 
+**ACMMM'25**
+- CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale [[paper](https://arxiv.org/pdf/2507.06959)][[code](https://github.com/ResearchGroup-MedVLLM/CheX-Phi35V)]
+
 **COLING'25**
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
 - CmEAA: Cross-modal Enhancement and Alignment Adapter for Radiology Report Generation [[paper](https://aclanthology.org/2025.coling-main.571/)]
@@ -224,7 +227,8 @@ We collect existing papers on radiology report generation that have been publish
 - Bridging Vision and Language: Optimal Transport-Driven Radiology Report Generation via LLMs [[paper](https://arxiv.org/abs/2507.03908v1)]
 - MedGemma Technical Report [[paper](http://arxiv.org/pdf/2507.05201v1)]
 - MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation [[paper](https://arxiv.org/pdf/2507.06992v1)]
-
+- MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation [[paper](https://arxiv.org/pdf/2507.07568)]
+  
 ---
 
 ### 2024
