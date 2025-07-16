@@ -160,6 +160,7 @@ We collect existing papers on radiology report generation that have been publish
 - RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425010413#sec4)][[code](https://github.com/lihongzhao99/RRGMambaFormer)]
 - Hybrid graph-based radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425019475#absh001)]
 - Ultrasound report generation with fuzzy knowledge and multi-modal large language model [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425021748)]
+- MedKit: Multi-level Feature Distillation with Knowledge Injection for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S095741742502620X?__cf_chl_tk=oFOtcu7IJJha61Q_hVexYlmUQoA.MdgG5OJHrxCG9FM-1752642219-1.0.1.1-8xBE2YklvaJPQqXhQfFUokGxYK4VXMNdIbxdckSNGao#abs0001)][[code](https://github.com/sujaly/MedKit)]
 
 **KBS'25**
 - Context-enhanced framework for medical image report generation using multimodal contexts [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124015478)][[code](https://github.com/lihongzhao99/Context-Enhanced-Framework)]
