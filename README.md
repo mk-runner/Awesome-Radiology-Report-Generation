@@ -432,9 +432,6 @@ We collect existing papers on radiology report generation that have been publish
 **ICLR'23**
 - Advancing radiograph representation learning with masked record modeling [[paper](https://openreview.net/forum?id=w-x7U26GM7j)][[code](https://github.com/RL4M)]
 
-**AAAI'23**
-- ** [[paper]()] [[code]()]
-
 **CVPR'23**
 - KiUT: Knowledge-injected U-Transformer for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10203622)] [[code]]
 - METransformer: Radiology report generation by transformer with multiple learnable expert tokens [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html)][[code]]
@@ -457,8 +454,6 @@ ICCV'23
 **MICCAI'23**
 - Utilizing Longitudinal Chest X-Rays and Reports to Pre-Fill Radiology Reports [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_19)] [[code](https://github.com/CelestialShine/Longitudinal-Chest-X-Ray)]
 
-**BIBM'23**
-- ** [[paper]()] [[code]()]
 
 **ML4H'23**
 - Pragmatic Radiology Report Generation [[paper](https://proceedings.mlr.press/v225/nguyen23a.html)] [[code](https://github.com/ChicagoHAI/llm_radiology)]
@@ -542,6 +537,7 @@ ICCV'23
 - Automatic Medical Report Generation: Methods and Applications (**arXiv'2408**) [[paper](https://arxiv.org/pdf/2408.13988)]
 - Automatic medical report generation based on deep learning: A state of the art survey (**Computerized Medical Imaging and Graphics'25**)[[paper](https://www.sciencedirect.com/science/article/pii/S0895611124001630)]
 - A survey of deep-learning-based radiology report generation using multimodal inputs (**Medical Image Analysis'25**)[[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001744#bib1)]
+- Medical radiology report generation: A systematic review of current deep learning methods, trends, and future directions (**Artificial Intelligence in Medicine'25**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0933365725001551)]
 
 ## Dataset
 - MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs (**MIMIC-CXR**)  [[paper](https://arxiv.org/abs/1901.07042)][[data](https://physionet.org/content/mimic-cxr/2.0.0/)].
