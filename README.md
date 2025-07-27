@@ -148,6 +148,9 @@ We collect existing papers on radiology report generation that have been publish
 - Large Language Model with Region-guided Referring and Grounding for CT Report Generation [[[paper](https://arxiv.org/pdf/2411.15539)][[code](https://github.com/zhi-xuan-chen/Reg2RG)]
 - A Chain of Diagnosis Framework for Accurate and Explainable Radiology Report Generation [[paper](https://pubmed.ncbi.nlm.nih.gov/40608887/)]
 
+**TNNLS'25**
+- OS-RRG: Observation State-Aware Radiology Report Generation With Balanced Diagnosis and Attention Intervention [[paper](https://ieeexplore.ieee.org/document/11095809)]
+
 **MedIA'25**
 - Report is a mixture of topics: Topic-guided radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001331#d1e2923)][[code](https://github.com/chentaohuang/Topic-Guided-Radiology-Report-Generation)]
 
