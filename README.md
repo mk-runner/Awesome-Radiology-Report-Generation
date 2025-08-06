@@ -239,6 +239,7 @@ We collect existing papers on radiology report generation that have been publish
 - A Unified Platform for Radiology Report Generation and Clinician-Centered AI Evaluation [[paper](https://www.medrxiv.org/content/10.1101/2025.07.07.25331018v1#:~:text=In%20this%20study%2C%20we%20conducted%20a%20radiology-focused%20Turing,two%20core%20modules%3A%20Report%20Generation%20and%20Report%20Evaluation.)]
 - Semantically Informed Salient Regions Guided Radiology Report Generation [[paper](https://arxiv.org/pdf/2507.11015)]
 - CLARIFID: Improving Radiology Report Generation by Reinforcing Clinically Accurate Impressions and Enforcing Detailed Findings [[paper](https://arxiv.org/pdf/2507.17234v1)]
+- SURE-Med: Systematic Uncertainty Reduction for Enhanced Reliability in Medical Report Generation [[paper](https://arxiv.org/pdf/2508.01693v1)]
   
 ---
 
