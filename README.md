@@ -240,6 +240,9 @@ We collect existing papers on radiology report generation that have been publish
 - Semantically Informed Salient Regions Guided Radiology Report Generation [[paper](https://arxiv.org/pdf/2507.11015)]
 - CLARIFID: Improving Radiology Report Generation by Reinforcing Clinically Accurate Impressions and Enforcing Detailed Findings [[paper](https://arxiv.org/pdf/2507.17234v1)]
 - SURE-Med: Systematic Uncertainty Reduction for Enhanced Reliability in Medical Report Generation [[paper](https://arxiv.org/pdf/2508.01693v1)]
+- R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation [[paper](https://arxiv.org/pdf/2508.03426v1)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
+- Clinically Grounded Agent-based Report Evaluation: An Interpretable Metric for Radiology Report Generation [[paper](https://arxiv.org/pdf/2508.02808v1)]
+
   
 ---
 
