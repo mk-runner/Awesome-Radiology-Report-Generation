@@ -64,6 +64,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **TPAMI'25**
 - Diagnostic Captioning by Cooperative Task Interactions and Sample-graph Consistency [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974505)]
+- Uncertainty-aware Medical Diagnostic Phrase Identification and Grounding [[paper](https://arxiv.org/pdf/2404.06798)][[code](https://github.com/Cocofeat/uMedGround)]
 
 **Nature Computational Science'25**
 - Evaluating and Mitigating Bias in AI-Based Medical Text Generation [[paper](https://arxiv.org/pdf/2504.17279v1)] [[code](https://github.com/iriscxy/GenFair)]
@@ -314,6 +315,8 @@ We collect existing papers on radiology report generation that have been publish
 - Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation [[paper](https://papers.miccai.org/miccai-2024/paper/1475_paper.pdf)]
 - KARGEN: Knowledge-Enhanced Automated Radiology Report Generation Using Large Language Models [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_36)]
 - Continually Tuning a Large Language Model for Multi-domain Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_17)]
+- Diagnose with Uncertainty Awareness: Diagnostic Uncertainty Encoding Framework for Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-73158-7_4)]
+
 
 **CIKM'24**
 - CLR2G: Cross-modal Contrastive Learning on Radiology Report [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679668)]
