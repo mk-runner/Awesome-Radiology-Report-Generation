@@ -113,6 +113,9 @@ We collect existing papers on radiology report generation that have been publish
 **ACMMM'25**
 - CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale [[paper](https://arxiv.org/pdf/2507.06959)][[code](https://github.com/ResearchGroup-MedVLLM/CheX-Phi35V)]
 
+**ACL'25**
+- Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2505.22222)]
+
 **COLING'25**
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
 - CmEAA: Cross-modal Enhancement and Alignment Adapter for Radiology Report Generation [[paper](https://aclanthology.org/2025.coling-main.571/)]
