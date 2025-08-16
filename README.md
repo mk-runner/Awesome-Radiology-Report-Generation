@@ -162,6 +162,9 @@ We collect existing papers on radiology report generation that have been publish
 **Information Fusion'25**
 - Enhancing discriminative ability in multimodal LLMs: A contrastive learning approach for CT report generation [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525003136)]
 
+**TBME'25**
+- ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Impression Generation on Multi-institution and Multi-system Data [[paper](https://ieeexplore.ieee.org/abstract/document/11122334)]
+
 **ESWA'25**
 - Recalibrated cross-modal alignment network for radiology report generation with weakly supervised contrastive learning [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425000168)]
 - HKRG: Hierarchical knowledge integration for radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425002441)][[code](https://github.com/LuckyAI-wb/HKRG)]
