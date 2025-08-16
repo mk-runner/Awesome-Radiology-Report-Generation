@@ -244,6 +244,7 @@ We collect existing papers on radiology report generation that have been publish
 - R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation [[paper](https://arxiv.org/pdf/2508.03426v1)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - Clinically Grounded Agent-based Report Evaluation: An Interpretable Metric for Radiology Report Generation [[paper](https://arxiv.org/pdf/2508.02808v1)]
 - PET2Rep: Towards Vision-Language Model-Drived Automated Radiology Report Generation for Positron Emission Tomography [[paper](https://arxiv.org/pdf/2508.04062)]
+- Med-GLIP: Advancing Medical Language-Image Pre-training with Large-scale Grounded Dataset [[paper](https://arxiv.org/pdf/2508.10528v1)]
 
   
 ---
