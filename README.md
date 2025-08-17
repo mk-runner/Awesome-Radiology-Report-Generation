@@ -181,6 +181,7 @@ We collect existing papers on radiology report generation that have been publish
 **KBS'25**
 - Context-enhanced framework for medical image report generation using multimodal contexts [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124015478)][[code](https://github.com/lihongzhao99/Context-Enhanced-Framework)]
 - Abnormal-region-aware Multi-modal Feature Fusion for medical report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125005842#sec4)]
+- Dual-Level Semantic Collaboration and Inference Network for Medical Image Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501319X)]
 
 **JBHI'25**
 - Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856362)][[code](https://github.com/OpenMICG/AHP)]
