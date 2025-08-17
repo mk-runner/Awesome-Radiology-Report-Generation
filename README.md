@@ -46,6 +46,8 @@ We collect existing papers on radiology report generation that have been publish
 - MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging (**arXiv'2410**)[[paper](https://arxiv.org/abs/2410.06542)]
 - BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs (**ICLR'24**)[[paper](https://arxiv.org/pdf/2310.03320)][[code](https://github.com/RyanWangZf/BioBridge)]
 - Eye-gaze Guided Multi-modal Alignment for Medical Representation Learning (**NIPS'24**) [[paper](https://openreview.net/pdf?id=0bINeW40u4)]
+- Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning (**arXiv'2405**)[[paper](https://arxiv.org/pdf/2405.01469)]
+- 
 
 
 ## Papers
@@ -594,6 +596,7 @@ ICCV'23
 - **ReXErr-v1**: Clinically Meaningful Chest X-Ray Report Errors Derived from MIMIC-CXR [[data](https://physionet.org/content/rexerr-v1/1.0.0/)]
 - **ReXGradient-160K**: A Large-Scale Publicly Available Dataset of Chest Radiographs with Free-text Reports [[paper](https://arxiv.org/pdf/2505.00228)][[data](https://huggingface.co/datasets/rajpurkarlab/ReXGradient-160K/tree/main)]
 - PARROT: An Open Multilingual Radiology Reports Dataset (**PARROT**) [[paper](https://arxiv.org/abs/2507.22939)][[data](https://github.com/PARROT-reports/PARROT_v1.0)]
+- CXR-LT: Multi-Label Long-Tailed Classification on Chest X-Rays (**CXR-LT**)[[dataset](https://physionet.org/content/cxr-lt-iccv-workshop-cvamd/2.0.0/)]
 
 ## Metrics
 - FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores (**arXiv'2405**) [[paper](https://arxiv.org/pdf/2405.20613)][[code](https://github.com/rajpurkarlab/FineRadScore)]
