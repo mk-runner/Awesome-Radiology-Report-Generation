@@ -72,7 +72,7 @@ We collect existing papers on radiology report generation that have been publish
 - Evaluating and Mitigating Bias in AI-Based Medical Text Generation [[paper](https://arxiv.org/pdf/2504.17279v1)] [[code](https://github.com/iriscxy/GenFair)]
 - Toward fair AI-driven medical text generation [[paper](https://www.nature.com/articles/s43588-025-00807-8)]
 
-**npj digital medicine'25**
+**npj Digital Medicine'25**
 - Keyword-based AI assistance in the generation of radiology reports: A pilot study [[paper](https://www.nature.com/articles/s41746-025-01889-4)]
 
 **Radiology: Artificial Intelligence'25**
@@ -254,6 +254,7 @@ We collect existing papers on radiology report generation that have been publish
 - Clinically Grounded Agent-based Report Evaluation: An Interpretable Metric for Radiology Report Generation [[paper](https://arxiv.org/pdf/2508.02808v1)]
 - PET2Rep: Towards Vision-Language Model-Drived Automated Radiology Report Generation for Positron Emission Tomography [[paper](https://arxiv.org/pdf/2508.04062)]
 - Med-GLIP: Advancing Medical Language-Image Pre-training with Large-scale Grounded Dataset [[paper](https://arxiv.org/pdf/2508.10528v1)]
+- AMRG: Extend Vision Language Models for Automatic Mammography Report Generation [[paper](https://arxiv.org/pdf/2508.09225)]
 
   
 ---
