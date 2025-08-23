@@ -617,6 +617,7 @@ ICCV'23
 - ER2Score: LLM-based Explainable and Customizable Metric for Assessing Radiology Reports with Reward-Control Loss (**arXiv'2411**)[[paper](https://arxiv.org/pdf/2411.17301)]
 - FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models (**arXiv'2411**)[[paper](https://arxiv.org/pdf/2411.18672)]
 - A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings (**CheXprompt**)[[paper](https://www.nature.com/articles/s41467-025-58344-x)][[code](https://github.com/microsoft/chexprompt)]
+- RadReason: Radiology Report Evaluation Metric with Reasons and Sub-Scores (**RadReason'2508**) [[paper](https://arxiv.org/pdf/2508.15464v1)]
 
 ## Other Resources
 - Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing (**CVPR'23**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.pdf)[[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
