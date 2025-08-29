@@ -118,6 +118,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **IJCAI'25**
 - RRG-Mamba: Efficient Radiology Report Generation with State Space Model [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4573.pdf)][[code](https://github.com/Eleanorhxd/RRG-Mamba)]
+- Cyclic Vision-Language Manipulator: Towards Reliable and Fine-Grained Image Interpretation for Automated Report Generation [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1579.pdf)]
 
 **COLING'25**
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
