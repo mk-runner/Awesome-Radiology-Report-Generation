@@ -145,6 +145,7 @@ We collect existing papers on radiology report generation that have been publish
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
 - Diagnostic accuracy and clinical value of a domain-specific multimodal generative AI model for chest radiograph report generation [[paper](https://pubs.rsna.org/doi/full/10.1148/radiol.241476)]
 - RadSearch, a Semantic Search Model for Accurate Radiology Report Retrieval with Large Language Model Integration [[paper](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240686)]
+- LLMs for Radiology Reports: From General Purpose to Light-Weight Domain Adaptation [[paper](https://pubs.rsna.org/doi/abs/10.1148/radiol.252524)]
 
 **TMM'25**
 - Adaptive Medical Topic Learning for Enhanced Fine-grained Cross-modal Alignment in Medical Report Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10891465)]
@@ -260,6 +261,7 @@ We collect existing papers on radiology report generation that have been publish
 - HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks [[paper](https://arxiv.org/pdf/2508.12778v1)]
 - PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2508.05353)][[code](https://github.com/mk-runner/PriorRG)]
 - Eyes on the Image: Gaze Supervised Multimodal Learning for Chest X-ray Diagnosis and Report Generation [[paper](https://arxiv.org/pdf/2508.13068v1)]
+- 
 
   
 ---
