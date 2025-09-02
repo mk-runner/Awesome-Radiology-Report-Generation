@@ -96,6 +96,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **ICCV'25**
 - GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis (**GEMeX**)[[paper](https://arxiv.org/pdf/2411.16778)][[project](https://huggingface.co/datasets/BoKelvin/GEMeX)]
+- CT-GRAPH: Hierarchical Graph Attention Network for Anatomy-Guided CT Report Generation (**workshop**) [[paper](https://arxiv.org/pdf/2508.05375?)][[code](https://github.com/hakal104/CT-GRAPH)]
 
 **AAAI'25**
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
@@ -261,7 +262,6 @@ We collect existing papers on radiology report generation that have been publish
 - HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks [[paper](https://arxiv.org/pdf/2508.12778v1)]
 - PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2508.05353)][[code](https://github.com/mk-runner/PriorRG)]
 - Eyes on the Image: Gaze Supervised Multimodal Learning for Chest X-ray Diagnosis and Report Generation [[paper](https://arxiv.org/pdf/2508.13068v1)]
-- 
 
   
 ---
