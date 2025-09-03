@@ -271,6 +271,9 @@ We collect existing papers on radiology report generation that have been publish
 - Collaboration between clinicians and vision–language models in radiology report generation [[paper](https://www.nature.com/articles/s41591-024-03302-1)]
 - A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks [[paper](https://arxiv.org/abs/2305.17100)][[code](https://github.com/taokz/BiomedGPT)]
 
+**Nature Communications'24**
+- Enhancing representation in radiography-reports foundation model: a granular alignment algorithm using masked contrastive learning [[paper](https://www.nature.com/articles/s41467-024-51749-0)][[code](https://github.com/SZUHvern/MaCo)]
+
 **NEJM AI'24**
 - Towards Generalist Biomedical AI [[paper](https://arxiv.org/pdf/2307.14334)][[code](https://github.com/kyegomez/Med-PaLM/tree/main)]
 
