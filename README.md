@@ -75,6 +75,9 @@ We collect existing papers on radiology report generation that have been publish
 **npj Digital Medicine'25**
 - Keyword-based AI assistance in the generation of radiology reports: A pilot study [[paper](https://www.nature.com/articles/s41746-025-01889-4)]
 
+**NEJM AI'25**
+- PadChest-GR: A Bilingual Chest X-Ray Dataset for Grounded Radiology Report Generation [[paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2401120)]
+
 **Radiology: Artificial Intelligence'25**
 - Retrieval-Augmented Generation with Large Language Models in Radiology: From Theory to Practice [[paper](https://pubs.rsna.org/doi/abs/10.1148/ryai.240790)]
 
@@ -605,7 +608,7 @@ ICCV'23
 - An open chest X-ray dataset with benchmarks for automatic radiology report generation in French (**CASIA-CXR**) [**Neurocomputing'24**] [[data](https://www.casia-cxr.net/)][[paper](https://www.sciencedirect.com/science/article/pii/S0925231224012499#aep-article-footnote-id1)]
 - PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology (**WSI-VQA**)[**arXiv'2401**][[paper](https://pathmmu-benchmark.github.io/#/)][[data](https://huggingface.co/datasets/jamessyx/PathMMU)]
 - MIMIC-Eye: Integrating MIMIC Datasets with REFLACX and Eye Gaze for Multimodal Deep Learning Applications (**MIMIC-Eye**)[[data](https://physionet.org/content/mimic-eye-multimodal-datasets/1.0.0/#files-panel)][[code](https://github.com/ChihchengHsieh/MIMIC-Eye)]
-- PadChest-GR: A Bilingual Chest X-ray Dataset for Grounded Radiology Report Generation (**PadChest-GR**)[[data](https://bimcv.cipf.es/bimcv-projects/padchest-gr/)][[paper](https://arxiv.org/pdf/2411.05085v1)]
+- PadChest-GR: A Bilingual Chest X-ray Dataset for Grounded Radiology Report Generation (**PadChest-GR**)[[data](https://bimcv.cipf.es/bimcv-projects/padchest-gr/)][[paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2401120)]
 - GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis (**GEMeX**)[[paper](https://arxiv.org/pdf/2411.16778)][[project](https://huggingface.co/datasets/BoKelvin/GEMeX)]
 - Computed-Tomography-Report-Generation-Datasets (CTRG), including CTRG-Brain-263K and CTRG-Chest-548K [[data](https://github.com/tangyuhao2016/CTRG)]
 - Multi-view CXR: A large-scale multi-view benchmark for chest X-ray report generation (**Multi-view CXR**) [[data](https://huggingface.co/datasets/MK-runner/Multi-view-CXR)][[paper](https://arxiv.org/abs/2411.10224)]
