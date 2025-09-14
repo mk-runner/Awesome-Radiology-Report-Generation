@@ -151,6 +151,9 @@ We collect existing papers on radiology report generation that have been publish
 **ICMR'25**
 - ClearView: A Quality-aware Cross-modal Alignment Framework for CT Report Generation [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733287)]
 
+**WACV'25**
+- ORID: Organ-Regional Information Driven Framework for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10943499)]
+
 **Radiology'25**
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
 - Diagnostic accuracy and clinical value of a domain-specific multimodal generative AI model for chest radiograph report generation [[paper](https://pubs.rsna.org/doi/full/10.1148/radiol.241476)]
