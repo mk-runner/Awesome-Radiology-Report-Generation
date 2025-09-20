@@ -278,6 +278,7 @@ We collect existing papers on radiology report generation that have been publish
 - HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks [[paper](https://arxiv.org/pdf/2508.12778v1)]
 - PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2508.05353)][[code](https://github.com/mk-runner/PriorRG)]
 - Eyes on the Image: Gaze Supervised Multimodal Learning for Chest X-ray Diagnosis and Report Generation [[paper](https://arxiv.org/pdf/2508.13068v1)]
+- EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal Ultrasound Intelligence [[paper](https://arxiv.org/pdf/2509.14977v1)]
 
   
 ---
