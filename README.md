@@ -140,6 +140,13 @@ We collect existing papers on radiology report generation that have been publish
 - Fact-aware multimodal retrieval augmentation for accurate medical radiology report generation [[paper](https://arxiv.org/abs/2407.15268)][[code](https://github.com/cxcscmu/FactMM-RAG?tab=readme-ov-file)]
 - GPT-4V Cannot Generate Radiology Reports Yet [paper](https://aclanthology.org/2025.findings-naacl.113/)]
 
+**MICCAI'25**
+- Phrase-Grounded Fact-Checking for Automatically Generated Chest X-Ray Reports [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_42)]
+- Diff-RRG: Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_15)]
+- SPEC-CXR: Advancing Clinical Safety Through Entity-Level Performance Evaluation of Chest X-ray Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_56)]
+- Enhancing Radiology Report Interpretation through Modality-Specific RadGraph Fine-Tuning [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_21)]
+- Medical Contrastive Learning of Positive and Negative Mentions [[paper](https://link.springer.com/chapter/10.1007/978-3-032-05141-7_38)]
+
 **ICASSP'25**
 - A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888634)]
 - CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation [[paper](https://arxiv.org/pdf/2406.11451)][[code](https://github.com/FRENKIE-CHIANG/CoMT)]
