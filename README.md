@@ -146,6 +146,10 @@ We collect existing papers on radiology report generation that have been publish
 - SPEC-CXR: Advancing Clinical Safety Through Entity-Level Performance Evaluation of Chest X-ray Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_56)]
 - Enhancing Radiology Report Interpretation through Modality-Specific RadGraph Fine-Tuning [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_21)]
 - Medical Contrastive Learning of Positive and Negative Mentions [[paper](https://link.springer.com/chapter/10.1007/978-3-032-05141-7_38)]
+- TRRG: Towards Truthful Radiology Report Generation With Cross-Modal Disease Clue Enhanced Large Language Models [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_61)]
+- Contrastive Knowledge-Guided Large Language Models for Medical Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_11)]
+- MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_36)]
+- RRG-DPO: Direct Preference Optimization for Clinically Accurate Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_52)]
 
 **ICASSP'25**
 - A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888634)]
