@@ -150,6 +150,7 @@ We collect existing papers on radiology report generation that have been publish
 - Contrastive Knowledge-Guided Large Language Models for Medical Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_11)]
 - MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_36)]
 - RRG-DPO: Direct Preference Optimization for Clinically Accurate Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_52)]
+- Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_58)][[code](https://github.com/BaochangZhang/DrLS)]
 
 **ICASSP'25**
 - A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888634)]
