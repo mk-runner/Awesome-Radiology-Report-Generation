@@ -130,6 +130,9 @@ We collect existing papers on radiology report generation that have been publish
 - RRG-Mamba: Efficient Radiology Report Generation with State Space Model [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4573.pdf)][[code](https://github.com/Eleanorhxd/RRG-Mamba)]
 - Cyclic Vision-Language Manipulator: Towards Reliable and Fine-Grained Image Interpretation for Automated Report Generation [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1579.pdf)]
 
+**EMNLP'25**
+- CREPE: Rapid Chest X-ray Report Evaluation by Predicting Multi-category Error Counts [[paper](https://openreview.net/forum?id=gjFuz5jbiJ)][[code](https://github.com/gihuncho/crepe/tree/main)]
+
 **COLING'25**
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
 - CmEAA: Cross-modal Enhancement and Alignment Adapter for Radiology Report Generation [[paper](https://aclanthology.org/2025.coling-main.571/)]
@@ -657,6 +660,7 @@ ICCV'23
 - FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models (**arXiv'2411**)[[paper](https://arxiv.org/pdf/2411.18672)]
 - A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings (**CheXprompt**)[[paper](https://www.nature.com/articles/s41467-025-58344-x)][[code](https://github.com/microsoft/chexprompt)]
 - RadReason: Radiology Report Evaluation Metric with Reasons and Sub-Scores (**RadReason'2508**) [[paper](https://arxiv.org/pdf/2508.15464v1)]
+- CREPE: Rapid Chest X-ray Report Evaluation by Predicting Multi-category Error Counts (**EMNLP'25**) [[paper](https://openreview.net/forum?id=gjFuz5jbiJ)][[code](https://github.com/gihuncho/crepe/tree/main)]
 
 ## Other Resources
 - Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing (**CVPR'23**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.pdf)[[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
