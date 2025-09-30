@@ -297,6 +297,8 @@ We collect existing papers on radiology report generation that have been publish
 - OraPO: Oracle-educated Reinforcement Learning for Data-efficient and Factual Radiology Report Generation [[paper](https://arxiv.org/pdf/2509.18600v1)]
 - Citrus-V: Advancing Medical Foundation Models with Unified Medical Image Grounding for Clinical Reasoning [[paper](https://arxiv.org/pdf/2509.19090)]
 - RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows [[paper](https://arxiv.org/pdf/2509.20490)]
+- Random Direct Preference Optimization for Radiography Report Generation [[paper](https://arxiv.org/pdf/2509.21351v1)]
+- Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports [[paper](https://arxiv.org/pdf/2509.21356v1)]
   
 ---
 
