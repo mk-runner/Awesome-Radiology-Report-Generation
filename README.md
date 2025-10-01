@@ -304,6 +304,7 @@ We collect existing papers on radiology report generation that have been publish
 - Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports [[paper](https://arxiv.org/pdf/2509.21356v1)]
 - EditGRPO: Reinforcement Learning with Post-Rollout Edits for Clinically Accurate Chest X-Ray Report Generation [[paper](https://arxiv.org/pdf/2509.22812v1)][[code](https://github.com/taokz/EditGRPO)]
 - TemMed-Bench: Evaluating Temporal Medical Image Reasoning in Vision-Language Models [[paper](https://arxiv.org/pdf/2509.25143v1)][[code](https://temmedbench.github.io/)]
+- CCD: Mitigating Hallucinations in Radiology MLLMs via Clinical Contrastive Decoding [[paper](https://arxiv.org/pdf/2509.23379v1)]
   
 ---
 
