@@ -101,6 +101,9 @@ We collect existing papers on radiology report generation that have been publish
 - GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis (**GEMeX**)[[paper](https://arxiv.org/pdf/2411.16778)][[project](https://huggingface.co/datasets/BoKelvin/GEMeX)]
 - CT-GRAPH: Hierarchical Graph Attention Network for Anatomy-Guided CT Report Generation (**workshop**) [[paper](https://arxiv.org/pdf/2508.05375?)][[code](https://github.com/hakal104/CT-GRAPH)]
 
+**NIPS'25**
+- Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation[[paper](https://arxiv.org/pdf/2509.24739v1)]
+
 **AAAI'25**
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
 - HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation [[paper](https://www.arxiv.org/pdf/2412.11070)][[code](https://github.com/TengfeiLiu966/HC-LLM)]
