@@ -128,6 +128,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **ACMMM'25**
 - CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale [[paper](https://arxiv.org/pdf/2507.06959)][[code](https://github.com/ResearchGroup-MedVLLM/CheX-Phi35V)]
+- Self-Supervised Anatomical Consistency Learning for Vision-Grounded Medical Report Generation [[paper](https://arxiv.org/pdf/2509.25963)]
 
 **IJCAI'25**
 - RRG-Mamba: Efficient Radiology Report Generation with State Space Model [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4573.pdf)][[code](https://github.com/Eleanorhxd/RRG-Mamba)]
