@@ -74,6 +74,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **npj Digital Medicine'25**
 - Keyword-based AI assistance in the generation of radiology reports: A pilot study [[paper](https://www.nature.com/articles/s41746-025-01889-4)]
+- A multimodal multidomain multilingual medical foundation model for zero shot clinical diagnosis [[paper](https://www.nature.com/articles/s41746-024-01339-7)][[code](https://github.com/AI-in-Health/M3FM)]
 
 **NEJM AI'25**
 - PadChest-GR: A Bilingual Chest X-Ray Dataset for Grounded Radiology Report Generation [[paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2401120)]
