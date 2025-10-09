@@ -309,6 +309,7 @@ We collect existing papers on radiology report generation that have been publish
 - CCD: Mitigating Hallucinations in Radiology MLLMs via Clinical Contrastive Decoding [[paper](https://arxiv.org/pdf/2509.23379v1)]
 - Self-Supervised Anatomical Consistency Learning for Vision-Grounded Medical Report Generation [[paper](https://arxiv.org/pdf/2509.25963)]
 - Automated Structured Radiology Report Generation with Rich Clinical Context [[paper](https://github.com/vuno/contextualized-srrg)][[code](https://github.com/vuno/contextualized-srrg)]
+- Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation [[paper](https://arxiv.org/pdf/2510.06131v1)]
   
 ---
 
