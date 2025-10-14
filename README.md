@@ -94,6 +94,7 @@ We collect existing papers on radiology report generation that have been publish
 - Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation [[paper](https://arxiv.org/pdf/2504.18856v1)][[code](https://github.com/BasitAlawode/MR-PLIP)]
 - ARDGen: Augmentation Regularization for Domain-Generalized Medical Report Generation (**Workshop**) [[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Ahsan_ARDGen_Augmentation_Regularization_for_Domain-Generalized_Medical_Report_Generation_CVPRW_2025_paper.pdf)]
 - MVCM: Enhancing Multi-View and Cross-Modality Alignment for Medical Visual Question Answering and Medical Image-Text Retrieval (**Workshop**) [[paper](https://openaccess.thecvf.com/content/CVPR2025W/MULA2025/papers/Zou_MVCM_Enhancing_Multi-View_and_Cross-Modality_Alignment_for_Medical_Visual_Question_CVPRW_2025_paper.pdf)]
+- Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering [[paper](https://arxiv.org/pdf/2510.08791v1)][[code](https://github.com/AlexCo1d/AMiF)]
 
 **ICLR'25**
 - MedRegA: Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks [[paper](https://arxiv.org/abs/2410.18387)][[code](https://github.com/xmed-lab/MedRegA)]
