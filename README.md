@@ -313,6 +313,7 @@ We collect existing papers on radiology report generation that have been publish
 - Self-Supervised Anatomical Consistency Learning for Vision-Grounded Medical Report Generation [[paper](https://arxiv.org/pdf/2509.25963)]
 - Automated Structured Radiology Report Generation with Rich Clinical Context [[paper](https://github.com/vuno/contextualized-srrg)][[code](https://github.com/vuno/contextualized-srrg)]
 - Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation [[paper](https://arxiv.org/pdf/2510.06131v1)]
+- A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation [[paper](https://arxiv.org/pdf/2510.12444v1)]
   
 ---
 
@@ -626,6 +627,7 @@ ICCV'23
 - A survey of deep-learning-based radiology report generation using multimodal inputs (**Medical Image Analysis'25**)[[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001744#bib1)]
 - Medical radiology report generation: A systematic review of current deep learning methods, trends, and future directions (**Artificial Intelligence in Medicine'25**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0933365725001551)]
 - Automatic radiology report generation with deep learning: a comprehensive review of methods and advances (Artificial Intelligence Review'25) [[paper](https://link.springer.com/article/10.1007/s10462-025-11337-0)]
+- A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation [[paper](https://arxiv.org/pdf/2510.12444v1)]
 
 ## Dataset
 - MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs (**MIMIC-CXR**)  [[paper](https://arxiv.org/abs/1901.07042)][[data](https://physionet.org/content/mimic-cxr/2.0.0/)].
