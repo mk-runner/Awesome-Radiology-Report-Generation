@@ -316,6 +316,7 @@ We collect existing papers on radiology report generation that have been publish
 - Automated Structured Radiology Report Generation with Rich Clinical Context [[paper](https://github.com/vuno/contextualized-srrg)][[code](https://github.com/vuno/contextualized-srrg)]
 - Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation [[paper](https://arxiv.org/pdf/2510.06131v1)]
 - A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation [[paper](https://arxiv.org/pdf/2510.12444v1)]
+- EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation [[paper](https://arxiv.org/pdf/2510.16776v1)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
   
 ---
 
