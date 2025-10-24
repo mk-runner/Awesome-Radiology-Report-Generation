@@ -102,6 +102,7 @@ We collect existing papers on radiology report generation that have been publish
 **ICCV'25**
 - GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis (**GEMeX**)[[paper](https://arxiv.org/pdf/2411.16778)][[project](https://huggingface.co/datasets/BoKelvin/GEMeX)]
 - CT-GRAPH: Hierarchical Graph Attention Network for Anatomy-Guided CT Report Generation (**workshop**) [[paper](https://arxiv.org/pdf/2508.05375?)][[code](https://github.com/hakal104/CT-GRAPH)]
+- Knowledge-Driven Query Network with Adaptive Cross-View Attention for Structured Radiology Report Generation (**workshop**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.pdf)]
 
 **NIPS'25**
 - Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation[[paper](https://arxiv.org/pdf/2509.24739v1)]
