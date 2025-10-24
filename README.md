@@ -75,6 +75,7 @@ We collect existing papers on radiology report generation that have been publish
 **npj Digital Medicine'25**
 - Keyword-based AI assistance in the generation of radiology reports: A pilot study [[paper](https://www.nature.com/articles/s41746-025-01889-4)]
 - A multimodal multidomain multilingual medical foundation model for zero shot clinical diagnosis [[paper](https://www.nature.com/articles/s41746-024-01339-7)][[code](https://github.com/AI-in-Health/M3FM)]
+- A deep learning based automatic report generator for retinal optical coherence tomography images [[paper](https://www.nature.com/articles/s41746-025-01988-2)]
 
 **NEJM AI'25**
 - PadChest-GR: A Bilingual Chest X-Ray Dataset for Grounded Radiology Report Generation [[paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2401120)]
@@ -102,7 +103,7 @@ We collect existing papers on radiology report generation that have been publish
 **ICCV'25**
 - GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis (**GEMeX**)[[paper](https://arxiv.org/pdf/2411.16778)][[project](https://huggingface.co/datasets/BoKelvin/GEMeX)]
 - CT-GRAPH: Hierarchical Graph Attention Network for Anatomy-Guided CT Report Generation (**workshop**) [[paper](https://arxiv.org/pdf/2508.05375?)][[code](https://github.com/hakal104/CT-GRAPH)]
-- Knowledge-Driven Query Network with Adaptive Cross-View Attention for Structured Radiology Report Generation (**workshop**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.pdf)]
+- Knowledge-Driven Query Network with Adaptive Cross-View Attention for Structured Radiology Report Generation (**workshop**)[[paper](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/papers/Hou_Knowledge-Driven_Query_Network_with_Adaptive_Cross-View_Attention_for_Structured_Radiology_ICCVW_2025_paper.pdf)]
 
 **NIPS'25**
 - Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation[[paper](https://arxiv.org/pdf/2509.24739v1)]
