@@ -243,6 +243,9 @@ We collect existing papers on radiology report generation that have been publish
 **Pattern Recognition Letters'25**
 - Integrating clinical knowledge and imaging for medical report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0167865525001783#sec4)]
 
+**Meta-Radiology'25**
+- S-RRG-Bench: Structured Radiology Report Generation with Fine-Grained Evaluation Framework [[paper](https://www.sciencedirect.com/science/article/pii/S2950162825000396)]
+
 **WWW Companion'25**
 - Diversity-Augmented Diffusion Network With LLM Assistance For Radiology Report Generation [[paper](https://dl.acm.org/doi/10.1145/3701716.3717555)]
 
