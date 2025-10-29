@@ -136,6 +136,9 @@ We collect existing papers on radiology report generation that have been publish
 **ACMMM'25**
 - CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale [[paper](https://arxiv.org/pdf/2507.06959)][[code](https://github.com/ResearchGroup-MedVLLM/CheX-Phi35V)]
 - Self-Supervised Anatomical Consistency Learning for Vision-Grounded Medical Report Generation [[paper](https://arxiv.org/pdf/2509.25963)]
+- Cross-Counter-Repeat Attention for Enhanced Understanding of Visual Semantics in Radiology Report Generation [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755368)]
+- Pathology-Aware Reconstruction with Discriminative Knowledge Boosting Alignment for Che-Xray Vision-Language Pre-training [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755336)]
+- Medical Vision-Language Pre-training with Multimodal Variational Masked Autoencoder for Robust Medical VQA [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755273)]
 
 **IJCAI'25**
 - RRG-Mamba: Efficient Radiology Report Generation with State Space Model [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4573.pdf)][[code](https://github.com/Eleanorhxd/RRG-Mamba)]
