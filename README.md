@@ -208,6 +208,7 @@ We collect existing papers on radiology report generation that have been publish
 - A Chain of Diagnosis Framework for Accurate and Explainable Radiology Report Generation [[paper](https://pubmed.ncbi.nlm.nih.gov/40608887/)]
 - Enhancing Radiology Report Generation via Multi-Phased Supervision [[paper](https://ieeexplore.ieee.org/document/11050440)][[code](https://github.com/zailongchen/MultiP-R2Gen)]
 - Chest X-ray Foundation Model with Global and Local Representations Integration [[paper](https://pubmed.ncbi.nlm.nih.gov/40549526/)][[code](https://github.com/RPIDIAL/CheXFound)]
+- Ultrasound Report Generation with Cross-Modality Feature Alignment via Unsupervised Guidance [[paper](https://ieeexplore.ieee.org/document/10599394)][[code](https://github.com/LijunRio/Ultrasound-Report-Generation)]
 
 **TNNLS'25**
 - OS-RRG: Observation State-Aware Radiology Report Generation With Balanced Diagnosis and Attention Intervention [[paper](https://ieeexplore.ieee.org/document/11095809)]
