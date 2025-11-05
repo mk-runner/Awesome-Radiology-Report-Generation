@@ -108,7 +108,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **NIPS'25**
 - Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation[[paper](https://arxiv.org/pdf/2509.24739v1)]
-- CURV: Coherent Uncertainty-Aware Reasoning in Vision-Language Models for X-Ray Report Generation [[paper](https://neurips.cc/virtual/2025/poster/120063)]
+- CURV: Coherent Uncertainty-Aware Reasoning in Vision-Language Models for X-Ray Report Generation [[paper](https://neurips.cc/virtual/2025/poster/120063)][[code](https://github.com/wwwadx/CURV)]
 - Multimodal Disease Progression Modeling via Spatiotemporal Disentanglement and Multiscale Alignment [[paper](https://arxiv.org/pdf/2510.11112)]
 
 **AAAI'25**
@@ -333,6 +333,7 @@ We collect existing papers on radiology report generation that have been publish
 - A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation [[paper](https://arxiv.org/pdf/2510.12444v1)]
 - EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation [[paper](https://arxiv.org/pdf/2510.16776v1)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - CXRAgent: Director-Orchestrated Multi-Stage Reasoning for Chest X-Ray Interpretation [[paper](https://arxiv.org/pdf/2510.21324v1)]
+- Reasoning Visual Language Model for Chest X-Ray Analysis [[paper](https://arxiv.org/pdf/2510.23968)][[code](https://github.com/NVIDIA-Medtech)]
   
 ---
 
