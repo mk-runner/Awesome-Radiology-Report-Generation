@@ -146,6 +146,9 @@ We collect existing papers on radiology report generation that have been publish
 
 **EMNLP'25**
 - CREPE: Rapid Chest X-ray Report Evaluation by Predicting Multi-category Error Counts [[paper](https://openreview.net/forum?id=gjFuz5jbiJ)][[code](https://github.com/gihuncho/crepe/tree/main)]
+- MediVLM: A Vision Language Model for Radiology Report Generation from Medical Images [[paper](https://aclanthology.org/2025.findings-emnlp.544.pdf)]
+- MedTutor: A Retrieval-Augmented LLM System for Case-Based Medical Education [[paper](https://aclanthology.org/2025.emnlp-demos.24.pdf)]
+- The More, The Better? A Critical Study of Multimodal Context in Radiology Report Summarization [[paper](https://aclanthology.org/2025.findings-emnlp.1040.pdf)]
 
 **COLING'25**
 - KIA: Knowledge-Guided Implicit Vision-Language Alignment for Chest X-Ray Report Generation [[paper](https://aclanthology.org/2025.coling-main.276/)]
