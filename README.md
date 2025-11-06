@@ -212,6 +212,7 @@ We collect existing papers on radiology report generation that have been publish
 - Enhancing Radiology Report Generation via Multi-Phased Supervision [[paper](https://ieeexplore.ieee.org/document/11050440)][[code](https://github.com/zailongchen/MultiP-R2Gen)]
 - Chest X-ray Foundation Model with Global and Local Representations Integration [[paper](https://pubmed.ncbi.nlm.nih.gov/40549526/)][[code](https://github.com/RPIDIAL/CheXFound)]
 - Ultrasound Report Generation with Cross-Modality Feature Alignment via Unsupervised Guidance [[paper](https://ieeexplore.ieee.org/document/10599394)][[code](https://github.com/LijunRio/Ultrasound-Report-Generation)]
+- Feature Decomposition via Shared Low-rank Matrix Recovery for CT Report Generation [[paper](https://ieeexplore.ieee.org/document/11224350)]
 
 **TNNLS'25**
 - OS-RRG: Observation State-Aware Radiology Report Generation With Balanced Diagnosis and Attention Intervention [[paper](https://ieeexplore.ieee.org/document/11095809)]
@@ -337,6 +338,7 @@ We collect existing papers on radiology report generation that have been publish
 - EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation [[paper](https://arxiv.org/pdf/2510.16776v1)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - CXRAgent: Director-Orchestrated Multi-Stage Reasoning for Chest X-Ray Interpretation [[paper](https://arxiv.org/pdf/2510.21324v1)]
 - Reasoning Visual Language Model for Chest X-Ray Analysis [[paper](https://arxiv.org/pdf/2510.23968)][[code](https://github.com/NVIDIA-Medtech)]
+- Current Landscape of Automatic Radiology Report Generation with Deep Learning: An Exploratory Systematic Review [[paper](https://www.preprints.org/frontend/manuscript/6461e8366312f9d71b9a431ca4a4d937/download_pub)]
   
 ---
 
