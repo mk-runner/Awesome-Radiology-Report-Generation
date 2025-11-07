@@ -339,6 +339,7 @@ We collect existing papers on radiology report generation that have been publish
 - CXRAgent: Director-Orchestrated Multi-Stage Reasoning for Chest X-Ray Interpretation [[paper](https://arxiv.org/pdf/2510.21324v1)]
 - Reasoning Visual Language Model for Chest X-Ray Analysis [[paper](https://arxiv.org/pdf/2510.23968)][[code](https://github.com/NVIDIA-Medtech)]
 - Current Landscape of Automatic Radiology Report Generation with Deep Learning: An Exploratory Systematic Review [[paper](https://www.preprints.org/frontend/manuscript/6461e8366312f9d71b9a431ca4a4d937/download_pub)]
+- Medical Report Generation: A Hierarchical Task Structure-Based Cross-Modal Causal Intervention Framework [[paper](https://arxiv.org/pdf/2511.02271v1)]
   
 ---
 
