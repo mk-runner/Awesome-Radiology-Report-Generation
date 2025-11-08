@@ -19,6 +19,7 @@ We collect existing papers on radiology report generation that have been publish
 
 - [Foundation Models for Medicine](#Foundation-Models-for-Medicine)
 - [Papers](#papers)
+  - [2026](#2026)
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
