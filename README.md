@@ -51,6 +51,10 @@ We collect existing papers on radiology report generation that have been publish
 
 
 ## Papers
+### 2026
+**AAAI'26**
+- PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2508.05353)][[code](https://github.com/mk-runner/PriorRG)]
+
 ### 2025
 
 **Nature'25**
