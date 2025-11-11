@@ -5,13 +5,23 @@
 
 We collect existing papers on radiology report generation that have been published in prominent conferences and journals. If you find this helpful, please consider citing the following reference.
 ```
-@InProceedings{Liu_2025_CVPR,
+@InProceedings{Liu-2025-CVPR,
     author    = {Liu, Kang and Ma, Zhuoqi and Kang, Xiaolu and Li, Yunan and Xie, Kun and Jiao, Zhicheng and Miao, Qiguang},
     title     = {Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
     year      = {2025},
     pages     = {10348-10359}
+}
+
+@misc{2026-AAAI-priorrg,
+  title={PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation},
+  author={Kang Liu and Zhuoqi Ma and Zikang Fang and Yunan Li and Kun Xie and Qiguang Miao},
+  year={2025},
+  eprint={2508.05353},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2508.05353}
 }
 ```
 
