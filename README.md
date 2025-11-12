@@ -358,6 +358,7 @@ We collect existing papers on radiology report generation that have been publish
 - Current Landscape of Automatic Radiology Report Generation with Deep Learning: An Exploratory Systematic Review [[paper](https://www.preprints.org/frontend/manuscript/6461e8366312f9d71b9a431ca4a4d937/download_pub)]
 - Medical Report Generation: A Hierarchical Task Structure-Based Cross-Modal Causal Intervention Framework [[paper](https://arxiv.org/pdf/2511.02271v1)]
 - UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis [[paper](https://arxiv.org/pdf/2510.15710)][[code](https://github.com/uni-medical/UniMedVL)]
+- PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting [[paper](https://arxiv.org/pdf/2510.27680)]
   
 ---
 
