@@ -220,6 +220,7 @@ We collect existing papers on radiology report generation that have been publish
 **TIP'25**
 - Cross-Modal Causal Representation Learning for Radiology Report Generation [[paper](https://pubmed.ncbi.nlm.nih.gov/40378020/)][[code](https://github.com/WissingChen/CMCRL)]
 - VTAG: Visual-Textual Association Guided Radiology Reports Generation [[paper](https://ieeexplore.ieee.org/document/11218752)]
+- Local Alignment for Medical Vision-Language Pre-training [[paper](https://ieeexplore.ieee.org/document/11237022)]
 
 **TMI'25**
 - Spatio-Temporal and Retrieval-Augmented Modeling for Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10938723)][[code](https://github.com/yangyan22/STREAM)]
