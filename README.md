@@ -263,6 +263,7 @@ We collect existing papers on radiology report generation that have been publish
 - Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856362)][[code](https://github.com/OpenMICG/AHP)]
 - Benchmarking Radiology Report Generation from Noisy Free-Texts [[paper](https://ieeexplore.ieee.org/document/11002452)]
 - Automatic Radiology Report Generation Based on State-Space Model [[paper](https://ieeexplore.ieee.org/abstract/document/11037239)]
+- MFDP: Multi-View Feature Integration and Enhanced Disease Prompting for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/11244798)]
 
 **Neural Networks'25**
 - Radiology Report Generation via Visual-Semantic Ambivalence-Aware Network and Focal Self-Critical Sequence Training [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009827#preview-section-abstract)]
