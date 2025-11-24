@@ -66,6 +66,10 @@ We collect existing papers on radiology report generation that have been publish
 **AAAI'26**
 - PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2508.05353)][[code](https://github.com/mk-runner/PriorRG)]
 - S2D-ALIGN: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation [[paper](https://arxiv.org/pdf/2511.11066)]
+- A Disease-Aware Dual-Stage Framework for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2511.12259)]
+
+**EAAI'26**
+- Auto-encoding clinical language for zero-shot medical report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625032750)]
 
 ---
 
