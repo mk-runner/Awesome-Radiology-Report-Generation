@@ -58,6 +58,8 @@ We collect existing papers on radiology report generation that have been publish
 - BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs (**ICLR'24**)[[paper](https://arxiv.org/pdf/2310.03320)][[code](https://github.com/RyanWangZf/BioBridge)]
 - Eye-gaze Guided Multi-modal Alignment for Medical Representation Learning (**NIPS'24**) [[paper](https://openreview.net/pdf?id=0bINeW40u4)]
 - Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning (**arXiv'2405**)[[paper](https://arxiv.org/pdf/2405.01469)]
+- MAIRA-2: Grounded Radiology Report Generation (**arXiv'2406**)[[paper](https://arxiv.org/abs/2406.04449)]
+- A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings (**Nature Communications'25**)[[paper](https://www.nature.com/articles/s41467-025-58344-x)]
 
 
 
