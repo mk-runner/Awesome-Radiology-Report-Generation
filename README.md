@@ -134,6 +134,7 @@ We collect existing papers on radiology report generation that have been publish
 - Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation[[paper](https://arxiv.org/pdf/2509.24739v1)]
 - CURV: Coherent Uncertainty-Aware Reasoning in Vision-Language Models for X-Ray Report Generation [[paper](https://neurips.cc/virtual/2025/poster/120063)][[code](https://github.com/wwwadx/CURV)]
 - Multimodal Disease Progression Modeling via Spatiotemporal Disentanglement and Multiscale Alignment [[paper](https://arxiv.org/pdf/2510.11112)]
+- Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation [[paper](https://arxiv.org/abs/2509.24739)][[code](https://github.com/AIoT-Lab-AI4LIFE/ViPET-ReportGen)]
 
 **AAAI'25**
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
