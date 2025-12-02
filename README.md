@@ -212,6 +212,9 @@ We collect existing papers on radiology report generation that have been publish
 **ICMR'25**
 - ClearView: A Quality-aware Cross-modal Alignment Framework for CT Report Generation [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733287)]
 
+**ICME'25**
+- Optimizing Efficiency and Visual-Textual Alignment for LLM-Based Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/11210172)][[code](https://github.com/zailongchen/R2Gen-EVA)]
+
 **WACV'25**
 - ORID: Organ-Regional Information Driven Framework for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10943499)]
 
