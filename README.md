@@ -372,6 +372,8 @@ We collect existing papers on radiology report generation that have been publish
 - Radiology Workflow-Guided Hierarchical Reinforcement Fine-Tuning for Medical Report Generation [[paper](https://arxiv.org/pdf/2511.10065v1)]
 - A Disease-Aware Dual-Stage Framework for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2511.12259v1)]
 - Boosting Medical Visual Understanding From Multi-Granular Language Learning [[paper](https://openreview.net/forum?id=ccjukmExrB)][[code](https://github.com/HUANGLIZI/MGLL)]
+- Closing the Performance Gap Between AI and Radiologists in Chest X-Ray Reporting [[paper](https://arxiv.org/pdf/2511.21735v1)]
+- Structure is Supervision: Multiview Masked Autoencoders for Radiology [[paper](https://arxiv.org/pdf/2511.22294v1)]
   
 ---
 
