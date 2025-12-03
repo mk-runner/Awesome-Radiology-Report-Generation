@@ -377,6 +377,7 @@ We collect existing papers on radiology report generation that have been publish
 - Boosting Medical Visual Understanding From Multi-Granular Language Learning [[paper](https://openreview.net/forum?id=ccjukmExrB)][[code](https://github.com/HUANGLIZI/MGLL)]
 - Closing the Performance Gap Between AI and Radiologists in Chest X-Ray Reporting [[paper](https://arxiv.org/pdf/2511.21735v1)]
 - Structure is Supervision: Multiview Masked Autoencoders for Radiology [[paper](https://arxiv.org/pdf/2511.22294v1)]
+- Generalised Medical Phrase Grounding [[paper](https://arxiv.org/pdf/2512.01085v1)]
   
 ---
 
