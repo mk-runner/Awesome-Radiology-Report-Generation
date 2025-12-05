@@ -209,6 +209,9 @@ We collect existing papers on radiology report generation that have been publish
 **MIDL'25**
 - Radialog: A large vision-language model for radiology report generation and conversational assistance [[paper](https://github.com/ChantalMP/RaDialog)][[code](https://github.com/ChantalMP/RaDialog)]
 
+**ML4H'25**
+- Rad-Phi4-Vision-CXR: A Compact Multimodal Assistant for Versatile Radiology Workflows [[paper](https://openreview.net/pdf?id=grywt6zKcy)]
+
 **ICMR'25**
 - ClearView: A Quality-aware Cross-modal Alignment Framework for CT Report Generation [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733287)]
 
