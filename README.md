@@ -381,6 +381,8 @@ We collect existing papers on radiology report generation that have been publish
 - Closing the Performance Gap Between AI and Radiologists in Chest X-Ray Reporting [[paper](https://arxiv.org/pdf/2511.21735v1)]
 - Structure is Supervision: Multiview Masked Autoencoders for Radiology [[paper](https://arxiv.org/pdf/2511.22294v1)]
 - Generalised Medical Phrase Grounding [[paper](https://arxiv.org/pdf/2512.01085v1)]
+- Radiologist Copilot: An Agentic Assistant with Orchestrated Tools for Radiology Reporting with Quality Control [[paper](https://arxiv.org/pdf/2512.02814)]
+- Beyond N-grams: A Hierarchical Reward Learning Framework for Clinically-Aware Medical Report Generation [[paper](https://arxiv.org/abs/2512.02710)]
   
 ---
 
