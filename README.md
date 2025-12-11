@@ -268,6 +268,7 @@ We collect existing papers on radiology report generation that have been publish
 - MedKit: Multi-level Feature Distillation with Knowledge Injection for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S095741742502620X?__cf_chl_tk=oFOtcu7IJJha61Q_hVexYlmUQoA.MdgG5OJHrxCG9FM-1752642219-1.0.1.1-8xBE2YklvaJPQqXhQfFUokGxYK4VXMNdIbxdckSNGao#abs0001)][[code](https://github.com/sujaly/MedKit)]
 - DC-RRG: Diagnosis-Centered Cascaded Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425034992)]
 - Dynamic feature fusion guiding and multimodal large language model refining for medical image report generation [[paper](https://www.sciencedirect.com/science/article/pii/S095741742503698X)][[code](https://github.com/BearLiX/DFFG-MLLMR)]
+- CLARIFID: Improving Radiology Report Generation by Reinforcing Clinically Accurate Impressions and Enforcing Detailed Findings [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425042484)][[code](https://github.com/IncheonYSH/CLARIFID)]
 
 **KBS'25**
 - Context-enhanced framework for medical image report generation using multimodal contexts [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124015478)][[code](https://github.com/lihongzhao99/Context-Enhanced-Framework)]
