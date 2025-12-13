@@ -104,6 +104,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **NEJM AI'25**
 - PadChest-GR: A Bilingual Chest X-Ray Dataset for Grounded Radiology Report Generation [[paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2401120)]
+- MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents [[paper](https://ai.nejm.org/doi/pdf/10.1056/AIdbp2500144)][[code](https://github.com/stanfordmlgroup/MedAgentBench)]
 
 **Radiology: Artificial Intelligence'25**
 - Retrieval-Augmented Generation with Large Language Models in Radiology: From Theory to Practice [[paper](https://pubs.rsna.org/doi/abs/10.1148/ryai.240790)]
