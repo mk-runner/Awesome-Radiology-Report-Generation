@@ -387,6 +387,8 @@ We collect existing papers on radiology report generation that have been publish
 - Generalised Medical Phrase Grounding [[paper](https://arxiv.org/pdf/2512.01085v1)]
 - Radiologist Copilot: An Agentic Assistant with Orchestrated Tools for Radiology Reporting with Quality Control [[paper](https://arxiv.org/pdf/2512.02814)]
 - Beyond N-grams: A Hierarchical Reward Learning Framework for Clinically-Aware Medical Report Generation [[paper](https://arxiv.org/abs/2512.02710)]
+- MRG-R1: Reinforcement Learning for Clinically Aligned Medical Report Generation [[paper](https://arxiv.org/pdf/2512.16145v1)]
+- Visual Alignment of Medical Vision-Language Models for Grounded Radiology Report Generation [[paper](https://arxiv.org/pdf/2512.16201v1)]
   
 ---
 
