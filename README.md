@@ -291,6 +291,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **Meta-Radiology'25**
 - S-RRG-Bench: Structured Radiology Report Generation with Fine-Grained Evaluation Framework [[paper](https://www.sciencedirect.com/science/article/pii/S2950162825000396)]
+- Chest X-ray Foundation Models: A Survey and Future Directions [[paper](https://www.sciencedirect.com/science/article/pii/S2950162825000712)]
 
 **WWW Companion'25**
 - Diversity-Augmented Diffusion Network With LLM Assistance For Radiology Report Generation [[paper](https://dl.acm.org/doi/10.1145/3701716.3717555)]
