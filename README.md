@@ -65,6 +65,10 @@ We collect existing papers on radiology report generation that have been publish
 
 ## Papers
 ### 2026
+
+**npj Digital Medicine'26**
+- Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models [[paper](https://www.nature.com/articles/s41746-025-02300-y)]
+
 **AAAI'26**
 - PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2508.05353)][[code](https://github.com/mk-runner/PriorRG)]
 - S2D-ALIGN: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation [[paper](https://arxiv.org/pdf/2511.11066)]
