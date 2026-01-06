@@ -211,6 +211,7 @@ We collect existing papers on radiology report generation that have been publish
 **ISBI'25**
 - R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[paper](https://arxiv.org/abs/2410.18135)][[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
 - Prompt-Guided Radiology Report Generation Utilizing SAM [[paper](https://ieeexplore.ieee.org/abstract/document/10980655)]
+- Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding [[paper](https://ieeexplore.ieee.org/document/10981029)]
 
 **MIDL'25**
 - Radialog: A large vision-language model for radiology report generation and conversational assistance [[paper](https://github.com/ChantalMP/RaDialog)][[code](https://github.com/ChantalMP/RaDialog)]
@@ -394,6 +395,7 @@ We collect existing papers on radiology report generation that have been publish
 - Beyond N-grams: A Hierarchical Reward Learning Framework for Clinically-Aware Medical Report Generation [[paper](https://arxiv.org/abs/2512.02710)]
 - MRG-R1: Reinforcement Learning for Clinically Aligned Medical Report Generation [[paper](https://arxiv.org/pdf/2512.16145v1)]
 - Visual Alignment of Medical Vision-Language Models for Grounded Radiology Report Generation [[paper](https://arxiv.org/pdf/2512.16201v1)]
+- LDP: Parameter-Efficient Fine-Tuning of Multimodal LLM for Medical Report Generation [[paper](https://arxiv.org/pdf/2512.10750)]
   
 ---
 
