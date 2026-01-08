@@ -78,6 +78,11 @@ We collect existing papers on radiology report generation that have been publish
 **EAAI'26**
 - Auto-encoding clinical language for zero-shot medical report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625032750)]
 
+**arXiv'26**
+- VolumeVision: A 2.5D Hierarchical Architecture for Efficient Automated Reporting of Chest CT Volumes [[paper](https://assets.tina.io/1fb09d03-9237-4c49-aaa9-d024a83c7ac7/VolumeVision.pdf)]
+- Benchmarking and Adapting DeepSeek-OCR and Vision-Language Models for Chest X-ray Report Generation [[paper](https://openreview.net/pdf?id=DIgqBVvuBX)]
+
+
 ---
 
 ### 2025
