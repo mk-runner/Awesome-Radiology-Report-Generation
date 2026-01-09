@@ -66,6 +66,9 @@ We collect existing papers on radiology report generation that have been publish
 ## Papers
 ### 2026
 
+**Nature Biomedical Engineering'26**
+- A multimodal vision–language model for generalizable annotation-free pathology localization [[paper](https://github.com/YH0517/AFLoc)]
+
 **npj Digital Medicine'26**
 - Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models [[paper](https://www.nature.com/articles/s41746-025-02300-y)]
 
