@@ -754,6 +754,9 @@ ICCV'23
 - **ReXGradient-160K**: A Large-Scale Publicly Available Dataset of Chest Radiographs with Free-text Reports [[paper](https://arxiv.org/pdf/2505.00228)][[data](https://huggingface.co/datasets/rajpurkarlab/ReXGradient-160K/tree/main)]
 - PARROT: An Open Multilingual Radiology Reports Dataset (**PARROT**) [[paper](https://arxiv.org/abs/2507.22939)][[data](https://github.com/PARROT-reports/PARROT_v1.0)]
 - CXR-LT: Multi-Label Long-Tailed Classification on Chest X-Rays (**CXR-LT**)[[dataset](https://physionet.org/content/cxr-lt-iccv-workshop-cvamd/2.0.0/)]
+- COVID-19 CT dataset (Chinese) [[paper](https://www.semanticscholar.org/paper/Medical-VLBERT%3A-Medical-Visual-Language-BERT-for-CT-Liu-Liao/25c7fa62d85c5d564f0b35471456e4ad4739c582)][[data](https://covid19ct.github.io/)]
+- COV-CTR (Chinese & English) [[data](https://github.com/mlii0117/COV-CTR)]
+- 
 
 ## Metrics
 - FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores (**arXiv'2405**) [[paper](https://arxiv.org/pdf/2405.20613)][[code](https://github.com/rajpurkarlab/FineRadScore)]
