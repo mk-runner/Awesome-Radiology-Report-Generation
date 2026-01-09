@@ -82,6 +82,7 @@ We collect existing papers on radiology report generation that have been publish
 - VolumeVision: A 2.5D Hierarchical Architecture for Efficient Automated Reporting of Chest CT Volumes [[paper](https://assets.tina.io/1fb09d03-9237-4c49-aaa9-d024a83c7ac7/VolumeVision.pdf)]
 - Benchmarking and Adapting DeepSeek-OCR and Vision-Language Models for Chest X-ray Report Generation [[paper](https://openreview.net/pdf?id=DIgqBVvuBX)]
 - AnatomiX, an Anatomy-Aware Grounded Multimodal Large Language Model for Chest X-Ray Interpretation [[paper](https://arxiv.org/pdf/2601.03191v1)]
+- Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting [[paper](https://arxiv.org/pdf/2601.03321v1)]
 
 
 ---
