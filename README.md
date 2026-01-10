@@ -86,6 +86,7 @@ We collect existing papers on radiology report generation that have been publish
 - Benchmarking and Adapting DeepSeek-OCR and Vision-Language Models for Chest X-ray Report Generation [[paper](https://openreview.net/pdf?id=DIgqBVvuBX)]
 - AnatomiX, an Anatomy-Aware Grounded Multimodal Large Language Model for Chest X-Ray Interpretation [[paper](https://arxiv.org/pdf/2601.03191v1)]
 - Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting [[paper](https://arxiv.org/pdf/2601.03321v1)]
+- Semantics Preserving Contrastive Decoding for Hallucination Robust Medical Vision-Language Models [[paper](https://www.researchgate.net/profile/Dwarikanath-Mahapatra/publication/399488093_Semantics_Preserving_Contrastive_Decoding_for_Hallucination_Robust_Medical_Vision-Language_Models/links/695ceb747e61d05b5317758b/Semantics-Preserving-Contrastive-Decoding-for-Hallucination-Robust-Medical-Vision-Language-Models.pdf)]
 
 
 ---
