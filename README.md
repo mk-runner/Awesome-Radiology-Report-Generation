@@ -153,6 +153,7 @@ We collect existing papers on radiology report generation that have been publish
 - CURV: Coherent Uncertainty-Aware Reasoning in Vision-Language Models for X-Ray Report Generation [[paper](https://neurips.cc/virtual/2025/poster/120063)][[code](https://github.com/wwwadx/CURV)]
 - Multimodal Disease Progression Modeling via Spatiotemporal Disentanglement and Multiscale Alignment [[paper](https://arxiv.org/pdf/2510.11112)]
 - Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation [[paper](https://arxiv.org/abs/2509.24739)][[code](https://github.com/AIoT-Lab-AI4LIFE/ViPET-ReportGen)]
+- RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability [[paper](https://arxiv.org/abs/2504.07416)][[code](https://github.com/deepnoid-ai/RadZero)]
 
 **AAAI'25**
 - Radiology Report Generation via Multi-objective Preference Optimization [[paper](https://arxiv.org/pdf/2412.08901)]
@@ -267,6 +268,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **TNNLS'25**
 - OS-RRG: Observation State-Aware Radiology Report Generation With Balanced Diagnosis and Attention Intervention [[paper](https://ieeexplore.ieee.org/document/11095809)]
+- M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation [[paper](https://ieeexplore.ieee.org/document/11106750)][[code](https://github.com/deepnoid-ai/M4CXR-TNNLS)]
 
 **MedIA'25**
 - Report is a mixture of topics: Topic-guided radiology report generation [[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001331#d1e2923)][[code](https://github.com/chentaohuang/Topic-Guided-Radiology-Report-Generation)]
