@@ -88,6 +88,7 @@ We collect existing papers on radiology report generation that have been publish
 - Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting [[paper](https://arxiv.org/pdf/2601.03321v1)]
 - Semantics Preserving Contrastive Decoding for Hallucination Robust Medical Vision-Language Models [[paper](https://www.researchgate.net/profile/Dwarikanath-Mahapatra/publication/399488093_Semantics_Preserving_Contrastive_Decoding_for_Hallucination_Robust_Medical_Vision-Language_Models/links/695ceb747e61d05b5317758b/Semantics-Preserving-Contrastive-Decoding-for-Hallucination-Robust-Medical-Vision-Language-Models.pdf)]
 - MedGround: Bridging the Evidence Gap in Medical Vision-Language Models with Verified Grounding Data [[paper](https://arxiv.org/pdf/2601.06847)]
+- UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation [[paper](https://arxiv.org/html/2601.11522v1)][[code](https://github.com/ZrH42/UniX)]
 
 
 ---
