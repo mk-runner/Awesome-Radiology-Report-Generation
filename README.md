@@ -78,7 +78,7 @@ We collect existing papers on radiology report generation that have been publish
 - A Disease-Aware Dual-Stage Framework for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2511.12259)]
 - Explainable Melanoma Diagnosis with Contrastive Learning and LLM-based Report Generation [[paper](https://arxiv.org/pdf/2512.06105v1)][[code](https://eattt-wen.github.io/CEFM/)]
 
-KBS'26
+**KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
 
 **EAAI'26**
@@ -92,6 +92,7 @@ KBS'26
 - Semantics Preserving Contrastive Decoding for Hallucination Robust Medical Vision-Language Models [[paper](https://www.researchgate.net/profile/Dwarikanath-Mahapatra/publication/399488093_Semantics_Preserving_Contrastive_Decoding_for_Hallucination_Robust_Medical_Vision-Language_Models/links/695ceb747e61d05b5317758b/Semantics-Preserving-Contrastive-Decoding-for-Hallucination-Robust-Medical-Vision-Language-Models.pdf)]
 - MedGround: Bridging the Evidence Gap in Medical Vision-Language Models with Verified Grounding Data [[paper](https://arxiv.org/pdf/2601.06847)]
 - UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation [[paper](https://arxiv.org/html/2601.11522v1)][[code](https://github.com/ZrH42/UniX)]
+- CTEST-METRIC: A UNIFIED FRAMEWORK TO ASSESS CLINICAL VALIDITY OF METRICS FOR CT REPORT GENERATION [[paper](https://arxiv.org/pdf/2601.11488)]
 
 
 ---
