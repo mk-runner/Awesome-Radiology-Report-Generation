@@ -93,6 +93,8 @@ We collect existing papers on radiology report generation that have been publish
 - MedGround: Bridging the Evidence Gap in Medical Vision-Language Models with Verified Grounding Data [[paper](https://arxiv.org/pdf/2601.06847)]
 - UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation [[paper](https://arxiv.org/html/2601.11522v1)][[code](https://github.com/ZrH42/UniX)]
 - CTEST-METRIC: A UNIFIED FRAMEWORK TO ASSESS CLINICAL VALIDITY OF METRICS FOR CT REPORT GENERATION [[paper](https://arxiv.org/pdf/2601.11488)]
+- AgentsEval: Clinically Faithful Evaluation of Medical Imaging Reports via Multi-Agent Reasoning [[paper](https://arxiv.org/pdf/2601.16685)]
+- Standardizing Longitudinal Radiology Report Evaluation via Large Language Model Annotation [[paper](https://arxiv.org/pdf/2601.16753)]
 
 
 ---
