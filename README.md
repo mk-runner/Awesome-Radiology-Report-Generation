@@ -97,6 +97,7 @@ We collect existing papers on radiology report generation that have been publish
 - Standardizing Longitudinal Radiology Report Evaluation via Large Language Model Annotation [[paper](https://arxiv.org/pdf/2601.16753)]
 - Scaling medical imaging report generation with multimodal reinforcement learning [[paper](https://arxiv.org/pdf/2601.17151)]
 - Benchmarking Direct Preference Optimization for Medical Large Vision–Language Models [[paper](https://arxiv.org/pdf/2601.17918)]
+- Making medical vision-language models think causally across modalities with retrieval-augmented cross-modal reasoning [[paper](https://arxiv.org/pdf/2601.18356)]
 
 
 ---
