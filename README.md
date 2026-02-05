@@ -103,6 +103,7 @@ We collect existing papers on radiology report generation that have been publish
 - Benchmarking Direct Preference Optimization for Medical Large Vision–Language Models [[paper](https://arxiv.org/pdf/2601.17918)]
 - Making medical vision-language models think causally across modalities with retrieval-augmented cross-modal reasoning [[paper](https://arxiv.org/pdf/2601.18356)]
 - CURE: Curriculum-guided Multi-task Training for Reliable Anatomy Grounded Report Generation [[paper](https://arxiv.org/pdf/2601.15408)][[code](https://github.com/PabloMessina/CURE)]
+- TRACE: Temporal Radiology with Anatomical Change Explanation for Grounded X-ray Report Generation [[paper](https://arxiv.org/pdf/2602.02963v1)][[code](https://github.com/UTSA-VIRLab/TRACE)]
 
 
 ---
