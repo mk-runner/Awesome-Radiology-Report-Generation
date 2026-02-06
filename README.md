@@ -451,6 +451,7 @@ We collect existing papers on radiology report generation that have been publish
 - AHIVE: Anatomy-aware Hierarchical Vision Encoding for Interactive Radiology Report Retrieval [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_AHIVE_Anatomy-aware_Hierarchical_Vision_Encoding_for_Interactive_Radiology_Report_Retrieval_CVPR_2024_paper.html)] [[code]]
 - InVERGe: Intelligent Visual Encoder for Bridging Modalities in Report Generation (**Workshop**) [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Deria_InVERGe_Intelligent_Visual_Encoder_for_Bridging_Modalities_in_Report_Generation_CVPRW_2024_paper.pdf)][[code]( https://github.com/labsroy007/InVERGe)]
 - MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant [[paper](https://arxiv.org/pdf/2403.04290)]
+- Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework [[paper](https://arxiv.org/pdf/2403.07636)][[code](https://github.com/hieuvmphan/CVPR2024_MAVL)]
 
 **ACL'24**
 - DocLens: Multi-aspect Fine-grained Evaluation for Medical Text Generation [[paper](https://arxiv.org/abs/2311.09581)][[code](https://github.com/yiqingxyq/DocLens)]
