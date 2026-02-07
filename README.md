@@ -82,6 +82,9 @@ We collect existing papers on radiology report generation that have been publish
 - A Disease-Aware Dual-Stage Framework for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2511.12259)]
 - Explainable Melanoma Diagnosis with Contrastive Learning and LLM-based Report Generation [[paper](https://arxiv.org/pdf/2512.06105v1)][[code](https://eattt-wen.github.io/CEFM/)]
 
+**TMI'26**
+- LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous Federated Learning [[paper](https://ieeexplore.ieee.org/document/11087641)]
+
 **KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
 
