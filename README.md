@@ -260,6 +260,12 @@ We collect existing papers on radiology report generation that have been publish
 
 **WACV'25**
 - ORID: Organ-Regional Information Driven Framework for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10943499)]
+  
+
+**BIBM'25**
+- Severity-Aware Radiology Report Generation: Knowledge Graph Expansion and Momentum-Guided Classification Enhancement [[paper](https://ieeexplore.ieee.org/abstract/document/11356157)]
+- MENet: Memory Enhanced Network for Chest Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11357108)]
+- Integrating Clinical Knowledge into Radiology Report Generation to Enhance Diagnosis [[paper](https://ieeexplore.ieee.org/abstract/document/11355985)]
 
 **Radiology'25**
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
