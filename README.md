@@ -266,6 +266,9 @@ We collect existing papers on radiology report generation that have been publish
 - Severity-Aware Radiology Report Generation: Knowledge Graph Expansion and Momentum-Guided Classification Enhancement [[paper](https://ieeexplore.ieee.org/abstract/document/11356157)]
 - MENet: Memory Enhanced Network for Chest Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11357108)]
 - Integrating Clinical Knowledge into Radiology Report Generation to Enhance Diagnosis [[paper](https://ieeexplore.ieee.org/abstract/document/11355985)]
+- LGFDTK-RAG: Dual-Conditioned RAG with Label-Guided Filtering and Dynamic Top-K for Automated ECG Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11356737)]
+- MCL-FENet: Multi-Level Contrastive Learning with Feature Enhancement Network for Medical Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11356329)]
+- CyclicAligner: Knowledge-Enhanced Cyclical Alignment for Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11356622)]
 
 **Radiology'25**
 - Privacy-ensuring Open-weights Large Language Models Are Competitive with Closed-weights GPT-4o in Extracting Chest Radiography Findings from Free-Text Reports [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240895)]
