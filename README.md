@@ -109,6 +109,7 @@ We collect existing papers on radiology report generation that have been publish
 - TRACE: Temporal Radiology with Anatomical Change Explanation for Grounded X-ray Report Generation [[paper](https://arxiv.org/pdf/2602.02963v1)][[code](https://github.com/UTSA-VIRLab/TRACE)]
 - LEAD: Layer-wise Expert-aligned Decoding for Faithful Radiology Report Generation [[paper](https://arxiv.org/pdf/2602.04617v1)]
 - OmniRad: A Radiological Foundation Model for Multi-Task Medical Image Analysis [[paper](https://arxiv.org/pdf/2602.04547v1)]
+- MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images [[paper](https://arxiv.org/pdf/2602.06965)][[code](https://huggingface.co/MBZUAI/MedMO-4B)]
 
 ---
 
