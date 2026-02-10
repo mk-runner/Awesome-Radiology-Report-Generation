@@ -113,6 +113,7 @@ We collect existing papers on radiology report generation that have been publish
 - LEAD: Layer-wise Expert-aligned Decoding for Faithful Radiology Report Generation [[paper](https://arxiv.org/pdf/2602.04617v1)]
 - OmniRad: A Radiological Foundation Model for Multi-Task Medical Image Analysis [[paper](https://arxiv.org/pdf/2602.04547v1)]
 - MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images [[paper](https://arxiv.org/pdf/2602.06965)][[code](https://huggingface.co/MBZUAI/MedMO-4B)]
+- PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision–Language Pretraining [[paper](https://arxiv.org/pdf/2602.06184v1)]
 
 ---
 
