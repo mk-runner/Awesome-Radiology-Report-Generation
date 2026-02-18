@@ -115,6 +115,9 @@ We collect existing papers on radiology report generation that have been publish
 - OmniRad: A Radiological Foundation Model for Multi-Task Medical Image Analysis [[paper](https://arxiv.org/pdf/2602.04547v1)]
 - MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images [[paper](https://arxiv.org/pdf/2602.06965)][[code](https://huggingface.co/MBZUAI/MedMO-4B)]
 - PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision–Language Pretraining [[paper](https://arxiv.org/pdf/2602.06184v1)]
+- Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation [[paper](https://arxiv.org/pdf/2602.12843v1)][[code](https://github.com/qiuzyc/thinking_like_a_radiologist)]
+- Layer-Specific Fine-Tuning for Improved Negation Handling in Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2602.12498v1)]
+- CT-Bench: Benchmarking Multimodal AI in Computed Tomography [[paper](https://arxiv.org/pdf/2602.14879v1)][[code](https://github.com/CelestialShine/CT-Bench)][[data](https://www.kaggle.com/datasets/cd1661d6d6aeab08b8eb99b58885b4489d76fc5ac07d5aac76cae577e6426e2f/data?select=qa_clip.json)]
 
 ---
 
