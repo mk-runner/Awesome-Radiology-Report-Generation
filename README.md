@@ -119,6 +119,7 @@ We collect existing papers on radiology report generation that have been publish
 - Layer-Specific Fine-Tuning for Improved Negation Handling in Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2602.12498v1)]
 - CT-Bench: Benchmarking Multimodal AI in Computed Tomography [[paper](https://arxiv.org/pdf/2602.14879v1)][[code](https://github.com/CelestialShine/CT-Bench)][[data](https://www.kaggle.com/datasets/cd1661d6d6aeab08b8eb99b58885b4489d76fc5ac07d5aac76cae577e6426e2f/data?select=qa_clip.json)]
 - Concept-Enhanced Multimodal RAG: Towards Interpretable and Accurate Radiology Report Generation [[paper](https://arxiv.org/pdf/2602.15650v1)]
+- MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs [[paper](https://arxiv.org/pdf/2602.12705)]
 
 ---
 
