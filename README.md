@@ -82,6 +82,9 @@ We collect existing papers on radiology report generation that have been publish
 - A Disease-Aware Dual-Stage Framework for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2511.12259)]
 - Explainable Melanoma Diagnosis with Contrastive Learning and LLM-based Report Generation [[paper](https://arxiv.org/pdf/2512.06105v1)][[code](https://eattt-wen.github.io/CEFM/)]
 
+**MIDL'26**
+- BTReport: A Framework for Brain Tumor Radiology Report Generation with Clinically Relevant Features [[paper](https://arxiv.org/pdf/2602.16006v1)][[code](https://github.com/KurtLabUW/BTReport)]
+
 **TMI'26**
 - LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous Federated Learning [[paper](https://ieeexplore.ieee.org/document/11087641)]
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11142850)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
@@ -120,6 +123,7 @@ We collect existing papers on radiology report generation that have been publish
 - CT-Bench: Benchmarking Multimodal AI in Computed Tomography [[paper](https://arxiv.org/pdf/2602.14879v1)][[code](https://github.com/CelestialShine/CT-Bench)][[data](https://www.kaggle.com/datasets/cd1661d6d6aeab08b8eb99b58885b4489d76fc5ac07d5aac76cae577e6426e2f/data?select=qa_clip.json)]
 - Concept-Enhanced Multimodal RAG: Towards Interpretable and Accurate Radiology Report Generation [[paper](https://arxiv.org/pdf/2602.15650v1)]
 - MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs [[paper](https://arxiv.org/pdf/2602.12705)]
+- MedProbCLIP: Probabilistic Adaptation of Vision-Language Foundation Model for Reliable Radiograph-Report Retrieval [[paper](https://arxiv.org/pdf/2602.16019v1)]
 
 ---
 
