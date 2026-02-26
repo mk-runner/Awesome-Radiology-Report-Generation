@@ -88,6 +88,7 @@ We collect existing papers on radiology report generation that have been publish
 **TMI'26**
 - LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous Federated Learning [[paper](https://ieeexplore.ieee.org/document/11087641)]
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11142850)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
+- FiR-Rad: Fine-grained Reinforcement with Structured Reasoning for Chest X-ray Report Generation [[paper](https://ieeexplore.ieee.org/document/11397739)]
 
 **KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
@@ -124,6 +125,8 @@ We collect existing papers on radiology report generation that have been publish
 - Concept-Enhanced Multimodal RAG: Towards Interpretable and Accurate Radiology Report Generation [[paper](https://arxiv.org/pdf/2602.15650v1)]
 - MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs [[paper](https://arxiv.org/pdf/2602.12705)]
 - MedProbCLIP: Probabilistic Adaptation of Vision-Language Foundation Model for Reliable Radiograph-Report Retrieval [[paper](https://arxiv.org/pdf/2602.16019v1)]
+- LUMEN: Longitudinal Multi-Modal Radiology Model for Prognosis and Diagnosis [[paper](https://arxiv.org/pdf/2602.21142v1)]
+- 
 
 ---
 
