@@ -130,7 +130,8 @@ We collect existing papers on radiology report generation that have been publish
 - MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs [[paper](https://arxiv.org/pdf/2602.12705)]
 - MedProbCLIP: Probabilistic Adaptation of Vision-Language Foundation Model for Reliable Radiograph-Report Retrieval [[paper](https://arxiv.org/pdf/2602.16019v1)]
 - LUMEN: Longitudinal Multi-Modal Radiology Model for Prognosis and Diagnosis [[paper](https://arxiv.org/pdf/2602.21142v1)]
-- 
+- MammoWise: Multi-Model Local RAG Pipeline for Mammography Report Generation [[paper](https://arxiv.org/pdf/2602.22462v1)]
+- A data- and compute-efficient chest X-ray foundation model beyond aggressive scaling [[paper](https://arxiv.org/pdf/2602.22843v1)]
 
 ---
 
