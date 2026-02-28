@@ -85,10 +85,14 @@ We collect existing papers on radiology report generation that have been publish
 **MIDL'26**
 - BTReport: A Framework for Brain Tumor Radiology Report Generation with Clinically Relevant Features [[paper](https://arxiv.org/pdf/2602.16006v1)][[code](https://github.com/KurtLabUW/BTReport)]
 
+**WACV'26**
+- LASOR: Towards Clinically Transparent and Explainable Ophthalmic Report Generation via Lesion-Aware Segmentation [[paper](https://openaccess.thecvf.com/content/WACV2026/papers/Park_LASOR_Towards_Clinically_Transparent_and_Explainable_Ophthalmic_Report_Generation_via_WACV_2026_paper.pdf)]
+
 **TMI'26**
 - LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous Federated Learning [[paper](https://ieeexplore.ieee.org/document/11087641)]
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11142850)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - FiR-Rad: Fine-grained Reinforcement with Structured Reasoning for Chest X-ray Report Generation [[paper](https://ieeexplore.ieee.org/document/11397739)]
+
 
 **KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
