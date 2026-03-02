@@ -813,6 +813,7 @@ ICCV'23
 - CXR-LT: Multi-Label Long-Tailed Classification on Chest X-Rays (**CXR-LT**)[[dataset](https://physionet.org/content/cxr-lt-iccv-workshop-cvamd/2.0.0/)]
 - COVID-19 CT dataset (Chinese) [[paper](https://www.semanticscholar.org/paper/Medical-VLBERT%3A-Medical-Visual-Language-BERT-for-CT-Liu-Liao/25c7fa62d85c5d564f0b35471456e4ad4739c582)][[data](https://covid19ct.github.io/)]
 - COV-CTR (Chinese & English) [[data](https://github.com/mlii0117/COV-CTR)]
+- **VinDr-Mammo**: A large-scale benchmark dataset for computer-aided detection and diagnosis in full-field digital mammography [[data](https://physionet.org/content/vindr-mammo/1.0.0/)]
 - 
 
 ## Metrics
