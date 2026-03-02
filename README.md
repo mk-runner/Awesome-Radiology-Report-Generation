@@ -93,6 +93,8 @@ We collect existing papers on radiology report generation that have been publish
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11142850)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - FiR-Rad: Fine-grained Reinforcement with Structured Reasoning for Chest X-ray Report Generation [[paper](https://ieeexplore.ieee.org/document/11397739)]
 
+**JBHI'26**
+- Fog/Edge-Aware State Space Models for Multi-Task Chest X-ray Report Generation and Lesion Detection [[paper](https://ieeexplore.ieee.org/abstract/document/11410578)]
 
 **KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
