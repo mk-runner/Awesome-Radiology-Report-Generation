@@ -135,6 +135,8 @@ We collect existing papers on radiology report generation that have been publish
 - MammoWise: Multi-Model Local RAG Pipeline for Mammography Report Generation [[paper](https://arxiv.org/pdf/2602.22462v1)]
 - A data- and compute-efficient chest X-ray foundation model beyond aggressive scaling [[paper](https://arxiv.org/pdf/2602.22843v1)]
 - MediX-R1: Open Ended Medical Reinforcement Learning [[paper](ttps://arxiv.org/pdf/2602.23363)]
+- Suppressing Prior-Comparison Hallucinations in Radiology Report Generation via Semantically Decoupled Latent Steering [[paper](https://arxiv.org/pdf/2602.23676v1)]
+- Footprint-Guided Exemplar-Free Continual Histopathology Report Generation [[paper](https://arxiv.org/pdf/2602.23817v1)]
 
 ---
 
