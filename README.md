@@ -137,6 +137,10 @@ We collect existing papers on radiology report generation that have been publish
 - MediX-R1: Open Ended Medical Reinforcement Learning [[paper](ttps://arxiv.org/pdf/2602.23363)]
 - Suppressing Prior-Comparison Hallucinations in Radiology Report Generation via Semantically Decoupled Latent Steering [[paper](https://arxiv.org/pdf/2602.23676v1)]
 - Footprint-Guided Exemplar-Free Continual Histopathology Report Generation [[paper](https://arxiv.org/pdf/2602.23817v1)]
+- U-VLM: Hierarchical Vision Language Modeling for Report Generation [[paper](https://arxiv.org/pdf/2603.00479v1)]
+- NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.01756v1)]
+- Measuring What VLMs Don’t Say: Validation Metrics Hide Clinical Terminology Erasure in Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.01625v1)]
+- ClinCoT: Clinical-Aware Visual Chain-of-Thought for Medical Vision Language Models [[paper](https://arxiv.org/pdf/2603.01124v1)]
 
 ---
 
