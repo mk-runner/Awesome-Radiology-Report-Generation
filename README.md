@@ -65,6 +65,8 @@ We collect existing papers on radiology report generation that have been publish
 
 ## Papers
 ### 2026
+**Nature'26**
+- Merlin: A Computed Tomography Vision–Language Foundation Model and Dataset [[paper](https://www.nature.com/articles/s41586-026-10181-8)][[code](https://github.com/StanfordMIMI/Merlin)]
 
 **Nature Biomedical Engineering'26**
 - A multimodal vision–language model for generalizable annotation-free pathology localization [[paper](https://github.com/YH0517/AFLoc)]
