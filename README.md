@@ -100,6 +100,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
+- Toward Bias-Resilient Radiology Report Generation: Hierarchical Contrastive Learning and Adaptive Knowledge Graph Integration [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126004120)]
 
 **EAAI'26**
 - Auto-encoding clinical language for zero-shot medical report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625032750)]
@@ -143,6 +144,7 @@ We collect existing papers on radiology report generation that have been publish
 - NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.01756v1)]
 - Measuring What VLMs Don’t Say: Validation Metrics Hide Clinical Terminology Erasure in Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.01625v1)]
 - ClinCoT: Clinical-Aware Visual Chain-of-Thought for Medical Vision Language Models [[paper](https://arxiv.org/pdf/2603.01124v1)]
+
 
 ---
 
@@ -825,7 +827,6 @@ ICCV'23
 - COVID-19 CT dataset (Chinese) [[paper](https://www.semanticscholar.org/paper/Medical-VLBERT%3A-Medical-Visual-Language-BERT-for-CT-Liu-Liao/25c7fa62d85c5d564f0b35471456e4ad4739c582)][[data](https://covid19ct.github.io/)]
 - COV-CTR (Chinese & English) [[data](https://github.com/mlii0117/COV-CTR)]
 - **VinDr-Mammo**: A large-scale benchmark dataset for computer-aided detection and diagnosis in full-field digital mammography [[data](https://physionet.org/content/vindr-mammo/1.0.0/)]
-- 
 
 ## Metrics
 - FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores (**arXiv'2405**) [[paper](https://arxiv.org/pdf/2405.20613)][[code](https://github.com/rajpurkarlab/FineRadScore)]
