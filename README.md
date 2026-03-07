@@ -145,6 +145,7 @@ We collect existing papers on radiology report generation that have been publish
 - Measuring What VLMs Don’t Say: Validation Metrics Hide Clinical Terminology Erasure in Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.01625v1)]
 - ClinCoT: Clinical-Aware Visual Chain-of-Thought for Medical Vision Language Models [[paper](https://arxiv.org/pdf/2603.01124v1)]
 - LLM-Bootstrapped Targeted Finding Guidance for Factual MLLM-based Medical Report Generation [[paper](https://arxiv.org/pdf/2603.00426)]
+- Structure Observation Driven Image-Text Contrastive Learning for Computed Tomography Report Generation [[paper](https://arxiv.org/pdf/2603.04878v1)]
 
 
 ---
