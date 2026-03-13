@@ -106,6 +106,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **EAAI'26**
 - Auto-encoding clinical language for zero-shot medical report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625032750)]
+- Mixture of experts for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626007189)]
 
 **ESWA'26**
 - ITAdapter: Image-Tag Adapter Framework with Retrieval Knowledge Enhancer for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426004070)]
@@ -150,6 +151,7 @@ We collect existing papers on radiology report generation that have been publish
 - Structure Observation Driven Image-Text Contrastive Learning for Computed Tomography Report Generation [[paper](https://arxiv.org/pdf/2603.04878v1)]
 - Rethinking the Efficiency and Effectiveness of Reinforcement Learning for Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.04022)]
 - RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation [[paper](https://arxiv.org/pdf/2603.04348)]
+- CRIMSON: A Clinically-Grounded LLM-Based Metric for Generative Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2603.06467)][[code](https://github.com/rajpurkarlab/CRIMSON)]
 
 
 ---
@@ -850,6 +852,7 @@ ICCV'23
 - A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings (**CheXprompt**)[[paper](https://www.nature.com/articles/s41467-025-58344-x)][[code](https://github.com/microsoft/chexprompt)]
 - RadReason: Radiology Report Evaluation Metric with Reasons and Sub-Scores (**RadReason'2508**) [[paper](https://arxiv.org/pdf/2508.15464v1)]
 - CREPE: Rapid Chest X-ray Report Evaluation by Predicting Multi-category Error Counts (**EMNLP'25**) [[paper](https://openreview.net/forum?id=gjFuz5jbiJ)][[code](https://github.com/gihuncho/crepe/tree/main)]
+-  CRIMSON: A Clinically-Grounded LLM-Based Metric for Generative Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2603.06467)][[code](https://github.com/rajpurkarlab/CRIMSON)]
 
 ## Other Resources
 - Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing (**CVPR'23**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.pdf)[[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
