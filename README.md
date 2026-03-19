@@ -86,6 +86,7 @@ We collect existing papers on radiology report generation that have been publish
 - S2D-ALIGN: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation [[paper](https://arxiv.org/pdf/2511.11066)]
 - A Disease-Aware Dual-Stage Framework for Chest X-ray Report Generation [[paper](https://arxiv.org/pdf/2511.12259)]
 - Explainable Melanoma Diagnosis with Contrastive Learning and LLM-based Report Generation [[paper](https://arxiv.org/pdf/2512.06105v1)][[code](https://eattt-wen.github.io/CEFM/)]
+- Medical Vision–Language Pretraining with LLM-Guided Temporal Supervision [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39047)]
 
 **MIDL'26**
 - BTReport: A Framework for Brain Tumor Radiology Report Generation with Clinically Relevant Features [[paper](https://arxiv.org/pdf/2602.16006v1)][[code](https://github.com/KurtLabUW/BTReport)]
