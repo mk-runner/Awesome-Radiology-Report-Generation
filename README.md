@@ -157,6 +157,7 @@ We collect existing papers on radiology report generation that have been publish
 - RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation [[paper](https://arxiv.org/pdf/2603.04348)]
 - CRIMSON: A Clinically-Grounded LLM-Based Metric for Generative Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2603.06467)][[code](https://github.com/rajpurkarlab/CRIMSON)]
 - EviAgent: Evidence-Driven Agent for Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.13956)]
+- DiffVP: Differential Visual Semantic Prompting for LLM-Based CT Report Generation [[paper](https://arxiv.org/pdf/2603.17718v1)]
 
 
 ---
