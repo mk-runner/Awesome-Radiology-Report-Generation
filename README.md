@@ -89,6 +89,7 @@ We collect existing papers on radiology report generation that have been publish
 - Medical Vision–Language Pretraining with LLM-Guided Temporal Supervision [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39047)]
 - PET2Rep: Towards Vision-Language Model-Drived Automated Radiology Report Generation for Positron Emission Tomography [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/38288/42250)][[code](https://github.com/YichiZhang98/PET2Rep)]
 - MARE: Multimodal Analogical Reasoning for Disease Evolution-Aware Radiology Report Generation [[code](https://github.com/gaoqingqing77/MARE)][[paper](https://ojs.aaai.org/index.php/AAAI/article/download/39262/43223)]
+- ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/37680/41642)]
 - 
 
 **MIDL'26**
