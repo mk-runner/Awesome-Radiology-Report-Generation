@@ -107,6 +107,7 @@ We collect existing papers on radiology report generation that have been publish
 - Fog/Edge-Aware State Space Models for Multi-Task Chest X-ray Report Generation and Lesion Detection [[paper](https://ieeexplore.ieee.org/abstract/document/11410578)]
 - R2GenCSR: Mining Contextual and Residual Information for LLMs-based Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11419732)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - Unsupervised Contrastive Refinement with Graph-Aware Multimodal Interaction for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11420997)][[code](https://github.com/adaydar/MedCARF)]
+- Uncertainty-Aware Cross-Modal Retrieval for Medical Report Generation [[paper](https://ieeexplore.ieee.org/document/11440925)][[code](https://github.com/Zhounan1222/U-CAR)]
 
 **KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
