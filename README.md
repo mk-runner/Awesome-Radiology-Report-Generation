@@ -26,6 +26,16 @@ We collect existing papers on radiology report generation that have been publish
     month={Mar.},
     pages={7206-7214}
 }
+
+@misc{2026-cogaze,
+      title={Seeing Like Radiologists: Context- and Gaze-Guided Vision-Language Pretraining for Chest X-rays}, 
+      author={Kang Liu and Zhuoqi Ma and Siyu Liang and Yunan Li and Xiyue Gao and Chao Liang and Kun Xie and Qiguang Miao},
+      year={2026},
+      eprint={2603.26049},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.26049}, 
+}
 ```
 
 ## Table of Contents
@@ -164,6 +174,7 @@ We collect existing papers on radiology report generation that have been publish
 - EviAgent: Evidence-Driven Agent for Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.13956)]
 - DiffVP: Differential Visual Semantic Prompting for LLM-Based CT Report Generation [[paper](https://arxiv.org/pdf/2603.17718v1)]
 - ACE-LoRA: Graph-Attentive Context Enhancement for Parameter-Efficient Adaptation of Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2603.17079v1)]
+- Seeing Like Radiologists: Context- and Gaze-Guided Vision-Language Pretraining for Chest X-rays [[paper](https://arxiv.org/abs/2603.26049)][[code](https://github.com/mk-runner/CoGaze)][[Hugging Face](https://huggingface.co/MK-runner/CoGaze)]
 
 
 ---
