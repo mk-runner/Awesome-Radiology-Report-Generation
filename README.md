@@ -176,6 +176,7 @@ We collect existing papers on radiology report generation that have been publish
 - ACE-LoRA: Graph-Attentive Context Enhancement for Parameter-Efficient Adaptation of Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2603.17079v1)]
 - Seeing Like Radiologists: Context- and Gaze-Guided Vision-Language Pretraining for Chest X-rays [[paper](https://arxiv.org/abs/2603.26049)][[code](https://github.com/mk-runner/CoGaze)][[Hugging Face](https://huggingface.co/MK-runner/CoGaze)]
 - Ran Score: a LLM-based Evaluation Score for Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.22935)]
+- A Reasoning-Enabled Vision–Language Foundation Model for Chest X-ray Interpretation [[paper](https://arxiv.org/pdf/2604.00493v1)][[code](https://github.com/YBZh/CheXOne)]
 
 
 ---
