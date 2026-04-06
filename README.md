@@ -86,6 +86,8 @@ We collect existing papers on radiology report generation that have been publish
 
 **npj Digital Medicine'26**
 - Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models [[paper](https://www.nature.com/articles/s41746-025-02300-y)]
+- A robust vision language model for molecular status prediction and radiology report generation in adult-type diffuse gliomas [[paper](https://www.nature.com/articles/s41746-026-02581-x_reference.pdf)]
+
 
 **ICLR'26**
 - Learning Self-Critiquing Mechanisms for Region-Guided Chest X-Ray Report Generation [[paper](https://openreview.net/forum?id=6sOSwgCmpH)]
