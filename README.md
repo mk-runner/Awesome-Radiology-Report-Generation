@@ -182,6 +182,7 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - A Reasoning-Enabled Vision–Language Foundation Model for Chest X-ray Interpretation [[paper](https://arxiv.org/pdf/2604.00493v1)][[code](https://github.com/YBZh/CheXOne)]
 - Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding [[paper](https://arxiv.org/pdf/2604.01749v1)][[code](https://github.com/mk-runner/CoGaze)]
 - EviAgent: Evidence-Driven Agent for Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.13956)]
+- XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis [[paper](https://arxiv.org/pdf/2604.02695v1)]
 
 
 ---
