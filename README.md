@@ -93,6 +93,9 @@ We collect existing papers on radiology report generation that have been publish
 - Learning Self-Critiquing Mechanisms for Region-Guided Chest X-Ray Report Generation [[paper](https://openreview.net/forum?id=6sOSwgCmpH)]
 - Rethinking Radiology Report Generation: From Narrative Flow to Topic-Guided Findings [[paper](https://openreview.net/forum?id=nV3SAjFlyv)]
 
+**CVPR'26**
+- X-WIN: Building Chest Radiograph World Model via Predictive Sensing [[paper](https://arxiv.org/pdf/2511.14918)][[code](https://github.com/RPIDIAL/X-WIN)]
+
 **AAAI'26**
 - PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2508.05353)][[code](https://github.com/mk-runner/PriorRG)]
 - S2D-ALIGN: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation [[paper](https://arxiv.org/pdf/2511.11066)]
