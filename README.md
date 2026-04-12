@@ -125,6 +125,9 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - Unsupervised Contrastive Refinement with Graph-Aware Multimodal Interaction for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11420997)][[code](https://github.com/adaydar/MedCARF)]
 - Uncertainty-Aware Cross-Modal Retrieval for Medical Report Generation [[paper](https://ieeexplore.ieee.org/document/11440925)][[code](https://github.com/Zhounan1222/U-CAR)]
 
+**Information Fusion'26**
+- AI-Assisted Synthetic Medical Report Generation using Radiomic Feature Correlation-based PCA Scores of Multimodal Data for Dementia Progression [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002484)]
+
 **KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
 - Toward Bias-Resilient Radiology Report Generation: Hierarchical Contrastive Learning and Adaptive Knowledge Graph Integration [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126004120)]
