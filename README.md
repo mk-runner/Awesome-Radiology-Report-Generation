@@ -189,6 +189,8 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding [[paper](https://arxiv.org/pdf/2604.01749v1)][[code](https://github.com/mk-runner/CoGaze)]
 - EviAgent: Evidence-Driven Agent for Radiology Report Generation [[paper](https://arxiv.org/pdf/2603.13956)]
 - XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis [[paper](https://arxiv.org/pdf/2604.02695v1)]
+- M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model [[paper](https://arxiv.org/pdf/2604.08936v1)]
+- ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion [[paper](https://arxiv.org/pdf/2604.09450v1)]
 
 
 ---
