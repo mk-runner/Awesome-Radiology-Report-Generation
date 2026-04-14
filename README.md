@@ -108,6 +108,10 @@ We collect existing papers on radiology report generation that have been publish
 - Mitigating Entity Hallucinations in 3D Radiology Report Generation via
 Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/38379/42341)][[code](https://github.com/SCU-zly/DEAR)]
 
+**WWW'26**
+- MGK-RAG: Multi-Granularity Knowledge GuidedRetrieval-Augmented Generation for Radiology Report [[paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792924)]
+
+
 **MIDL'26**
 - BTReport: A Framework for Brain Tumor Radiology Report Generation with Clinically Relevant Features [[paper](https://arxiv.org/pdf/2602.16006v1)][[code](https://github.com/KurtLabUW/BTReport)]
 
@@ -135,6 +139,7 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 **EAAI'26**
 - Auto-encoding clinical language for zero-shot medical report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625032750)]
 - Mixture of experts for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626007189)]
+- An interpretable multimodal transformer for medical report generation via hierarchical semantics and clinical labeling [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626010134)]
 
 **ESWA'26**
 - ITAdapter: Image-Tag Adapter Framework with Retrieval Knowledge Enhancer for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426004070)]
