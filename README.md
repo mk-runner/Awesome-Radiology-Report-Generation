@@ -196,6 +196,8 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis [[paper](https://arxiv.org/pdf/2604.02695v1)]
 - M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model [[paper](https://arxiv.org/pdf/2604.08936v1)]
 - ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion [[paper](https://arxiv.org/pdf/2604.09450v1)]
+- Enhancing Fine-Grained Spatial Grounding in 3D CT Report Generation via Discriminative Guidance [[paper](https://arxiv.org/pdf/2604.10437v1)]
+- Radiology Report Generation for Low-Quality X-Ray Images [[paper](https://arxiv.org/pdf/2604.10188v1)]
 
 
 ---
