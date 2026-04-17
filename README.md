@@ -199,6 +199,7 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion [[paper](https://arxiv.org/pdf/2604.09450v1)]
 - Enhancing Fine-Grained Spatial Grounding in 3D CT Report Generation via Discriminative Guidance [[paper](https://arxiv.org/pdf/2604.10437v1)]
 - Radiology Report Generation for Low-Quality X-Ray Images [[paper](https://arxiv.org/pdf/2604.10188v1)]
+- Gaze2Report: Radiology Report Generation via Visual-Gaze Prompt Tuning of LLMs [[paper](https://arxiv.org/pdf/2604.08600)]
 
 
 ---
