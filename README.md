@@ -5,7 +5,7 @@
 
 We collect existing papers on radiology report generation that have been published in prominent conferences and journals. If you find this helpful, please consider citing the following reference.
 ```
-@InProceedings{Liu-2025-CVPR,
+@InProceedings{cvpr-mlrg-2025,
     author    = {Liu, Kang and Ma, Zhuoqi and Kang, Xiaolu and Li, Yunan and Xie, Kun and Jiao, Zhicheng and Miao, Qiguang},
     title     = {Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
@@ -14,13 +14,13 @@ We collect existing papers on radiology report generation that have been publish
     pages     = {10348-10359}
 }
 
-@article{liu-2026-priorrg,
+@InProceedings{aaai-priorrg-2026,
     title={PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation},
     volume={40},
     url={https://ojs.aaai.org/index.php/AAAI/article/view/37657},
     DOI={10.1609/aaai.v40i9.37657},
     number={9},
-    journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
     author={Liu, Kang and Ma, Zhuoqi and Fang, Zikang and Li, Yunan and Xie, Kun and Miao, Qiguang},
     year={2026},
     month={Mar.},
