@@ -76,6 +76,7 @@ We collect existing papers on radiology report generation that have been publish
 
 
 
+
 ## Papers
 ### 2026
 **Nature'26**
@@ -206,7 +207,7 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - Radiology Report Generation for Low-Quality X-Ray Images [[paper](https://arxiv.org/pdf/2604.10188v1)]
 - Gaze2Report: Radiology Report Generation via Visual-Gaze Prompt Tuning of LLMs [[paper](https://arxiv.org/pdf/2604.08600)]
 - MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation [[paper](https://arxiv.org/pdf/2604.16175v1)]
-
+- Toward Clinically Acceptable Chest X-ray Report Generation: A Qualitative Retrospective Pilot Study of CXRMate-2 [[paper](https://arxiv.org/pdf/2604.18967v1)][[code](https://github.com/aehrc/cxrmate-2)]
 
 ---
 
