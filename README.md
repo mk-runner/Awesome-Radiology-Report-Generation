@@ -100,6 +100,7 @@ We collect existing papers on radiology report generation that have been publish
 - CURE: Curriculum-guided Multi-task Training for Reliable Anatomy Grounded Report Generation [[paper](https://arxiv.org/pdf/2601.15408)]
 - SAT-RRG: LLM-Guided Self-Adaptive Training for Radiology Report Generation with Token-Level Push–Pull Optimization [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37552)]
 - PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39104)]
+- Phrase-grounded APO for Improving Chest X-ray Report Generation [[paper](https://cvpr.thecvf.com/virtual/2026/poster/36623)]
 
 **ACL'26**
 - Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework [[paper](https://arxiv.org/pdf/2604.18145v1)][[code](https://github.com/Etdihatthoc/VietPET-RoI_ACL2026)]
