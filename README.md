@@ -150,6 +150,7 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 
 **ESWA'26**
 - ITAdapter: Image-Tag Adapter Framework with Retrieval Knowledge Enhancer for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426004070)]
+- Factual Serialization Enhancement: A Key Innovation for Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426014636)][[code](https://github.com/mk-runner/FSE)]
 
 **arXiv'26**
 - VolumeVision: A 2.5D Hierarchical Architecture for Efficient Automated Reporting of Chest CT Volumes [[paper](https://assets.tina.io/1fb09d03-9237-4c49-aaa9-d024a83c7ac7/VolumeVision.pdf)]
