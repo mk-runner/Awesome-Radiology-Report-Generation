@@ -127,6 +127,10 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - Abnormality-Aware Knowledge Graph and Hierarchical Cross-Attention in LLM for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11464520)]
 - Hierarchical Anatomically-Aligned Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11460775)]
 - Case2Knowledge: Structured Knowledge-Infused Prompting for Faithful Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11464942)]
+- SDORG: Structurally Deconstructed framework for otoscopic report generation with region-aware Multimodal Alignment [[paper](https://ieeexplore.ieee.org/abstract/document/11461023)]
+- DVPAlign: Dual-Flow Visual Graph Encoding with Diagnostic-Driven Prompt Alignment For Medical Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11463043)]
+- MP-CXR: A Modular Pipeline with Multi-Label Disease-State Classification and Image-Label Alignment for Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11460414)]
+- From ECG Signals to Diagnostic Reports: A Unified Framework with Multimodal Encoder and Fine-Tuned LLM for Automated Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11462928)]
 
 **MIDL'26**
 - BTReport: A Framework for Brain Tumor Radiology Report Generation with Clinically Relevant Features [[paper](https://arxiv.org/pdf/2602.16006v1)][[code](https://github.com/KurtLabUW/BTReport)]
