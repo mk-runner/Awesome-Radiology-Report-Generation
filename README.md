@@ -119,8 +119,14 @@ We collect existing papers on radiology report generation that have been publish
 Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/38379/42341)][[code](https://github.com/SCU-zly/DEAR)]
 
 **WWW'26**
-- MGK-RAG: Multi-Granularity Knowledge GuidedRetrieval-Augmented Generation for Radiology Report [[paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792924)]
+- MGK-RAG: Multi-Granularity Knowledge Guided Retrieval-Augmented Generation for Radiology Report [[paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792924)]
 
+**ICASSP'26**
+- Beyond Averaging: All-Rounder Capability Evaluation for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11461738)]
+- Radiology Report Generation via Multi-Path Modeling with Medical Language Priors and Semantic Guidance [[paper](https://ieeexplore.ieee.org/abstract/document/11460330)]
+- Abnormality-Aware Knowledge Graph and Hierarchical Cross-Attention in LLM for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11464520)]
+- Hierarchical Anatomically-Aligned Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11460775)]
+- Case2Knowledge: Structured Knowledge-Infused Prompting for Faithful Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11464942)]
 
 **MIDL'26**
 - BTReport: A Framework for Brain Tumor Radiology Report Generation with Clinically Relevant Features [[paper](https://arxiv.org/pdf/2602.16006v1)][[code](https://github.com/KurtLabUW/BTReport)]
