@@ -149,6 +149,7 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - R2GenCSR: Mining Contextual and Residual Information for LLMs-based Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11419732)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - Unsupervised Contrastive Refinement with Graph-Aware Multimodal Interaction for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11420997)][[code](https://github.com/adaydar/MedCARF)]
 - Uncertainty-Aware Cross-Modal Retrieval for Medical Report Generation [[paper](https://ieeexplore.ieee.org/document/11440925)][[code](https://github.com/Zhounan1222/U-CAR)]
+- A Prompt-Guided Vision-Language Framework for Interpretable and Region-Aware Disease Diagnosis in Chest X-rays [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11488862)]
 
 **Information Fusion'26**
 - AI-Assisted Synthetic Medical Report Generation using Radiomic Feature Correlation-based PCA Scores of Multimodal Data for Dementia Progression [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002484)]
