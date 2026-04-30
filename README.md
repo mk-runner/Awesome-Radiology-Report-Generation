@@ -135,6 +135,7 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 **MIDL'26**
 - BTReport: A Framework for Brain Tumor Radiology Report Generation with Clinically Relevant Features [[paper](https://arxiv.org/pdf/2602.16006v1)][[code](https://github.com/KurtLabUW/BTReport)]
 - CWCD: Category-Wise Contrastive Decoding for Structured Medical Report Generation [[paper](https://arxiv.org/pdf/2604.10410v1)]
+- RadVLM-GRPO: Enhancing Chest X-ray Report Generation and Visual Grounding via Reinforcement Learning [[paper](https://digitalcollection.zhaw.ch/server/api/core/bitstreams/11a627ba-ce29-4757-9dc0-9333c4d7696b/content)]
 
 **WACV'26**
 - LASOR: Towards Clinically Transparent and Explainable Ophthalmic Report Generation via Lesion-Aware Segmentation [[paper](https://openaccess.thecvf.com/content/WACV2026/papers/Park_LASOR_Towards_Clinically_Transparent_and_Explainable_Ophthalmic_Report_Generation_via_WACV_2026_paper.pdf)]
