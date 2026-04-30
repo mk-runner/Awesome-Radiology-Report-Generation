@@ -156,6 +156,9 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - AI-Assisted Synthetic Medical Report Generation using Radiomic Feature Correlation-based PCA Scores of Multimodal Data for Dementia Progression [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002484)]
 - CX-Mind: A Pioneering Multimodal Large Language Model for Interleaved Reasoning in Chest X-ray via Curriculum-Guided Reinforcement Learning [[paper](https://arxiv.org/abs/2508.03733)][[code](https://github.com/SII-WenjieLisjtu/CX-Mind)]
 
+**Artificial Intelligence Review'26**
+- Automatic radiology report generation: a systematic review of emerging AI architectures and multimodal technologies [[paper](https://link.springer.com/article/10.1007/s10462-026-11556-z)]
+
 **KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
 - Toward Bias-Resilient Radiology Report Generation: Hierarchical Contrastive Learning and Adaptive Knowledge Graph Integration [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126004120)]
@@ -871,8 +874,9 @@ ICCV'23
 - Automatic medical report generation based on deep learning: A state of the art survey (**Computerized Medical Imaging and Graphics'25**)[[paper](https://www.sciencedirect.com/science/article/pii/S0895611124001630)]
 - A survey of deep-learning-based radiology report generation using multimodal inputs (**Medical Image Analysis'25**)[[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001744#bib1)]
 - Medical radiology report generation: A systematic review of current deep learning methods, trends, and future directions (**Artificial Intelligence in Medicine'25**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0933365725001551)]
-- Automatic radiology report generation with deep learning: a comprehensive review of methods and advances (Artificial Intelligence Review'25) [[paper](https://link.springer.com/article/10.1007/s10462-025-11337-0)]
+- Automatic radiology report generation with deep learning: a comprehensive review of methods and advances (**Artificial Intelligence Review'25**) [[paper](https://link.springer.com/article/10.1007/s10462-025-11337-0)]
 - A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation [[paper](https://arxiv.org/pdf/2510.12444v1)]
+- Automatic radiology report generation: a systematic review of emerging AI architectures and multimodal technologies (**Artificial Intelligence Review'26**)  [[paper](https://link.springer.com/article/10.1007/s10462-026-11556-z)]
 
 ## Dataset
 - MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs (**MIMIC-CXR**)  [[paper](https://arxiv.org/abs/1901.07042)][[data](https://physionet.org/content/mimic-cxr/2.0.0/)].
