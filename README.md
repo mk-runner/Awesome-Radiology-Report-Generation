@@ -164,6 +164,10 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
 - Toward Bias-Resilient Radiology Report Generation: Hierarchical Contrastive Learning and Adaptive Knowledge Graph Integration [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126004120)]
 
+**Information Processing & Management'26**
+- Latent diffusion-augmented cross-modal representation learning for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002542)][[cpde](https://github.com/Eleanorhxd/LDCR)]
+
+
 **EAAI'26**
 - Auto-encoding clinical language for zero-shot medical report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625032750)]
 - Mixture of experts for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626007189)]
@@ -232,6 +236,9 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation [[paper](https://arxiv.org/pdf/2604.16175v1)]
 - Toward Clinically Acceptable Chest X-ray Report Generation: A Qualitative Retrospective Pilot Study of CXRMate-2 [[paper](https://arxiv.org/pdf/2604.18967v1)][[code](https://github.com/aehrc/cxrmate-2)]
 - ReXSonoVQA: A Video QA Benchmark for Procedure-Centric Ultrasound Understanding [[paper](https://arxiv.org/pdf/2604.10916)][[code](https://github.com/rajpurkarlab/RexSonoVQA)]
+- IRG-DR: Interactive Report Generation Framework with Evidence Guidance for Diabetic Retinopathy [[paper](https://fyust.edu.cn/gjhyqk/cscwd2026/papers/paper_661.pdf)]
+- CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation [[paper](https://arxiv.org/pdf/2604.24001)]
+- 
 
 ---
 
