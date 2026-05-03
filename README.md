@@ -924,6 +924,7 @@ ICCV'23
 - **VinDr-Mammo**: A large-scale benchmark dataset for computer-aided detection and diagnosis in full-field digital mammography [[data](https://physionet.org/content/vindr-mammo/1.0.0/)]
 - **Ultrasound-CLIP**: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding [[paper](https://arxiv.org/pdf/2604.01749v1)][[code](https://github.com/mk-runner/CoGaze)][[data](https://huggingface.co/datasets/JJY-0823/US-365K/tree/main)]
 - Ultrasound Report Generation with Cross-Modality Feature Alignment via Unsupervised Guidance [[paper](https://arxiv.org/pdf/2406.00644)][[code](https://github.com/LijunRio/Ultrasound-Report-Generation)][[data](https://drive.google.com/file/d/1-Fz9J58ntoO8ZoAEKzm3fxm4jvOWrAuz/view)]
+- - WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole Slide Images (**PathText**) [[paper](https://arxiv.org/abs/2311.16480)][[code](https://github.com/cpystan/Wsi-Caption)]
 
 
 ## Metrics
