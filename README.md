@@ -148,6 +148,9 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11142850)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - FiR-Rad: Fine-grained Reinforcement with Structured Reasoning for Chest X-ray Report Generation [[paper](https://ieeexplore.ieee.org/document/11397739)]
 
+**JAMIA'26**
+- The detectability paradox: bilingual medical report generation with open-weight models and the limits of human oversight [[paper](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocag070/8672665#562448309)][[code](https://github.com/ds4dh/medical_report_generation)]
+
 **JBHI'26**
 - Fog/Edge-Aware State Space Models for Multi-Task Chest X-ray Report Generation and Lesion Detection [[paper](https://ieeexplore.ieee.org/abstract/document/11410578)]
 - R2GenCSR: Mining Contextual and Residual Information for LLMs-based Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11419732)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
@@ -246,6 +249,7 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - IRG-DR: Interactive Report Generation Framework with Evidence Guidance for Diabetic Retinopathy [[paper](https://fyust.edu.cn/gjhyqk/cscwd2026/papers/paper_661.pdf)]
 - CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation [[paper](https://arxiv.org/pdf/2604.24001)]
 - Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation [[paper](https://arxiv.org/pdf/2605.02376)]
+- CXR-ContraBench: Benchmarking Negated-Option Attraction in Medical VLMs [[paper](https://arxiv.org/pdf/2605.05810)]
 
 ---
 
