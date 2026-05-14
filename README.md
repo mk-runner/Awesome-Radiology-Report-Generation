@@ -118,8 +118,9 @@ We collect existing papers on radiology report generation that have been publish
 - PET2Rep: Towards Vision-Language Model-Drived Automated Radiology Report Generation for Positron Emission Tomography [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/38288/42250)][[code](https://github.com/YichiZhang98/PET2Rep)]
 - MARE: Multimodal Analogical Reasoning for Disease Evolution-Aware Radiology Report Generation [[code](https://github.com/gaoqingqing77/MARE)][[paper](https://ojs.aaai.org/index.php/AAAI/article/download/39262/43223)]
 - ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/37680/41642)]
-- Mitigating Entity Hallucinations in 3D Radiology Report Generation via
-Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/38379/42341)][[code](https://github.com/SCU-zly/DEAR)]
+- Mitigating Entity Hallucinations in 3D Radiology Report Generation via Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/38379/42341)][[code](https://github.com/SCU-zly/DEAR)]
+- Organ-Aware Routing Mixture-of-Retrieval Augmented Generation for Fetal Ultrasound Reporting [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/37795/41757)]
+
 
 **WWW'26**
 - MGK-RAG: Multi-Granularity Knowledge Guided Retrieval-Augmented Generation for Radiology Report [[paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792924)]
