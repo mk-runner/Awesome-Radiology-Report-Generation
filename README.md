@@ -77,6 +77,7 @@ We collect existing papers on radiology report generation that have been publish
 
 
 
+
 ## Papers
 ### 2026
 **Nature'26**
@@ -251,7 +252,8 @@ We collect existing papers on radiology report generation that have been publish
 - CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation [[paper](https://arxiv.org/pdf/2604.24001)]
 - Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation [[paper](https://arxiv.org/pdf/2605.02376)]
 - CXR-ContraBench: Benchmarking Negated-Option Attraction in Medical VLMs [[paper](https://arxiv.org/pdf/2605.05810)]
-
+- Hi-GaTA: Hierarchical Gated Temporal Aggregation Adapter for Surgical Video Report Generation [[paper](https://arxiv.org/pdf/2605.11208)]
+ 
 ---
 
 ### 2025
