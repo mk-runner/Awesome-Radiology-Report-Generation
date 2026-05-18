@@ -173,6 +173,7 @@ We collect existing papers on radiology report generation that have been publish
 **KBS'26**
 - Causal Inference for Reliable Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001206)]
 - Toward Bias-Resilient Radiology Report Generation: Hierarchical Contrastive Learning and Adaptive Knowledge Graph Integration [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126004120)]
+- Multi-scene topic-aware for novel single continuous shot multiple scenes endoscopy report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126009135)]
 
 **Information Processing & Management'26**
 - Latent diffusion-augmented cross-modal representation learning for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002542)][[cpde](https://github.com/Eleanorhxd/LDCR)]
