@@ -255,6 +255,7 @@ We collect existing papers on radiology report generation that have been publish
 - Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation [[paper](https://arxiv.org/pdf/2605.02376)]
 - CXR-ContraBench: Benchmarking Negated-Option Attraction in Medical VLMs [[paper](https://arxiv.org/pdf/2605.05810)]
 - Hi-GaTA: Hierarchical Gated Temporal Aggregation Adapter for Surgical Video Report Generation [[paper](https://arxiv.org/pdf/2605.11208)]
+- MI-CXR: A Benchmark for Longitudinal Reasoning over Multi-Interval Chest X-rays [[paper](https://arxiv.org/pdf/2605.15574v1)]
  
 ---
 
