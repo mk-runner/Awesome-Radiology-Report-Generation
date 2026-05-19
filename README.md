@@ -162,6 +162,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **IEEE Transactions on Radiation and Plasma Medical Sciences'26**
 - CFCM-Gen:Cross-modal Feature Co-optimization Mechanism for 3D Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11498522)]
+- SegReg-Rep: Region-Aware Vision-Language Alignment for Fine-Grained Radiology Report Generation from 3D Medical Images [[paper](https://ieeexplore.ieee.org/abstract/document/11520942)]
 
 **Information Fusion'26**
 - AI-Assisted Synthetic Medical Report Generation using Radiomic Feature Correlation-based PCA Scores of Multimodal Data for Dementia Progression [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002484)]
