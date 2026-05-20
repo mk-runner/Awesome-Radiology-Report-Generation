@@ -121,6 +121,7 @@ We collect existing papers on radiology report generation that have been publish
 - ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/37680/41642)]
 - Mitigating Entity Hallucinations in 3D Radiology Report Generation via Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/38379/42341)][[code](https://github.com/SCU-zly/DEAR)]
 - Organ-Aware Routing Mixture-of-Retrieval Augmented Generation for Fetal Ultrasound Reporting [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/37795/41757)]
+- Anatomical Region-Guided Contrastive Decoding: A Plug-and-Play Strategy for Mitigating Hallucinations in Medical VLMs [[paper](https://arxiv.org/pdf/2512.17189)]
 
 
 **WWW'26**
