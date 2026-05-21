@@ -127,6 +127,9 @@ We collect existing papers on radiology report generation that have been publish
 **WWW'26**
 - MGK-RAG: Multi-Granularity Knowledge Guided Retrieval-Augmented Generation for Radiology Report [[paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792924)]
 
+**MICCAI'26**
+- Concept-Guided Noisy Negative Suppression for Zero-Shot Classification and Grounding of Chest X-Ray Findings [[paper](https://arxiv.org/pdf/2605.19374v1)][[code](https://github.com/DopamineLcy/conns)]
+
 **ICASSP'26**
 - Beyond Averaging: All-Rounder Capability Evaluation for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11461738)]
 - Radiology Report Generation via Multi-Path Modeling with Medical Language Priors and Semantic Guidance [[paper](https://ieeexplore.ieee.org/abstract/document/11460330)]
