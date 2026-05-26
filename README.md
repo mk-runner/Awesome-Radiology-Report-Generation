@@ -97,6 +97,9 @@ We collect existing papers on radiology report generation that have been publish
 - Learning Self-Critiquing Mechanisms for Region-Guided Chest X-Ray Report Generation [[paper](https://openreview.net/forum?id=6sOSwgCmpH)]
 - Rethinking Radiology Report Generation: From Narrative Flow to Topic-Guided Findings [[paper](https://openreview.net/forum?id=nV3SAjFlyv)]
 
+**ICML'26**
+- The Double Dilemma in Multi-Task Radiology Report Generation: A Gradient Dynamics Analysis and Solution [[paper](https://arxiv.org/pdf/2605.22635)][[code](https://github.com/vpsg-research/CAME-Grad)]
+
 **CVPR'26**
 - X-WIN: Building Chest Radiograph World Model via Predictive Sensing [[paper](https://arxiv.org/pdf/2511.14918)][[code](https://github.com/RPIDIAL/X-WIN)]
 - BiOTPrompt: Bidirectional Optimal Transport Guided Prompting for Disease Evolution-aware Radiology Report Generation [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38806)][[code](https://github.com/TengfeiLiu966/BiOTPrompt)]
@@ -148,6 +151,13 @@ We collect existing papers on radiology report generation that have been publish
 
 **WACV'26**
 - LASOR: Towards Clinically Transparent and Explainable Ophthalmic Report Generation via Lesion-Aware Segmentation [[paper](https://openaccess.thecvf.com/content/WACV2026/papers/Park_LASOR_Towards_Clinically_Transparent_and_Explainable_Ophthalmic_Report_Generation_via_WACV_2026_paper.pdf)]
+
+**ISBI'26**
+- X-Plain: Vision-Language Knowledge Distillation for Interpretable Chest X-Ray Diagnosis [[paper](https://ieeexplore.ieee.org/abstract/document/11515681)]
+- Multi-Scale Attention Framework with Transformer Architecture for Explainable Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11515574)]
+- Clinically Grounded Radiology Report Generation via Explanation-Guided Policy Optimization [[paper](https://ieeexplore.ieee.org/abstract/document/11515964)]
+- Automatic Correction of Generative AI Chest X-Ray Radiology Reports [[paper](https://ieeexplore.ieee.org/abstract/document/11515939)]
+- Radgaze-LLM: Anatomical Region-Grounded Radiology Report Generation via Learning From Expert Gaze [[paper](https://ieeexplore.ieee.org/abstract/document/11515459)]
 
 **TMI'26**
 - LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous Federated Learning [[paper](https://ieeexplore.ieee.org/document/11087641)]
