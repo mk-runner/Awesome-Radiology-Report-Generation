@@ -132,6 +132,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **MICCAI'26**
 - Concept-Guided Noisy Negative Suppression for Zero-Shot Classification and Grounding of Chest X-Ray Findings [[paper](https://arxiv.org/pdf/2605.19374v1)][[code](https://github.com/DopamineLcy/conns)]
+- MedExpMem: Adapting Experience Memory for Differential Diagnosis [[paper](https://arxiv.org/abs/2605.22872)]
 
 **ICASSP'26**
 - Beyond Averaging: All-Rounder Capability Evaluation for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11461738)]
