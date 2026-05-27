@@ -274,6 +274,7 @@ We collect existing papers on radiology report generation that have been publish
 - AnchorDiff: Topology-Aware Masked Diffusion with Confidence-based Rewriting for Radiology Report Generation [[paper](https://arxiv.org/pdf/2605.17071v1)]
 - Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models [[paper](https://arxiv.org/pdf/2605.20158v1)][[code](https://github.com/gzxiong/medfocus/)]
 - HalluCXR: Benchmarking and Mitigating Hallucinations in Medical Vision-Language Models for Chest Radiograph Interpretation [[paper](https://arxiv.org/pdf/2605.20469v1)]
+- SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation [[paper](https://arxiv.org/pdf/2605.24371v1)][[code](https://github.com/synlp/SliceWorld)]
  
 ---
 
