@@ -276,6 +276,7 @@ We collect existing papers on radiology report generation that have been publish
 - Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models [[paper](https://arxiv.org/pdf/2605.20158v1)][[code](https://github.com/gzxiong/medfocus/)]
 - HalluCXR: Benchmarking and Mitigating Hallucinations in Medical Vision-Language Models for Chest Radiograph Interpretation [[paper](https://arxiv.org/pdf/2605.20469v1)]
 - SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation [[paper](https://arxiv.org/pdf/2605.24371v1)][[code](https://github.com/synlp/SliceWorld)]
+- Not All Tokens Matter Equally: Dynamic In-context Vector Distillation with Decisive-Token Supervision for Long-form Medical Report Generation [[paper](https://arxiv.org/pdf/2605.27194v1)]
  
 ---
 
