@@ -277,6 +277,10 @@ We collect existing papers on radiology report generation that have been publish
 - HalluCXR: Benchmarking and Mitigating Hallucinations in Medical Vision-Language Models for Chest Radiograph Interpretation [[paper](https://arxiv.org/pdf/2605.20469v1)]
 - SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation [[paper](https://arxiv.org/pdf/2605.24371v1)][[code](https://github.com/synlp/SliceWorld)]
 - Not All Tokens Matter Equally: Dynamic In-context Vector Distillation with Decisive-Token Supervision for Long-form Medical Report Generation [[paper](https://arxiv.org/pdf/2605.27194v1)]
+- DDX-TRACE: A Benchmark for Medical Diagnostic Trajectories in VLMs [[paper](https://arxiv.org/pdf/2605.23629)][[data](https://huggingface.co/datasets/User3033/DDx-TRACE)]
+- SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation [[paper](https://arxiv.org/pdf/2605.24371)]
+- Med-R2: An Adversarial Benchmark for Evidence-Grounded Reasoning in Medical VLMs [[paper](https://arxiv.org/pdf/2605.24371)]
+- Universal Boosts, Specific Suppressors: Sparse Autoencoder Steering of Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2605.24977)]
  
 ---
 
