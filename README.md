@@ -107,8 +107,16 @@ We collect existing papers on radiology report generation that have been publish
 - SAT-RRG: LLM-Guided Self-Adaptive Training for Radiology Report Generation with Token-Level Push–Pull Optimization [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37552)]
 - PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39104)]
 - Phrase-grounded APO for Improving Chest X-ray Report Generation [[paper](https://cvpr.thecvf.com/virtual/2026/poster/36623)]
+- MR-RAG: Multimodal Relevance-Aware Retrieval-Augmented Generation for Medical Visual Question Answering [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_MR-RAG_Multimodal_Relevance-Aware_Retrieval-Augmented_Generation_for_Medical_Visual_Question_Answering_CVPR_2026_paper.pdf)]
 - CheXmix: Unified Generative Pretraining for Vision Language Models in Medical Imaging (**Findings**) [[paper](https://arxiv.org/pdf/2604.22989)][[code](https://github.com/StanfordMIMI/CheXmix)]
 - FairLLaVA: Fairness-Aware Parameter-Efficient Fine-Tuning for Large Vision-Language Assistants [[paper](https://arxiv.org/abs/2603.26008)][[code](https://github.com/bhosalems/FairLLaVA)]
+- MeMix: Multi-encoder Mixture Framework for Medical Report Generation (**Findings**) [[paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Cao_MeMix_Multi-Encoder_Mixture_Framework_for_Medical_Report_Generation_CVPRF_2026_paper.pdf)]
+- LlamaRG: A Multi-View Large Language Model for Radiology Report Generation (**Findings**) [[paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Jayas_LlamaRG_A_Multi-View_Large_Language_Model_for_Radiology_Report_Generation_CVPRF_2026_paper.pdf)]
+- Analyzing and Enhancing Visual Learning in LLM-based Radiology Report Generation (**Findings**) [[paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Analyzing_and_Enhancing_Visual_Learning_in_LLM-based_Radiology_Report_Generation_CVPRF_2026_paper.pdf)]
+- A Denoising-Enhanced Multimodal Learning Framework for Robust Nasal Endoscopy Report Generation (**Findings**) [[paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Yuan_A_Denoising-Enhanced_Multimodal_Learning_Framework_for_Robust_Nasal_Endoscopy_Report_CVPRF_2026_paper.pdf)]
+- Teresa: Uncertainty-Aware Generalizable Chest X-ray Report Generation and Disease Classification (**Workshop**) [[paper](https://openaccess.thecvf.com/content/CVPR2026W/DG-EBF/papers/Ullah_Teresa_Uncertainty-Aware_Generalizable_Chest_X-ray_Report_Generation_and_Disease_Classification_CVPRW_2026_paper.pdf)]
+- Multimodal for Cervical Cancer Histopathology Classification and Automated Diagnostic Report Generation (**Workshop**) [[paper](https://openaccess.thecvf.com/content/CVPR2026W/CVMI/papers/Nakasi_Multimodal_for_Cervical_Cancer_Histopathology_Classification_and_Automated_Diagnostic_Report_CVPRW_2026_paper.pdf)]
+  
 
 **ACL'26**
 - Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework [[paper](https://arxiv.org/pdf/2604.18145v1)][[code](https://github.com/Etdihatthoc/VietPET-RoI_ACL2026)]
@@ -199,6 +207,7 @@ We collect existing papers on radiology report generation that have been publish
 - Auto-encoding clinical language for zero-shot medical report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625032750)]
 - Mixture of experts for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626007189)]
 - An interpretable multimodal transformer for medical report generation via hierarchical semantics and clinical labeling [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626010134)]
+- Bridging the image–text gap: Reinforced Cross-modal Abnormality Driven Transformer for automatic chest X-ray report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626014910)]
 
 **ESWA'26**
 - ITAdapter: Image-Tag Adapter Framework with Retrieval Knowledge Enhancer for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426004070)]
