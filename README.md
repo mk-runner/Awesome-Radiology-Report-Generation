@@ -290,6 +290,7 @@ We collect existing papers on radiology report generation that have been publish
 - SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation [[paper](https://arxiv.org/pdf/2605.24371)]
 - Med-R2: An Adversarial Benchmark for Evidence-Grounded Reasoning in Medical VLMs [[paper](https://arxiv.org/pdf/2605.24371)]
 - Universal Boosts, Specific Suppressors: Sparse Autoencoder Steering of Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2605.24977)]
+- CCS: Clinical Consensus Selection for Radiology Report Generation [[paper](https://arxiv.org/pdf/2605.30131)]
  
 ---
 
