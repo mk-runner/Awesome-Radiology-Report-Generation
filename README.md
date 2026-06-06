@@ -294,6 +294,9 @@ We collect existing papers on radiology report generation that have been publish
 - Med-R2: An Adversarial Benchmark for Evidence-Grounded Reasoning in Medical VLMs [[paper](https://arxiv.org/pdf/2605.24371)]
 - Universal Boosts, Specific Suppressors: Sparse Autoencoder Steering of Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2605.24977)]
 - CCS: Clinical Consensus Selection for Radiology Report Generation [[paper](https://arxiv.org/pdf/2605.30131)]
+- EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2606.06379v1)]
+- GLINT: Sparsely Gated Vision-Language Alignment for Fine-Grained Radiology Representations [[paper](https://arxiv.org/pdf/2606.03180)]
+- A Vision–language Framework for Comparative Reasoning in Radiology [[paper](https://arxiv.org/pdf/2606.06407v1)][[code](https://github.com/time-seed/MedReCo)]
  
 ---
 
