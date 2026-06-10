@@ -176,6 +176,7 @@ We collect existing papers on radiology report generation that have been publish
 - LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous Federated Learning [[paper](https://ieeexplore.ieee.org/document/11087641)]
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11142850)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
 - FiR-Rad: Fine-grained Reinforcement with Structured Reasoning for Chest X-ray Report Generation [[paper](https://ieeexplore.ieee.org/document/11397739)]
+- Multi-view Chest X-Ray Vision-Language Pre-training via Semantic-Aware Masked Language Modeling and High-order Alignment [[paper](https://ieeexplore.ieee.org/abstract/document/11552880)]  
 
 **JAMIA'26**
 - The detectability paradox: bilingual medical report generation with open-weight models and the limits of human oversight [[paper](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocag070/8672665#562448309)][[code](https://github.com/ds4dh/medical_report_generation)]
@@ -219,6 +220,7 @@ We collect existing papers on radiology report generation that have been publish
 - ITAdapter: Image-Tag Adapter Framework with Retrieval Knowledge Enhancer for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426004070)]
 - Factual Serialization Enhancement: A Key Innovation for Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426014636)][[code](https://github.com/mk-runner/FSE)]
 - Spatio-Temporal-Aware Preference Optimization for Personalized Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426012777)]
+- Image mask-guided cross-modal network for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742601938X)]
 
 **Neurocomputing'26**
 - Medical report generation via knowledge distill and medical keywords [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226012208)]
@@ -300,6 +302,8 @@ We collect existing papers on radiology report generation that have been publish
 - EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2606.06379v1)]
 - GLINT: Sparsely Gated Vision-Language Alignment for Fine-Grained Radiology Representations [[paper](https://arxiv.org/pdf/2606.03180)]
 - A Vision–language Framework for Comparative Reasoning in Radiology [[paper](https://arxiv.org/pdf/2606.06407v1)][[code](https://github.com/time-seed/MedReCo)]
+- CheXanatomy: Anatomy-Aware Vision-Language Modeling for Chest Radiographs [[paper](https://arxiv.org/pdf/2606.08420v1)]
+- A multi-agent system for spine MRI report generation from multi-sequence imaging [[paper](https://arxiv.org/pdf/2606.08897v1)]
  
 ---
 
