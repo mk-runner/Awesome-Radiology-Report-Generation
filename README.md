@@ -304,6 +304,8 @@ We collect existing papers on radiology report generation that have been publish
 - A Vision–language Framework for Comparative Reasoning in Radiology [[paper](https://arxiv.org/pdf/2606.06407v1)][[code](https://github.com/time-seed/MedReCo)]
 - CheXanatomy: Anatomy-Aware Vision-Language Modeling for Chest Radiographs [[paper](https://arxiv.org/pdf/2606.08420v1)]
 - A multi-agent system for spine MRI report generation from multi-sequence imaging [[paper](https://arxiv.org/pdf/2606.08897v1)]
+- ReportQA: QA-Based Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2606.15037v1)]
+- Learning Directional Semantic Transitions for Longitudinal Chest X-ray Analysis [[paper](https://arxiv.org/pdf/2606.15938v1)][[code](https://github.com/RPIDIAL/ProTrans)]
  
 ---
 
