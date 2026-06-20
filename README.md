@@ -308,6 +308,7 @@ We collect existing papers on radiology report generation that have been publish
 - ReportQA: QA-Based Radiology Report Evaluation [[paper](https://arxiv.org/pdf/2606.15037v1)]
 - Learning Directional Semantic Transitions for Longitudinal Chest X-ray Analysis [[paper](https://arxiv.org/pdf/2606.15938v1)][[code](https://github.com/RPIDIAL/ProTrans)]
 - Beyond Scalar Scores: Exploring LLM-based Metrics for Clinical Significance Evaluation in Radiology Reports [[paper](https://arxiv.org/pdf/2606.18797v1)]
+- Scaling Generative Foundation Models for Chest Radiography with Rectified Flow Transformers [[paper](https://arxiv.org/pdf/2606.19460v1)]
  
 ---
 
