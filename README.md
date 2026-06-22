@@ -119,7 +119,7 @@ We collect existing papers on radiology report generation that have been publish
 - A Denoising-Enhanced Multimodal Learning Framework for Robust Nasal Endoscopy Report Generation (**Findings**) [[paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Yuan_A_Denoising-Enhanced_Multimodal_Learning_Framework_for_Robust_Nasal_Endoscopy_Report_CVPRF_2026_paper.pdf)]
 - Teresa: Uncertainty-Aware Generalizable Chest X-ray Report Generation and Disease Classification (**Workshop**) [[paper](https://openaccess.thecvf.com/content/CVPR2026W/DG-EBF/papers/Ullah_Teresa_Uncertainty-Aware_Generalizable_Chest_X-ray_Report_Generation_and_Disease_Classification_CVPRW_2026_paper.pdf)]
 - Multimodal for Cervical Cancer Histopathology Classification and Automated Diagnostic Report Generation (**Workshop**) [[paper](https://openaccess.thecvf.com/content/CVPR2026W/CVMI/papers/Nakasi_Multimodal_for_Cervical_Cancer_Histopathology_Classification_and_Automated_Diagnostic_Report_CVPRW_2026_paper.pdf)]
-  
+- MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images [[paper](https://arxiv.org/pdf/2602.06965)][code](https://github.com/genmilab/MedMO)]    
 
 **ACL'26**
 - Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework [[paper](https://arxiv.org/pdf/2604.18145v1)][[code](https://github.com/Etdihatthoc/VietPET-RoI_ACL2026)]
@@ -309,7 +309,8 @@ We collect existing papers on radiology report generation that have been publish
 - Learning Directional Semantic Transitions for Longitudinal Chest X-ray Analysis [[paper](https://arxiv.org/pdf/2606.15938v1)][[code](https://github.com/RPIDIAL/ProTrans)]
 - Beyond Scalar Scores: Exploring LLM-based Metrics for Clinical Significance Evaluation in Radiology Reports [[paper](https://arxiv.org/pdf/2606.18797v1)]
 - Scaling Generative Foundation Models for Chest Radiography with Rectified Flow Transformers [[paper](https://arxiv.org/pdf/2606.19460v1)]
-- Hallucination Detection and Correction in Medical VLMs via Counter-Evidence Verification [[paper](https://arxiv.org/pdf/2606.18609)] 
+- Hallucination Detection and Correction in Medical VLMs via Counter-Evidence Verification [[paper](https://arxiv.org/pdf/2606.18609)]
+
  
 ---
 
