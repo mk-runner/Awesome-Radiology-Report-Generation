@@ -310,6 +310,7 @@ We collect existing papers on radiology report generation that have been publish
 - Beyond Scalar Scores: Exploring LLM-based Metrics for Clinical Significance Evaluation in Radiology Reports [[paper](https://arxiv.org/pdf/2606.18797v1)]
 - Scaling Generative Foundation Models for Chest Radiography with Rectified Flow Transformers [[paper](https://arxiv.org/pdf/2606.19460v1)]
 - Hallucination Detection and Correction in Medical VLMs via Counter-Evidence Verification [[paper](https://arxiv.org/pdf/2606.18609)]
+- TAVR-VLM: Risk-Conditioned Causal Grounding for Hallucination-Resistant Report Generation [[paper](https://arxiv.org/pdf/2606.26874v1)]
 
  
 ---
