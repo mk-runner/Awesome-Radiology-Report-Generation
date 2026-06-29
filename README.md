@@ -124,7 +124,7 @@ We collect existing papers on radiology report generation that have been publish
 **ACL'26**
 - Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework [[paper](https://arxiv.org/pdf/2604.18145v1)][[code](https://github.com/Etdihatthoc/VietPET-RoI_ACL2026)]
 - Multimodal Dual-Path Large-Model Decoding for Radiology Report Generation [[paper](https://aclanthology.org/2026.findings-acl.1997.pdf)]
-- CPR-RAG: Clinical Prior-guided Retrieval-Augmented Generation for CT Report Generation [[paper](https://aclanthology.org/2026.acl-long.1411.pdf)]
+- CPR-RAG: Clinical Prior-guided Retrieval-Augmented Generation for CT Report Generation [[paper](https://aclanthology.org/2026.acl-long.1411.pdf)][[code](https://github.com/Gyuang/cpr-rag)]
   
 
 **AAAI'26**
