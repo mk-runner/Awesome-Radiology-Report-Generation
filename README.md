@@ -123,6 +123,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **ACL'26**
 - Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework [[paper](https://arxiv.org/pdf/2604.18145v1)][[code](https://github.com/Etdihatthoc/VietPET-RoI_ACL2026)]
+- Multimodal Dual-Path Large-Model Decoding for Radiology Report Generation [[paper](https://aclanthology.org/2026.findings-acl.1997.pdf)]
   
 
 **AAAI'26**
@@ -311,6 +312,7 @@ We collect existing papers on radiology report generation that have been publish
 - Scaling Generative Foundation Models for Chest Radiography with Rectified Flow Transformers [[paper](https://arxiv.org/pdf/2606.19460v1)]
 - Hallucination Detection and Correction in Medical VLMs via Counter-Evidence Verification [[paper](https://arxiv.org/pdf/2606.18609)]
 - TAVR-VLM: Risk-Conditioned Causal Grounding for Hallucination-Resistant Report Generation [[paper](https://arxiv.org/pdf/2606.26874v1)]
+- Precision Recall Controllable Radiology Report Generation via Hybrid Natural Language and Clinical Reward Learning [[paper](https://arxiv.org/pdf/2606.21447)]
 
  
 ---
