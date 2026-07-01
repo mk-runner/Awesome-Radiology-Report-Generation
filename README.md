@@ -200,6 +200,7 @@ We collect existing papers on radiology report generation that have been publish
 **Information Fusion'26**
 - AI-Assisted Synthetic Medical Report Generation using Radiomic Feature Correlation-based PCA Scores of Multimodal Data for Dementia Progression [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002484)]
 - CX-Mind: A Pioneering Multimodal Large Language Model for Interleaved Reasoning in Chest X-ray via Curriculum-Guided Reinforcement Learning [[paper](https://arxiv.org/abs/2508.03733)][[code](https://github.com/SII-WenjieLisjtu/CX-Mind)]
+- Collaborative cross-modal fusion network for medical report generation [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526004549)][[code](https://github.com/Eleanorhxd/CCFN)]
 
 **Artificial Intelligence Review'26**
 - Automatic radiology report generation: a systematic review of emerging AI architectures and multimodal technologies [[paper](https://link.springer.com/article/10.1007/s10462-026-11556-z)]
