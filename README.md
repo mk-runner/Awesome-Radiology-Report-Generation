@@ -159,6 +159,9 @@ We collect existing papers on radiology report generation that have been publish
 - MP-CXR: A Modular Pipeline with Multi-Label Disease-State Classification and Image-Label Alignment for Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11460414)]
 - From ECG Signals to Diagnostic Reports: A Unified Framework with Multimodal Encoder and Fine-Tuned LLM for Automated Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11462928)]
 
+**BMVC'26**
+- Spatio-Temporal and Clinical Conditioning for Fine-Grained Radiology Report Retrieval [[paper](https://arxiv.org/pdf/2607.02024v1)]
+
 **MIDL'26**
 - BTReport: A Framework for Brain Tumor Radiology Report Generation with Clinically Relevant Features [[paper](https://arxiv.org/pdf/2602.16006v1)][[code](https://github.com/KurtLabUW/BTReport)]
 - CWCD: Category-Wise Contrastive Decoding for Structured Medical Report Generation [[paper](https://arxiv.org/pdf/2604.10410v1)]
