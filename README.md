@@ -322,6 +322,7 @@ We collect existing papers on radiology report generation that have been publish
 - Precision Recall Controllable Radiology Report Generation via Hybrid Natural Language and Clinical Reward Learning [[paper](https://arxiv.org/pdf/2606.21447)]
 - SHOVIR: A Benchmark for Evaluating Vision Shortcut Learning in Radiology Report Generation [[paper](https://arxiv.org/pdf/2606.30201v1)]
 - AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation [[paper](https://arxiv.org/pdf/2606.31292)]
+- Seeing What Matters: Lesion-Aware High-Resolution Patch Discovery and Fusion for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2607.06909)]
   
 
  
