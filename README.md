@@ -223,6 +223,7 @@ We collect existing papers on radiology report generation that have been publish
 - Mixture of experts for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626007189)]
 - An interpretable multimodal transformer for medical report generation via hierarchical semantics and clinical labeling [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626010134)]
 - Bridging the image–text gap: Reinforced Cross-modal Abnormality Driven Transformer for automatic chest X-ray report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626014910)]
+- Cross-modal Orthogonal Adaptive Contrastive Learning for robust chest radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626019044)]
 
 **ESWA'26**
 - ITAdapter: Image-Tag Adapter Framework with Retrieval Knowledge Enhancer for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426004070)]
