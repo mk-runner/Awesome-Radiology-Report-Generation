@@ -144,6 +144,9 @@ We collect existing papers on radiology report generation that have been publish
 **WWW'26**
 - MGK-RAG: Multi-Granularity Knowledge Guided Retrieval-Augmented Generation for Radiology Report [[paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792924)]
 
+**SIGIR'26**
+- EviRAG: Evidence-Guided Retrieval-Augmented Generation for Medical Vision-Language Models [[paper](https://dl.acm.org/doi/abs/10.1145/3805712.3809930)]
+
 **MICCAI'26**
 - Concept-Guided Noisy Negative Suppression for Zero-Shot Classification and Grounding of Chest X-Ray Findings [[paper](https://arxiv.org/pdf/2605.19374v1)][[code](https://github.com/DopamineLcy/conns)]
 - MedExpMem: Adapting Experience Memory for Differential Diagnosis [[paper](https://arxiv.org/abs/2605.22872)]
