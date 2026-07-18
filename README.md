@@ -187,6 +187,7 @@ We collect existing papers on radiology report generation that have been publish
 - FiR-Rad: Fine-grained Reinforcement with Structured Reasoning for Chest X-ray Report Generation [[paper](https://ieeexplore.ieee.org/document/11397739)]
 - Multi-view Chest X-Ray Vision-Language Pre-training via Semantic-Aware Masked Language Modeling and High-order Alignment [[paper](https://ieeexplore.ieee.org/abstract/document/11552880)]
 - PIPA: Prior-Driven Prompting with Diagnosis-Oriented Retrieval-Augmentation for 3D Radiology Report Generation [[paper](https://pubmed.ncbi.nlm.nih.gov/42412673/)][[code](https://github.com/CUHK-AIM-Group/PIPA)]
+- RADAR: A Difference-Aware Retrieval with Organ-Level Alignment for Change Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11603839)]
 
 **JAMIA'26**
 - The detectability paradox: bilingual medical report generation with open-weight models and the limits of human oversight [[paper](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocag070/8672665#562448309)][[code](https://github.com/ds4dh/medical_report_generation)]
