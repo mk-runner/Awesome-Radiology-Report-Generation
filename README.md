@@ -332,6 +332,7 @@ We collect existing papers on radiology report generation that have been publish
 - AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation [[paper](https://arxiv.org/pdf/2606.31292)]
 - Seeing What Matters: Lesion-Aware High-Resolution Patch Discovery and Fusion for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2607.06909)]
 - PathReportEval: A Systematic Benchmark for Pathology Report Generation [[paper](https://arxiv.org/pdf/2607.18448v1)]
+- ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding [[paper](https://arxiv.org/pdf/2607.24743v1)][[code](https://github.com/alibaba-damo-academy/ClinFusion)]
   
 
  
