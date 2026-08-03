@@ -182,6 +182,9 @@ We collect existing papers on radiology report generation that have been publish
 - Automatic Correction of Generative AI Chest X-Ray Radiology Reports [[paper](https://ieeexplore.ieee.org/abstract/document/11515939)]
 - Radgaze-LLM: Anatomical Region-Grounded Radiology Report Generation via Learning From Expert Gaze [[paper](https://ieeexplore.ieee.org/abstract/document/11515459)]
 
+**IJCV'26**
+- MRM++: Enhanced Masked Relation Modeling for Multi-Modal Medical Pre-training [[paper](https://link.springer.com/article/10.1007/s11263-026-02938-5)][[code](https://github.com/CUHK-AIM-Group/MRM_plus)]
+
 **TMI'26**
 - LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous Federated Learning [[paper](https://ieeexplore.ieee.org/document/11087641)]
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11142850)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
@@ -194,6 +197,9 @@ We collect existing papers on radiology report generation that have been publish
 
 **JAMIA'26**
 - The detectability paradox: bilingual medical report generation with open-weight models and the limits of human oversight [[paper](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocag070/8672665#562448309)][[code](https://github.com/ds4dh/medical_report_generation)]
+
+**Bioinformatics'26**
+- Patient-Specific Multimodal Learning with Multi-View Contrastive Alignment for Chest X-ray Report Generation [[paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag566/8744089?login=false)][[code](https://github.com/mk-runner/EVOKE)]
 
 **JBHI'26**
 - Fog/Edge-Aware State Space Models for Multi-Task Chest X-ray Report Generation and Lesion Detection [[paper](https://ieeexplore.ieee.org/abstract/document/11410578)]
