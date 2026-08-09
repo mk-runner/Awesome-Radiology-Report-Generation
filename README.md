@@ -153,6 +153,10 @@ We collect existing papers on radiology report generation that have been publish
 - MedExpMem: Adapting Experience Memory for Differential Diagnosis [[paper](https://arxiv.org/abs/2605.22872)]
 - Seeing Through Multiple Views: Parameter-Efficient Fine-Tuning via Selective Neurons for Consistent Radiology Report Generation [[paper](https://arxiv.org/abs/2606.31099)]
 
+**IJCAI'26**
+- PDD-RRG: Posterior Diagnostic Decision for Study-level Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.03055)]
+
+
 **ICASSP'26**
 - Beyond Averaging: All-Rounder Capability Evaluation for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11461738)]
 - Radiology Report Generation via Multi-Path Modeling with Medical Language Priors and Semantic Guidance [[paper](https://ieeexplore.ieee.org/abstract/document/11460330)]
