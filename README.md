@@ -155,6 +155,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **IJCAI'26**
 - PDD-RRG: Posterior Diagnostic Decision for Study-level Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.03055)]
+- ClinAlign: Clinical Workflow Aligned Memory Retrieval for Radiology Report Generation
 
 
 **ICASSP'26**
