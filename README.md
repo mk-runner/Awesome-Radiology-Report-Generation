@@ -141,6 +141,8 @@ We collect existing papers on radiology report generation that have been publish
 - Organ-Aware Routing Mixture-of-Retrieval Augmented Generation for Fetal Ultrasound Reporting [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/37795/41757)]
 - Anatomical Region-Guided Contrastive Decoding: A Plug-and-Play Strategy for Mitigating Hallucinations in Medical VLMs [[paper](https://arxiv.org/pdf/2512.17189)]
 
+**ACMMM'26**
+- HarMoE: Multi-Source Chest Radiograph Pretraining with Dataset-Disentangled Experts [[paper](https://arxiv.org/pdf/2608.02252)][[code](https://github.com/Roypic/harmoe)]
 
 **WWW'26**
 - MGK-RAG: Multi-Granularity Knowledge Guided Retrieval-Augmented Generation for Radiology Report [[paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792924)]
@@ -344,8 +346,8 @@ We collect existing papers on radiology report generation that have been publish
 - Seeing What Matters: Lesion-Aware High-Resolution Patch Discovery and Fusion for Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2607.06909)]
 - PathReportEval: A Systematic Benchmark for Pathology Report Generation [[paper](https://arxiv.org/pdf/2607.18448v1)]
 - ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding [[paper](https://arxiv.org/pdf/2607.24743v1)][[code](https://github.com/alibaba-damo-academy/ClinFusion)]
-- EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment [[paper](https://arxiv.org/pdf/2608.04472v1)][[code](https://github.com/Scatteredrain/EndoVLM)]  
-
+- EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment [[paper](https://arxiv.org/pdf/2608.04472v1)][[code](https://github.com/Scatteredrain/EndoVLM)]
+- CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement [[paper](https://arxiv.org/pdf/2608.03890)]
  
 ---
 
