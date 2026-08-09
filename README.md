@@ -352,6 +352,7 @@ We collect existing papers on radiology report generation that have been publish
 - EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment [[paper](https://arxiv.org/pdf/2608.04472v1)][[code](https://github.com/Scatteredrain/EndoVLM)]
 - CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement [[paper](https://arxiv.org/pdf/2608.03890)]
 - Learning to See Locally and Align Clinically with Pathology Semantics for Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.00279)]
+- CogRad: A Cognitively-Inspired Multi-Agent Framework for Radiology Report Generation [[paper](https://ui.adsabs.harvard.edu/abs/2026arXiv260703853R/abstract)]
  
 ---
 
