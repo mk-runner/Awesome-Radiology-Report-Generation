@@ -192,6 +192,9 @@ We collect existing papers on radiology report generation that have been publish
 **IJCV'26**
 - MRM++: Enhanced Masked Relation Modeling for Multi-Modal Medical Pre-training [[paper](https://link.springer.com/article/10.1007/s11263-026-02938-5)][[code](https://github.com/CUHK-AIM-Group/MRM_plus)]
 
+**Radiology'26**
+- How I Do It: Understanding and Leveraging Generative AI for Chest Radiology Reporting [[paper](https://pubs.rsna.org/doi/epdf/10.1148/radiol.253456)]
+
 **TMI'26**
 - LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous Federated Learning [[paper](https://ieeexplore.ieee.org/document/11087641)]
 - Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11142850)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
