@@ -89,6 +89,7 @@ We collect existing papers on radiology report generation that have been publish
 **npj Digital Medicine'26**
 - Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models [[paper](https://www.nature.com/articles/s41746-025-02300-y)]
 - A robust vision language model for molecular status prediction and radiology report generation in adult-type diffuse gliomas [[paper](https://www.nature.com/articles/s41746-026-02581-x_reference.pdf)]
+- An explainable generative AI system for video-to-report generation in capsule endoscopy [[paper](https://www.nature.com/articles/s41746-026-03079-2_reference.pdf)]
 
 **TPAMI'26**
 - Advancing In-Context Learning for Efficient and Stable Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11503684)]
