@@ -353,6 +353,7 @@ We collect existing papers on radiology report generation that have been publish
 - CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement [[paper](https://arxiv.org/pdf/2608.03890)]
 - Learning to See Locally and Align Clinically with Pathology Semantics for Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.00279)]
 - CogRad: A Cognitively-Inspired Multi-Agent Framework for Radiology Report Generation [[paper](https://ui.adsabs.harvard.edu/abs/2026arXiv260703853R/abstract)]
+- ALTER: Modeling Longitudinal Changes via Regional Differencing for 3D CT Report Generation [[paper](https://arxiv.org/abs/2608.05615)][[code](https://github.com/peytonkarlie/ALTER)]
  
 ---
 
