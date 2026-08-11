@@ -141,6 +141,9 @@ We collect existing papers on radiology report generation that have been publish
 - Mitigating Entity Hallucinations in 3D Radiology Report Generation via Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/38379/42341)][[code](https://github.com/SCU-zly/DEAR)]
 - Organ-Aware Routing Mixture-of-Retrieval Augmented Generation for Fetal Ultrasound Reporting [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/37795/41757)]
 - Anatomical Region-Guided Contrastive Decoding: A Plug-and-Play Strategy for Mitigating Hallucinations in Medical VLMs [[paper](https://arxiv.org/pdf/2512.17189)]
+- DiA-gnostic VLVAE: Disentangled Alignment-Constrained Vision Language Variational AutoEncoder for Robust Radiology Reporting with Missing Modalities [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37835)]
+- Error Correction in Radiology Reports: A Knowledge Distillation-Based Multi-Stage Framework [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/41295)]
+- GEMA-Score: Granular Explainable Multi-Agent Scoring Framework for Radiology Report Evaluation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38302)][[code](https://github.com/Zhenxuan-Zhang/GEMA_score)]
 
 **ACMMM'26**
 - HarMoE: Multi-Source Chest Radiograph Pretraining with Dataset-Disentangled Experts [[paper](https://arxiv.org/pdf/2608.02252)][[code](https://github.com/Roypic/harmoe)]
