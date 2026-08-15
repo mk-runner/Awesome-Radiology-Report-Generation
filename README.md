@@ -159,6 +159,9 @@ We collect existing papers on radiology report generation that have been publish
 - MedExpMem: Adapting Experience Memory for Differential Diagnosis [[paper](https://arxiv.org/abs/2605.22872)]
 - Seeing Through Multiple Views: Parameter-Efficient Fine-Tuning via Selective Neurons for Consistent Radiology Report Generation [[paper](https://arxiv.org/abs/2606.31099)]
 
+**ECCV'26**
+- Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation [[paper](https://arxiv.org/pdf/2608.08494)]
+
 **IJCAI'26**
 - PDD-RRG: Posterior Diagnostic Decision for Study-level Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.03055)]
 - ClinAlign: Clinical Workflow Aligned Memory Retrieval for Radiology Report Generation
