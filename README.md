@@ -358,6 +358,8 @@ We collect existing papers on radiology report generation that have been publish
 - Learning to See Locally and Align Clinically with Pathology Semantics for Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.00279)]
 - CogRad: A Cognitively-Inspired Multi-Agent Framework for Radiology Report Generation [[paper](https://ui.adsabs.harvard.edu/abs/2026arXiv260703853R/abstract)]
 - ALTER: Modeling Longitudinal Changes via Regional Differencing for 3D CT Report Generation [[paper](https://arxiv.org/abs/2608.05615)][[code](https://github.com/peytonkarlie/ALTER)]
+- MedUP: Awakening Unified Understanding and Perception in Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2608.10635)]
+- RadFusion: Towards Threshold-Controllable Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.10505)]
  
 ---
 
