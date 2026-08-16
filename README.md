@@ -1091,4 +1091,4 @@ email: kangliu422@gmail.com
 WeChat: kangliu422
 
 ## ⭐ Star Growth
-[![Star History Chart](https://api.star-history.com/svg?repos=mk-runner/Awesome-Radiology-Report-Generation&type=Date)](https://star-history.com/#mk-runner/Awesome-Radiology-Report-Generation&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=mk-runner/Awesome-Radiology-Report-Generation&type=Date)](https://star-history.dera.page/#mk-runner/Awesome-Radiology-Report-Generation&Date)
