@@ -363,6 +363,7 @@ We collect existing papers on radiology report generation that have been publish
 - ALTER: Modeling Longitudinal Changes via Regional Differencing for 3D CT Report Generation [[paper](https://arxiv.org/abs/2608.05615)][[code](https://github.com/peytonkarlie/ALTER)]
 - MedUP: Awakening Unified Understanding and Perception in Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2608.10635)]
 - RadFusion: Towards Threshold-Controllable Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.10505)]
+- PerFact: Perception-Derived Fact Prompting for 3D Brain MRI Report Generation [[paper](https://arxiv.org/pdf/2608.17926)]
  
 ---
 
