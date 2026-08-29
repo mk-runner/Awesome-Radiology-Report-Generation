@@ -86,6 +86,9 @@ We collect existing papers on radiology report generation that have been publish
 **Nature Biomedical Engineering'26**
 - A multimodal vision–language model for generalizable annotation-free pathology localization [[paper](https://github.com/YH0517/AFLoc)]
 
+**Nature Communications'26**
+- Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning [[paper](https://www.nature.com/articles/s41467-026-76076-4)]
+
 **npj Digital Medicine'26**
 - Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models [[paper](https://www.nature.com/articles/s41746-025-02300-y)]
 - A robust vision language model for molecular status prediction and radiology report generation in adult-type diffuse gliomas [[paper](https://www.nature.com/articles/s41746-026-02581-x_reference.pdf)]
