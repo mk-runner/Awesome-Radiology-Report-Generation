@@ -366,6 +366,7 @@ We collect existing papers on radiology report generation that have been publish
 - MedUP: Awakening Unified Understanding and Perception in Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2608.10635)]
 - RadFusion: Towards Threshold-Controllable Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.10505)]
 - PerFact: Perception-Derived Fact Prompting for 3D Brain MRI Report Generation [[paper](https://arxiv.org/pdf/2608.17926)]
+- Graph-Supervised Hierarchical Clinical Alignment for Radiology Report Generation with Large Language Models [[paper](https://arxiv.org/pdf/2608.24121)]
  
 ---
 
