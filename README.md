@@ -374,6 +374,8 @@ We collect existing papers on radiology report generation that have been publish
 - RadFusion: Towards Threshold-Controllable Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.10505)]
 - PerFact: Perception-Derived Fact Prompting for 3D Brain MRI Report Generation [[paper](https://arxiv.org/pdf/2608.17926)]
 - Graph-Supervised Hierarchical Clinical Alignment for Radiology Report Generation with Large Language Models [[paper](https://arxiv.org/pdf/2608.24121)]
+- STRIVE: Multi-Agent Structured Temporal Reasoning with Integrated Verification for Longitudinal Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.24237)]
+- UR2-MLLM: Uncertainty-aware Revisit Reasoning in Multimodal Large Language Models for Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.22217)]
  
 ---
 
