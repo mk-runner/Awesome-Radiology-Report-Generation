@@ -203,6 +203,9 @@ We collect existing papers on radiology report generation that have been publish
 - Automatic Correction of Generative AI Chest X-Ray Radiology Reports [[paper](https://ieeexplore.ieee.org/abstract/document/11515939)]
 - Radgaze-LLM: Anatomical Region-Grounded Radiology Report Generation via Learning From Expert Gaze [[paper](https://ieeexplore.ieee.org/abstract/document/11515459)]
 
+**BMVC'26**
+- CheXGround: Anatomical Region Tokens for Grounded Longitudinal Chest X-ray Interpretation [[paper](https://arxiv.org/pdf/2608.30758)]
+
 **IJCV'26**
 - MRM++: Enhanced Masked Relation Modeling for Multi-Modal Medical Pre-training [[paper](https://link.springer.com/article/10.1007/s11263-026-02938-5)][[code](https://github.com/CUHK-AIM-Group/MRM_plus)]
 
