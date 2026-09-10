@@ -274,6 +274,7 @@ We collect existing papers on radiology report generation that have been publish
 - Spatio-Temporal-Aware Preference Optimization for Personalized Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426012777)]
 - Image mask-guided cross-modal network for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742601938X)]
 - Automated Radiology Report Generation: A Comprehensive Review [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426022293)]
+- Standardizing Longitudinal Chest X-ray Report Evaluation via Large Language Model Annotation [[paper](https://www.sciencedirect.com/science/article/pii/S095741742603143X)]
 
 **Neurocomputing'26**
 - Medical report generation via knowledge distill and medical keywords [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226012208)]
@@ -382,6 +383,7 @@ We collect existing papers on radiology report generation that have been publish
 - UR2-MLLM: Uncertainty-aware Revisit Reasoning in Multimodal Large Language Models for Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.22217)]
 - BrainDiff: Longitudinal Report Generation for Multimodal Brain MRI [[paper](https://arxiv.org/pdf/2609.00593)][[code](https://github.com/jhuldr/BrainDiff)]
 - Error Detection for PET/CT Radiology Reports: Domain-Specific vs Large Language Models [[paper](https://arxiv.org/pdf/2608.30021)]
+- 
  
 ---
 
