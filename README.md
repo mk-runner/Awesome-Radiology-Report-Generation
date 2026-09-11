@@ -231,6 +231,10 @@ We collect existing papers on radiology report generation that have been publish
 **Bioinformatics'26**
 - Patient-Specific Multimodal Learning with Multi-View Contrastive Alignment for Chest X-ray Report Generation [[paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag566/8744089?login=false)][[code](https://github.com/mk-runner/EVOKE)]
 
+**MedIA'26**
+- Lesion-aware visio-linguistic context regularization for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841526003713)]
+
+
 **JBHI'26**
 - Fog/Edge-Aware State Space Models for Multi-Task Chest X-ray Report Generation and Lesion Detection [[paper](https://ieeexplore.ieee.org/abstract/document/11410578)]
 - R2GenCSR: Mining Contextual and Residual Information for LLMs-based Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11419732)][[code](https://github.com/Event-AHU/Medical_Image_Analysis)]
