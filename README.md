@@ -233,6 +233,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **MedIA'26**
 - Lesion-aware visio-linguistic context regularization for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841526003713)]
+- A review of longitudinal radiology report generation: Dataset composition, methods, and performance evaluation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841526003737?via%3Dihub)]
 
 
 **JBHI'26**
