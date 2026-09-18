@@ -391,7 +391,7 @@ We collect existing papers on radiology report generation that have been publish
 - UR2-MLLM: Uncertainty-aware Revisit Reasoning in Multimodal Large Language Models for Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.22217)]
 - BrainDiff: Longitudinal Report Generation for Multimodal Brain MRI [[paper](https://arxiv.org/pdf/2609.00593)][[code](https://github.com/jhuldr/BrainDiff)]
 - Error Detection for PET/CT Radiology Reports: Domain-Specific vs Large Language Models [[paper](https://arxiv.org/pdf/2608.30021)]
-- 
+- Concept-Grounded Reasoning with Prompt-Driven Localization for Interpretable Structured Report Generation [[paper](https://arxiv.org/pdf/2609.15334)]
  
 ---
 
