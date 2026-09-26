@@ -165,6 +165,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **ECCV'26**
 - Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation [[paper](https://arxiv.org/pdf/2608.08494)]
+- REVA-PO: Stabilizing Reinforcement Learning for Chest X-ray Report Generation [[paper](https://eccv.ecva.net/virtual/2026/poster/5622)][[code](https://github.com/LiGuo12/REVA_PO/)]
 
 **IJCAI'26**
 - PDD-RRG: Posterior Diagnostic Decision for Study-level Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.03055)]
