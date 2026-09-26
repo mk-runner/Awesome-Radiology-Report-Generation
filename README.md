@@ -166,6 +166,10 @@ We collect existing papers on radiology report generation that have been publish
 **ECCV'26**
 - Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation [[paper](https://arxiv.org/pdf/2608.08494)]
 - REVA-PO: Stabilizing Reinforcement Learning for Chest X-ray Report Generation [[paper](https://eccv.ecva.net/virtual/2026/poster/5622)][[code](https://github.com/LiGuo12/REVA_PO/)]
+- Mimicking Radiologists: A Coarse-to-Fine Framework with Structural Sparse Tokens for Dual-LLM Computed Tomography Report Generation [[paper](https://eccv.ecva.net/virtual/2026/poster/5195)]
+- Region-Aware Multimodal Large Language Model via SlowFast Tokenization and Pseudo-Mask Guidance for 3D CT Report Generation [[paper](https://eccv.ecva.net/virtual/2026/poster/5301)][[code](https://github.com/babbu3682/MedRegion-CT)]
+- DiffVP: Differential Visual Semantic Prompting for LLM-Based CT Report Generation [[paper](https://eccv.ecva.net/virtual/2026/poster/5024)][[code](https://github.com/ArielTYH/DiffVP/)]
+- Seeing What Matters: Lesion-Aware High-Resolution Patch Discovery and Fusion for Chest X-ray Report Generation [[paper](https://eccv.ecva.net/virtual/2026/poster/5225)]
 
 **IJCAI'26**
 - PDD-RRG: Posterior Diagnostic Decision for Study-level Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.03055)]
