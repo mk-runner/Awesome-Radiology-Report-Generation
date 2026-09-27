@@ -162,6 +162,7 @@ We collect existing papers on radiology report generation that have been publish
 - Concept-Guided Noisy Negative Suppression for Zero-Shot Classification and Grounding of Chest X-Ray Findings [[paper](https://arxiv.org/pdf/2605.19374v1)][[code](https://github.com/DopamineLcy/conns)]
 - MedExpMem: Adapting Experience Memory for Differential Diagnosis [[paper](https://arxiv.org/abs/2605.22872)]
 - Seeing Through Multiple Views: Parameter-Efficient Fine-Tuning via Selective Neurons for Consistent Radiology Report Generation [[paper](https://arxiv.org/abs/2606.31099)]
+- CARE: Clinical-Aware Retrieval-Enhanced Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_6)][[code](https://github.com/Levii-zhu/CARE)]
 
 **ECCV'26**
 - Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation [[paper](https://arxiv.org/pdf/2608.08494)]
@@ -398,6 +399,7 @@ We collect existing papers on radiology report generation that have been publish
 - BrainDiff: Longitudinal Report Generation for Multimodal Brain MRI [[paper](https://arxiv.org/pdf/2609.00593)][[code](https://github.com/jhuldr/BrainDiff)]
 - Error Detection for PET/CT Radiology Reports: Domain-Specific vs Large Language Models [[paper](https://arxiv.org/pdf/2608.30021)]
 - Concept-Grounded Reasoning with Prompt-Driven Localization for Interpretable Structured Report Generation [[paper](https://arxiv.org/pdf/2609.15334)]
+- MAC-RRG: Iterative Multi-Agent Collaboration for X-ray Radiology Report Generation [[paper](https://arxiv.org/pdf/2609.26124)]
  
 ---
 
