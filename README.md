@@ -163,6 +163,7 @@ We collect existing papers on radiology report generation that have been publish
 - MedExpMem: Adapting Experience Memory for Differential Diagnosis [[paper](https://arxiv.org/abs/2605.22872)]
 - Seeing Through Multiple Views: Parameter-Efficient Fine-Tuning via Selective Neurons for Consistent Radiology Report Generation [[paper](https://arxiv.org/abs/2606.31099)]
 - CARE: Clinical-Aware Retrieval-Enhanced Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_6)][[code](https://github.com/Levii-zhu/CARE)]
+- Hierarchical Memory for Radiology Report Generation with Rich Context [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_20)][[code](https://github.com/QingyueJ-nd/HM-RRG)]
 
 **ECCV'26**
 - Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation [[paper](https://arxiv.org/pdf/2608.08494)]
