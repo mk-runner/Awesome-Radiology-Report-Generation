@@ -164,6 +164,8 @@ We collect existing papers on radiology report generation that have been publish
 - Seeing Through Multiple Views: Parameter-Efficient Fine-Tuning via Selective Neurons for Consistent Radiology Report Generation [[paper](https://arxiv.org/abs/2606.31099)]
 - CARE: Clinical-Aware Retrieval-Enhanced Radiology Report Generation [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_6)][[code](https://github.com/Levii-zhu/CARE)]
 - Hierarchical Memory for Radiology Report Generation with Rich Context [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_20)][[code](https://github.com/QingyueJ-nd/HM-RRG)]
+- Reformulating Chest X-Ray Report Generation as Fine-Grained Visual Question Answering with Structured Clinical Report Templates [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_48)]
+- Wavelet-Enhanced Coarse-to-Fine Radiology Report Generation with Large Language Models [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38062-3_62)]
 
 **ECCV'26**
 - Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation [[paper](https://arxiv.org/pdf/2608.08494)]
@@ -253,6 +255,7 @@ We collect existing papers on radiology report generation that have been publish
 - Unsupervised Contrastive Refinement with Graph-Aware Multimodal Interaction for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11420997)][[code](https://github.com/adaydar/MedCARF)]
 - Uncertainty-Aware Cross-Modal Retrieval for Medical Report Generation [[paper](https://ieeexplore.ieee.org/document/11440925)][[code](https://github.com/Zhounan1222/U-CAR)]
 - A Prompt-Guided Vision-Language Framework for Interpretable and Region-Aware Disease Diagnosis in Chest X-rays [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11488862)]
+- Integrating Clinically-Aligned Chain-of-Thought Reasoning for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11703917)]
 
 **IEEE Transactions on Radiation and Plasma Medical Sciences'26**
 - CFCM-Gen:Cross-modal Feature Co-optimization Mechanism for 3D Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11498522)]
@@ -401,6 +404,7 @@ We collect existing papers on radiology report generation that have been publish
 - Error Detection for PET/CT Radiology Reports: Domain-Specific vs Large Language Models [[paper](https://arxiv.org/pdf/2608.30021)]
 - Concept-Grounded Reasoning with Prompt-Driven Localization for Interpretable Structured Report Generation [[paper](https://arxiv.org/pdf/2609.15334)]
 - MAC-RRG: Iterative Multi-Agent Collaboration for X-ray Radiology Report Generation [[paper](https://arxiv.org/pdf/2609.26124)]
+- PACER: Progressive Availability-Conditioned Evidence Routing for Radiology Report Generation under Incomplete Clinical Context [[paper](https://arxiv.org/abs/2609.34487)]
  
 ---
 
