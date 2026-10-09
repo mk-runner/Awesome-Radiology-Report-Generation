@@ -166,6 +166,7 @@ We collect existing papers on radiology report generation that have been publish
 - Hierarchical Memory for Radiology Report Generation with Rich Context [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_20)][[code](https://github.com/QingyueJ-nd/HM-RRG)]
 - Reformulating Chest X-Ray Report Generation as Fine-Grained Visual Question Answering with Structured Clinical Report Templates [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_48)]
 - Wavelet-Enhanced Coarse-to-Fine Radiology Report Generation with Large Language Models [[paper](https://link.springer.com/chapter/10.1007/978-3-032-38062-3_62)]
+- Clinical Reliability in Multilingual Chest X-ray Report Generation [[paper](https://papers.miccai.org/miccai-2026-sat/paper/ELAMI_009.pdf)]
 
 **ECCV'26**
 - Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation [[paper](https://arxiv.org/pdf/2608.08494)]
