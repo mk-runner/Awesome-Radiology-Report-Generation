@@ -124,7 +124,8 @@ We collect existing papers on radiology report generation that have been publish
 - Rethinking Whole-Body CT Image Interpretation: An Abnormality-Centric Approach [[paper](https://arxiv.org/abs/2506.03238)][[code](https://github.com/zhaoziheng/OmniAbnorm-CT)]
 - Teresa: Uncertainty-Aware Generalizable Chest X-ray Report Generation and Disease Classification (**Workshop**) [[paper](https://openaccess.thecvf.com/content/CVPR2026W/DG-EBF/papers/Ullah_Teresa_Uncertainty-Aware_Generalizable_Chest_X-ray_Report_Generation_and_Disease_Classification_CVPRW_2026_paper.pdf)]
 - Multimodal for Cervical Cancer Histopathology Classification and Automated Diagnostic Report Generation (**Workshop**) [[paper](https://openaccess.thecvf.com/content/CVPR2026W/CVMI/papers/Nakasi_Multimodal_for_Cervical_Cancer_Histopathology_Classification_and_Automated_Diagnostic_Report_CVPRW_2026_paper.pdf)]
-- MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images [[paper](https://arxiv.org/pdf/2602.06965)][code](https://github.com/genmilab/MedMO)]    
+- MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images [[paper](https://arxiv.org/pdf/2602.06965)][code](https://github.com/genmilab/MedMO)]
+- Delrer: Disease Evolution-Informed Longitudinal Radiology Report Generation (**Findings**) [[paper](https://ieeexplore.ieee.org/document/11697753)]
 
 **ACL'26**
 - Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework [[paper](https://arxiv.org/pdf/2604.18145v1)][[code](https://github.com/Etdihatthoc/VietPET-RoI_ACL2026)]
