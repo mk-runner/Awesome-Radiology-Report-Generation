@@ -266,6 +266,9 @@ We collect existing papers on radiology report generation that have been publish
 **IEEE Internet of Things Journal'26**
 - Category-Guided Vision-Language Model for IoMT-Enabled Medical Report Generation under Heterogeneous Imaging Data [[paper](https://ieeexplore.ieee.org/abstract/document/11550053)]
 
+**PR'26**
+- R3-Gen: Enhancing medical report generation with reasoning-reinforced fine-tuning [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326020753)]
+
 **Information Fusion'26**
 - AI-Assisted Synthetic Medical Report Generation using Radiomic Feature Correlation-based PCA Scores of Multimodal Data for Dementia Progression [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002484)]
 - CX-Mind: A Pioneering Multimodal Large Language Model for Interleaved Reasoning in Chest X-ray via Curriculum-Guided Reinforcement Learning [[paper](https://arxiv.org/abs/2508.03733)][[code](https://github.com/SII-WenjieLisjtu/CX-Mind)]
@@ -299,6 +302,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **Neurocomputing'26**
 - Medical report generation via knowledge distill and medical keywords [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226012208)]
+- Causal multimodal deconfounding for medical report generation [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226027463)]
 
 **arXiv'26**
 - VolumeVision: A 2.5D Hierarchical Architecture for Efficient Automated Reporting of Chest CT Volumes [[paper](https://assets.tina.io/1fb09d03-9237-4c49-aaa9-d024a83c7ac7/VolumeVision.pdf)]
@@ -407,6 +411,8 @@ We collect existing papers on radiology report generation that have been publish
 - Concept-Grounded Reasoning with Prompt-Driven Localization for Interpretable Structured Report Generation [[paper](https://arxiv.org/pdf/2609.15334)]
 - MAC-RRG: Iterative Multi-Agent Collaboration for X-ray Radiology Report Generation [[paper](https://arxiv.org/pdf/2609.26124)]
 - PACER: Progressive Availability-Conditioned Evidence Routing for Radiology Report Generation under Incomplete Clinical Context [[paper](https://arxiv.org/abs/2609.34487)]
+- Efficient Multi-Granularity Knowledge Transfer for Radiology Report Generation [[paper](/https://arxiv.org/pdf/2610.11303)]
+- Pre-training, Reasoning, Benchmarking: X-ray Report Generation on CheXpert Plus Dataset [[paper](https://arxiv.org/pdf/2610.08813)]
  
 ---
 
