@@ -132,6 +132,7 @@ We collect existing papers on radiology report generation that have been publish
 - Multimodal Dual-Path Large-Model Decoding for Radiology Report Generation [[paper](https://aclanthology.org/2026.findings-acl.1997.pdf)]
 - CPR-RAG: Clinical Prior-guided Retrieval-Augmented Generation for CT Report Generation [[paper](https://aclanthology.org/2026.acl-long.1411.pdf)][[code](https://github.com/Gyuang/cpr-rag)]
 - MI-CXR: A Benchmark for Longitudinal Reasoning over Multi-Interval Chest X-rays [[paper](https://arxiv.org/pdf/2605.15574v1)][[code](https://github.com/AIDASLab/MI-CXR)]
+- Looking at Radiology Report Generation through a Causal Lens: A Survey [[paper](https://aclanthology.org/2026.acl-long.186.pdf)]
   
 
 **AAAI'26**
@@ -1062,6 +1063,7 @@ ICCV'23
 - Automatic radiology report generation: a systematic review of emerging AI architectures and multimodal technologies (**Artificial Intelligence Review'26**)  [[paper](https://link.springer.com/article/10.1007/s10462-026-11556-z)]
 - Automated Radiology Report Generation: A Comprehensive Review (**ESWA'26**) [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426022293)]
 - A review of longitudinal radiology report generation: Dataset composition, methods, and performance evaluation (**MedIA'26**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841526003737?via%3Dihub)]
+- Looking at Radiology Report Generation through a Causal Lens: A Survey (**ACL'26**) [[paper](https://aclanthology.org/2026.acl-long.186.pdf)]
 
 ## Dataset
 - MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs (**MIMIC-CXR**)  [[paper](https://arxiv.org/abs/1901.07042)][[data](https://physionet.org/content/mimic-cxr/2.0.0/)].
