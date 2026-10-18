@@ -1061,6 +1061,7 @@ ICCV'23
 - A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation [[paper](https://arxiv.org/pdf/2510.12444v1)]
 - Automatic radiology report generation: a systematic review of emerging AI architectures and multimodal technologies (**Artificial Intelligence Review'26**)  [[paper](https://link.springer.com/article/10.1007/s10462-026-11556-z)]
 - Automated Radiology Report Generation: A Comprehensive Review (**ESWA'26**) [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426022293)]
+- A review of longitudinal radiology report generation: Dataset composition, methods, and performance evaluation (**MedIA'26**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841526003737?via%3Dihub)]
 
 ## Dataset
 - MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs (**MIMIC-CXR**)  [[paper](https://arxiv.org/abs/1901.07042)][[data](https://physionet.org/content/mimic-cxr/2.0.0/)].
