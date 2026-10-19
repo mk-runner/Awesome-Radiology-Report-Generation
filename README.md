@@ -127,6 +127,9 @@ We collect existing papers on radiology report generation that have been publish
 - MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images [[paper](https://arxiv.org/pdf/2602.06965)][code](https://github.com/genmilab/MedMO)]
 - Delrer: Disease Evolution-Informed Longitudinal Radiology Report Generation (**Findings**) [[paper](https://ieeexplore.ieee.org/document/11697753)]
 
+**NIPS'26**
+- SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation [[paper](https://arxiv.org/abs/2605.24371)][[code](https://github.com/synlp/SliceWorld/tree/main)]
+
 **ACL'26**
 - Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework [[paper](https://arxiv.org/pdf/2604.18145v1)][[code](https://github.com/Etdihatthoc/VietPET-RoI_ACL2026)]
 - Multimodal Dual-Path Large-Model Decoding for Radiology Report Generation [[paper](https://aclanthology.org/2026.findings-acl.1997.pdf)]
