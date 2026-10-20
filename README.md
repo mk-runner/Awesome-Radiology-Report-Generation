@@ -418,6 +418,7 @@ We collect existing papers on radiology report generation that have been publish
 - PACER: Progressive Availability-Conditioned Evidence Routing for Radiology Report Generation under Incomplete Clinical Context [[paper](https://arxiv.org/abs/2609.34487)]
 - Efficient Multi-Granularity Knowledge Transfer for Radiology Report Generation [[paper](/https://arxiv.org/pdf/2610.11303)]
 - Pre-training, Reasoning, Benchmarking: X-ray Report Generation on CheXpert Plus Dataset [[paper](https://arxiv.org/pdf/2610.08813)]
+- A World Model of Radiologist Reading for Medical Image Representation Learning [[paper](https://arxiv.org/pdf/2605.23992)][[code](https://github.com/levyisthebest/gazeworld)]
  
 ---
 
