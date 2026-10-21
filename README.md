@@ -136,6 +136,7 @@ We collect existing papers on radiology report generation that have been publish
 - CPR-RAG: Clinical Prior-guided Retrieval-Augmented Generation for CT Report Generation [[paper](https://aclanthology.org/2026.acl-long.1411.pdf)][[code](https://github.com/Gyuang/cpr-rag)]
 - MI-CXR: A Benchmark for Longitudinal Reasoning over Multi-Interval Chest X-rays [[paper](https://arxiv.org/pdf/2605.15574v1)][[code](https://github.com/AIDASLab/MI-CXR)]
 - Looking at Radiology Report Generation through a Causal Lens: A Survey [[paper](https://aclanthology.org/2026.acl-long.186.pdf)]
+- CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation [[paper](https://aclanthology.org/2026.acl-long.2038/)]
   
 
 **AAAI'26**
