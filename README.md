@@ -85,6 +85,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **Nature Biomedical Engineering'26**
 - A multimodal vision–language model for generalizable annotation-free pathology localization [[paper](https://github.com/YH0517/AFLoc)]
+- CLEAR: an auditable foundation model for radiology grounded in clinical concepts [[paper](https://www.nature.com/articles/s41551-026-01741-4)][[code](https://github.com/peterhan91/CLEAR)]
 
 **Nature Communications'26**
 - Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning [[paper](https://www.nature.com/articles/s41467-026-76076-4)]
@@ -431,6 +432,9 @@ We collect existing papers on radiology report generation that have been publish
 
 **Nature Medicine'25**
 - A generalist medical language model for disease diagnosis assistance [[paper](https://www.nature.com/articles/s41591-024-03416-6)][[code](https://github.com/medfound/medfound)]
+
+**Nature Biomedical Engineering'25**
+- A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization [[paper](https://www.nature.com/articles/s41551-025-01456-y)]
 
 **Nature Communications'25**
 - Towards a holistic framework for multimodal LLM in 3D brain CT radiology report generation [[paper](https://www.nature.com/articles/s41467-025-57426-0)]
