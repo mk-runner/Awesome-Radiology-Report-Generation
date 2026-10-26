@@ -130,6 +130,11 @@ We collect existing papers on radiology report generation that have been publish
 
 **NIPS'26**
 - SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation [[paper](https://arxiv.org/abs/2605.24371)][[code](https://github.com/synlp/SliceWorld/tree/main)]
+- Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning [[paper](https://neurips.cc/virtual/2026/loc/atlanta/poster/148935)]
+- Look Before You Leap: Self-Evolving Clinical Reasoning with Psychometric Preference Optimization for Radiology Report Generation [[paper](https://neurips.cc/virtual/2026/loc/sydney/poster/154029)]
+- Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2608.05341)]
+- Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation [[paper](https://arxiv.org/pdf/2609.19093)]
+
 
 **ACL'26**
 - Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework [[paper](https://arxiv.org/pdf/2604.18145v1)][[code](https://github.com/Etdihatthoc/VietPET-RoI_ACL2026)]
