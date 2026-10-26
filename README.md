@@ -141,6 +141,7 @@ We collect existing papers on radiology report generation that have been publish
 - Look Before You Leap: Self-Evolving Clinical Reasoning with Psychometric Preference Optimization for Radiology Report Generation [[paper](https://neurips.cc/virtual/2026/loc/sydney/poster/154029)]
 - Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2608.05341)]
 - Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation [[paper](https://arxiv.org/pdf/2609.19093)]
+- A World Model of Radiologist Reading for Medical Image Representation Learning [[paper](https://arxiv.org/abs/2605.23992)][[code](https://github.com/levyisthebest/gazeworld)]
 
 
 **ACL'26**
