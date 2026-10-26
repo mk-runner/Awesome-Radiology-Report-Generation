@@ -42,6 +42,7 @@ We collect existing papers on radiology report generation that have been publish
 
 - [Foundation Models for Medicine](#Foundation-Models-for-Medicine)
 - [Papers](#papers)
+  - [2027](#2027)
   - [2026](#2026)
   - [2025](#2025)
   - [2024](#2024)
@@ -79,6 +80,12 @@ We collect existing papers on radiology report generation that have been publish
 
 
 ## Papers
+### 2027
+**WACV'27**
+- CPVB-RG: Cross-Prior Visual Bridging for Prior-Aware Chest X-Ray Report Generation [[paper](https://arxiv.org/pdf/2610.28289)][[code](https://github.com/thico0224/CPVB-RG)]
+
+---
+
 ### 2026
 **Nature'26**
 - Merlin: A Computed Tomography Vision–Language Foundation Model and Dataset [[paper](https://www.nature.com/articles/s41586-026-10181-8)][[code](https://github.com/StanfordMIMI/Merlin)]
@@ -427,6 +434,7 @@ We collect existing papers on radiology report generation that have been publish
 - Pre-training, Reasoning, Benchmarking: X-ray Report Generation on CheXpert Plus Dataset [[paper](https://arxiv.org/pdf/2610.08813)]
 - A World Model of Radiologist Reading for Medical Image Representation Learning [[paper](https://arxiv.org/pdf/2605.23992)][[code](https://github.com/levyisthebest/gazeworld)]
 - SCCL-DT: Semantic-Conflict-Aware Contrastive Learning with Dual-Rule Teacher Distillation for Zero-Shot Chest X-Ray Diagnosis [[paper](https://arxiv.org/pdf/2610.22094)]
+
  
 ---
 
