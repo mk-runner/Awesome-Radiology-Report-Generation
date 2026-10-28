@@ -197,6 +197,19 @@ We collect existing papers on radiology report generation that have been publish
 - DiffVP: Differential Visual Semantic Prompting for LLM-Based CT Report Generation [[paper](https://eccv.ecva.net/virtual/2026/poster/5024)][[code](https://github.com/ArielTYH/DiffVP/)]
 - Seeing What Matters: Lesion-Aware High-Resolution Patch Discovery and Fusion for Chest X-ray Report Generation [[paper](https://eccv.ecva.net/virtual/2026/poster/5225)]
 
+**EMNLP'26**
+- OmniV-Med: A Scalable Training Recipe for Unified Medical Vision-Language Understanding [[paper](https://aclanthology.org/2026.emnlp-main.275/)][[code](https://aclanthology.org/2026.emnlp-main.275/)]
+- TIA-VL: Diagnosing and Correcting Template-Induced Ambiguity in Medical Vision-Language Decisions [[paper](https://aclanthology.org/2026.findings-emnlp.538.pdf)]
+- Reformulating Radiology Report Error Detection as Sentence-Level Vision-Language Learning [[paper](https://aclanthology.org/2026.findings-emnlp.2295.pdf)]
+- Learning Pathology-Localized Medical Vision-Language Representations with Atomic and Grounded Disease Supervision [[paper](https://github.com/raymondsim/LocalizedCXR/)]
+- MedSPA: Self-planning Medical Agents [[paper](https://aclanthology.org/2026.emnlp-main.1368.pdf)]
+- SeMLI-RAG: Semantics-Guided Multimodal Late Interaction for Retrieval-Augmented Radiology Report Generation [[paper](https://aclanthology.org/2026.emnlp-main.2379.pdf)]
+- HEMP: Hierarchical Entity-aligned Memory Prompting for CT Report Generation [[paper](https://aclanthology.org/2026.emnlp-main.1545.pdf)]
+- Escaping the Frequent Finding Shortcut: Pathology-Aware Curriculum Learning for Radiology Report Generation [[paper](https://aclanthology.org/2026.findings-emnlp.688.pdf)]
+- CONDISTILL: Asymmetric Context Self-Distillation for Radiology Report Generation [[paper](https://aclanthology.org/2026.emnlp-main.937.pdf)]
+- H2-MRG: Hierarchical Heterogeneous Graph-Based Medical Report Generation with Fine-Grained Disease-Specific Modeling [[paper](https://aclanthology.org/2026.findings-emnlp.2374.pdf)]
+
+
 **IJCAI'26**
 - PDD-RRG: Posterior Diagnostic Decision for Study-level Radiology Report Generation [[paper](https://arxiv.org/pdf/2608.03055)]
 - ClinAlign: Clinical Workflow Aligned Memory Retrieval for Radiology Report Generation [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/3193.pdf)]
