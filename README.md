@@ -142,6 +142,7 @@ We collect existing papers on radiology report generation that have been publish
 - Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation [[paper](https://arxiv.org/abs/2608.05341)]
 - Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation [[paper](https://arxiv.org/pdf/2609.19093)]
 - A World Model of Radiologist Reading for Medical Image Representation Learning [[paper](https://arxiv.org/abs/2605.23992)][[code](https://github.com/levyisthebest/gazeworld)]
+- EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2606.06379)][[code](https://github.com/wanghao1118/EasyLens)]
 
 
 **ACL'26**
