@@ -267,6 +267,7 @@ We collect existing papers on radiology report generation that have been publish
 - RADAR: A Difference-Aware Retrieval with Organ-Level Alignment for Change Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11603839)]
 - CXRAgent: Director-Orchestrated Multi-Stage Reasoning for Chest X-Ray Interpretation [[paper](https://ieeexplore.ieee.org/abstract/document/11611226)][[code](https://github.com/laojiahuo2003/CXRAgent/)]
 - Comorbidity-Aware Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11698668/)]
+- C3E-RRG:Confounder-Aware Causal Evidence Coupling and Evolution for Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11770403)]
 
 **TIP'26**
 - MedCure: Medical Data Curation for Efficient Vision–Language Pretraining [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11689675)][[code](https://github.com/sendyma/MedCure)]
