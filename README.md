@@ -229,7 +229,7 @@ We collect existing papers on radiology report generation that have been publish
 - From ECG Signals to Diagnostic Reports: A Unified Framework with Multimodal Encoder and Fine-Tuned LLM for Automated Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11462928)]
 
 **CIKM'26**
-- DAMEC: Disease-Aware Multi-Expert Consensus Framework for Study-Level Radiology Report Generation [[code](https://github.com/mjy8086/DAMEC)]
+- DAMEC: Disease-Aware Multi-Expert Consensus Framework for Study-Level Radiology Report Generation [[paper](https://dl.acm.org/doi/abs/10.1145/3799682.3841082)][[code](https://github.com/mjy8086/DAMEC)]
 
 
 **BMVC'26**
