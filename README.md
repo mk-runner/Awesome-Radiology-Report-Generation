@@ -173,6 +173,8 @@ We collect existing papers on radiology report generation that have been publish
 **ACMMM'26**
 - HarMoE: Multi-Source Chest Radiograph Pretraining with Dataset-Disentangled Experts [[paper](https://arxiv.org/pdf/2608.02252)][[code](https://github.com/Roypic/harmoe)]
 - HINT-RAG: Hypothesis-Contrastive Differentiable Retrieval Augmented Generation for Medical Image Report Generation [[paper](https://dl.acm.org/doi/abs/10.1145/3767308.3836507)]
+- ProAlign: Anatomically Aligned Progression Modeling for Longitudinal Chest X-ray Report Generation [[paper](https://dl.acm.org/doi/abs/10.1145/3767308.3835700)]
+- VITAL: Longitudinal Representation Learning for Chest Radiographs via Anatomy-aware Temporal Modeling [[paper](https://dl.acm.org/doi/abs/10.1145/3767308.3836225)]
 
 **WWW'26**
 - MGK-RAG: Multi-Granularity Knowledge Guided Retrieval-Augmented Generation for Radiology Report [[paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792924)]
