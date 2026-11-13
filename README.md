@@ -143,6 +143,7 @@ We collect existing papers on radiology report generation that have been publish
 - Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation [[paper](https://arxiv.org/pdf/2609.19093)]
 - A World Model of Radiologist Reading for Medical Image Representation Learning [[paper](https://arxiv.org/abs/2605.23992)][[code](https://github.com/levyisthebest/gazeworld)]
 - EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2606.06379)][[code](https://github.com/wanghao1118/EasyLens)]
+- GLINT: Sparsely Gated Vision-Language Alignment for Fine-Grained Radiology Representations [[paper](https://arxiv.org/pdf/2606.03180)][[code](https://github.com/deepnoid-ai/GLINT)]
 
 
 **ACL'26**
