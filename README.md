@@ -455,6 +455,7 @@ We collect existing papers on radiology report generation that have been publish
 - A World Model of Radiologist Reading for Medical Image Representation Learning [[paper](https://arxiv.org/pdf/2605.23992)][[code](https://github.com/levyisthebest/gazeworld)]
 - SCCL-DT: Semantic-Conflict-Aware Contrastive Learning with Dual-Rule Teacher Distillation for Zero-Shot Chest X-Ray Diagnosis [[paper](https://arxiv.org/pdf/2610.22094)]
 - Diagnostic Loss: Asymmetric Supervision for Radiology Report Generation [[paper](https://arxiv.org/pdf/2610.30980)][[code](https://github.com/gmum/DLoss)]
+- TransXplainRRG: A Radiologist-Evaluated LVLM for Chest Radiograph Report Generation [[paper](https://arxiv.org/pdf/2611.16393)]
 
  
 ---
