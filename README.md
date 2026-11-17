@@ -96,6 +96,7 @@ We collect existing papers on radiology report generation that have been publish
 
 **Nature Communications'26**
 - Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning [[paper](https://www.nature.com/articles/s41467-026-76076-4)]
+- Scaling medical imaging report generation with multimodal reinforcement learning [[paper](https://www.nature.com/articles/s41467-026-78767-4)][[checkpoint](https://huggingface.co/microsoft/UniRG-CXR/tree/main)]
 
 **npj Digital Medicine'26**
 - Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models [[paper](https://www.nature.com/articles/s41746-025-02300-y)]
