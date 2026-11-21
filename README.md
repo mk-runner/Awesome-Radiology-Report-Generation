@@ -273,6 +273,7 @@ We collect existing papers on radiology report generation that have been publish
 - CXRAgent: Director-Orchestrated Multi-Stage Reasoning for Chest X-Ray Interpretation [[paper](https://ieeexplore.ieee.org/abstract/document/11611226)][[code](https://github.com/laojiahuo2003/CXRAgent/)]
 - Comorbidity-Aware Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11698668/)]
 - C3E-RRG:Confounder-Aware Causal Evidence Coupling and Evolution for Chest X-Ray Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11770403)]
+- Generalised Medical Phrase Grounding [[paper](https://arxiv.org/abs/2512.01085)][[code](https://github.com/aehrc/MedGrounder/tree/main)]
 
 **TIP'26**
 - MedCure: Medical Data Curation for Efficient Vision–Language Pretraining [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11689675)][[code](https://github.com/sendyma/MedCure)]
