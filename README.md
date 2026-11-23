@@ -458,6 +458,7 @@ We collect existing papers on radiology report generation that have been publish
 - SCCL-DT: Semantic-Conflict-Aware Contrastive Learning with Dual-Rule Teacher Distillation for Zero-Shot Chest X-Ray Diagnosis [[paper](https://arxiv.org/pdf/2610.22094)]
 - Diagnostic Loss: Asymmetric Supervision for Radiology Report Generation [[paper](https://arxiv.org/pdf/2610.30980)][[code](https://github.com/gmum/DLoss)]
 - TransXplainRRG: A Radiologist-Evaluated LVLM for Chest Radiograph Report Generation [[paper](https://arxiv.org/pdf/2611.16393)]
+- Grounding Radiology Reports in 3D Chest CT: Results of the ReXGrounding Challenge [[paper](https://arxiv.org/pdf/2611.23862)]
 
  
 ---
